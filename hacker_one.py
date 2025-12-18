@@ -138,7 +138,7 @@ if __name__ == "__main__":
 
 
             # 新增资产
-            yesterday_file_path = Path(f"../assets/{handle}/{asset_type.lower()}.txt")
+            yesterday_file_path = Path(f"./assets/{handle}/{asset_type.lower()}.txt")
             if yesterday_file_path.exists():  # 和过去的相比较
                 with open(yesterday_file_path, "r", encoding="utf-8") as f:
                     yesterday_assets = [i.split("\n")[0] for i in f.readlines()]
@@ -158,7 +158,7 @@ if __name__ == "__main__":
             else:
                 send_feishu_alert(WEBHOOK_URL, handle, asset_type, today_assets, "新增")
 
-            filename = f"../assets/{handle}/{asset_type.lower()}.txt"
+            filename = f"./assets/{handle}/{asset_type.lower()}.txt"
             with open(filename, "w", encoding="utf-8") as f:
                 for item in today_assets:
                     f.write(item + "\n")
@@ -175,7 +175,7 @@ if __name__ == "__main__":
 
     for asset_type, items in total_grouped.items():
 
-        today_total_file_path = f"../total_assets/{asset_type.lower()}.txt"
+        today_total_file_path = f"./total_assets/{asset_type.lower()}.txt"
 
         with open(today_total_file_path, "w", encoding="utf-8") as f:
             for item in items:
