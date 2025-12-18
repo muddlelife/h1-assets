@@ -3,7 +3,7 @@ name: Daily Update HackerOne Src Asset
 on:
   push:
     branches:
-      - test-actions
+      - main
   schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
