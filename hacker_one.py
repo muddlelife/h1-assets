@@ -116,11 +116,13 @@ if __name__ == "__main__":
                         "asset_identifier": asset_identifier,  # 资产信息
                     }
                 )
-                total_assets.append({
+                total_assets.append(
+                    {
                         "handle": handle,  # 项目
                         "asset_type": asset_type,  # 资产类型
                         "asset_identifier": asset_identifier,  # 资产信息
-                    })
+                    }
+                )
 
         # 保存赏金资产，根据key的不同保存资产
         grouped = defaultdict(list)
@@ -135,7 +137,6 @@ if __name__ == "__main__":
 
             for item in items:
                 today_assets.append(item.get("asset_identifier"))
-
 
             # 新增资产
             yesterday_file_path = Path(f"./assets/{handle}/{asset_type.lower()}.txt")
@@ -163,9 +164,6 @@ if __name__ == "__main__":
                 for item in today_assets:
                     f.write(item + "\n")
 
-
-
-
     # 最后对总的资产进行分类保存
     total_grouped = defaultdict(list)
 
@@ -180,4 +178,3 @@ if __name__ == "__main__":
         with open(today_total_file_path, "w", encoding="utf-8") as f:
             for item in items:
                 f.write(item.get("asset_identifier") + "\n")
-

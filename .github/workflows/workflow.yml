@@ -8,6 +8,9 @@ on:
     - cron: '0 12 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -32,10 +35,12 @@ jobs:
       run: python hacker_one.py
 
     - name: Commit and Push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         echo $(date +'%Y%m%d') > date.txt
         git add .
-        git config --local user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+        git config --local user.email "${{ github.actor }}@users.noreply.github.com"
         git config --local user.name "${{ github.actor }}"
-        git commit -am "chore: auto-update on $(date +'%Y%m%d')"
-        git push
+        git commit -am "chore: auto-update on $(date +'%Y%m%d')" || echo "Nothing to commit"
+        git push "https://${{ github.actor }}:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }}
