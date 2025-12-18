@@ -1,0 +1,4 @@
+*.boredapeyachtclub.com
+*.yuga.com
+*.yugalabs.io
+*.otherside.xyz

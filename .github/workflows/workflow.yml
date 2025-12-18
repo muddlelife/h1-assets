@@ -1,0 +1,41 @@
+name: Daily Update HackerOne Src Asset
+
+on:
+  push:
+    branches:
+      - test-actions
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Requests
+      run: pip install -r requirements.txt
+
+    - name: Get HackerOne assets
+      env:
+        HACKERONE_API_TOKEN: ${{ secrets.HACKERONE_API_TOKEN }}
+        HACKERONE_USERNAME: ${{ secrets.HACKERONE_USERNAME }}
+        FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+      run: python hacker_one.py
+
+    - name: Commit and Push changes
+      run: |
+        echo $(date +'%Y%m%d') > date.txt
+        git add .
+        git config --local user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+        git config --local user.name "${{ github.actor }}"
+        git commit -am "chore: auto-update on $(date +'%Y%m%d')"
+        git push

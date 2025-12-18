@@ -1,0 +1,21 @@
+Beats - Auditbeat
+Beats - Filebeat
+Beats - Heartbeat
+Beats - Metricbeat
+Beats - Packetbeat
+Beats - Winlogbeat
+Elastic Agent
+Elastic Cloud Enterprise (ECE)
+Elastic Cloud on Kubernetes (ECK)
+Elastic Enterprise Search
+Elastic Maps Server
+Elasticsearch
+Logstash
+Observability - APM Agents
+Observability - APM Server
+Fleet Server
+Kibana
+Beats
+Elastic Defend
+Beats - Osquerybeat
+Elastic Distributions of OpenTelemetry (EDOT)

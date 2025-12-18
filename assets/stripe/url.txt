@@ -1,0 +1,9 @@
+api.stripe.com
+*.stripe.com
+js.stripe.com
+api.taxjar.com
+app.taxjar.com
+*.recko.io
+*.reckoproduction.com
+*.reckostaging.com
+*.link.co

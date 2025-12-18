@@ -1,0 +1,2 @@
+*.okx.com
+*.oklink.com

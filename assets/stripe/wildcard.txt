@@ -1,0 +1,2 @@
+*.lemonsqueezy.com
+*.bridge.xyz

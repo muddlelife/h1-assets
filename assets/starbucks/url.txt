@@ -1,0 +1,6 @@
+www.starbucksreserve.com
+www.starbucks.ca
+www.starbucks.com
+app.starbucks.com
+openapi.starbucks.com
+secureui.starbucks.com

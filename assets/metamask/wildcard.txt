@@ -1,0 +1,2 @@
+https://*.metamask.io
+*.api.cx.metamask.io

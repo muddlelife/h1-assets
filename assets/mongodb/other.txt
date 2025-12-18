@@ -1,0 +1,20 @@
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing

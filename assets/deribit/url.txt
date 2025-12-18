@@ -1,0 +1,3 @@
+test.deribit.com
+insights.deribit.com
+pb.deribit.com

@@ -1,0 +1,7 @@
+*.elastic.co
+*.found.io
+*.swiftype.com
+*.elstc.co
+*.elasticnet.co
+*.eops.nl
+*.elastic.dev

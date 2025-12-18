@@ -1,0 +1,4 @@
+*.fanduel.com
+*.mgmt.fndlsb.net
+*.prd.fndlsb.net
+*inf.fndlsb.net

@@ -1,0 +1,6 @@
+winecellar.zomato.com
+api.grofers.com
+api2.grofers.com
+blinkit.com
+bistro-api.blinkit.com
+https://mcp-server.zomato.com/mcp

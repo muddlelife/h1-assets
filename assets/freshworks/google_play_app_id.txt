@@ -1,0 +1,5 @@
+com.freshservice.helpdesk
+com.freshdesk.helpdesk
+com.freshchat.agent.android
+com.freshworks.freshcaller
+com.freshservice.helpdesk.intune

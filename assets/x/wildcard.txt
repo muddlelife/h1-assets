@@ -1,0 +1,7 @@
+*.twitter.com
+*.vine.co
+*.twimg.com
+*.x.ai
+*.x.com
+*.grok.com
+*.twitter.biz

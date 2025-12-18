@@ -1,0 +1,2 @@
+com.exness.investments
+com.exness.android.pa

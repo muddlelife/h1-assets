@@ -1,0 +1,4 @@
+assets.spotify.com
+backstage.io
+api.spotify.com
+https://www.whosampled.com/

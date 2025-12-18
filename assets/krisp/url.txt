@@ -1,0 +1,8 @@
+krisp.ai
+account.krisp.ai
+api.krisp.ai
+teams.krisp.ai
+download.krisp.ai
+analytics.krisp.ai
+upld.krisp.ai
+app.krisp.ai

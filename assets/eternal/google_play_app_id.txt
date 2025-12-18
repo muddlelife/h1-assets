@@ -1,0 +1,4 @@
+com.application.zomato
+com.grofers.customerapp
+com.blinkit.bistro
+com.application.zomato.district

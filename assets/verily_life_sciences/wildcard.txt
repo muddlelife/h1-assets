@@ -1,0 +1,4 @@
+https://*.verily.com/
+https://*.projectbaseline.com/
+https://*.signalpath.com/
+https://*.verilyme.com/

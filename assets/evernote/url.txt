@@ -1,0 +1,3 @@
+www.evernote.com
+accounts.evernote.com
+api.evernote.com

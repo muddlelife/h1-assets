@@ -1,0 +1,9 @@
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/kotlin-sdk
+lightsparkdev/js-sdk
+lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+https://github.com/buildonspark/spark
+https://github.com/buildonspark/lrc20

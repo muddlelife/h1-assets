@@ -1,0 +1,9 @@
+*.vrbo.com
+*.carrentals.com
+*.wotif.com
+*.cheaptickets.com
+*.lastminute.co.nz
+*.lastminute.com.au
+*.travelocity.com
+*.travelocity.ca
+*.expediapartnercentral.com

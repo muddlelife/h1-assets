@@ -1,0 +1,7 @@
+*.semrush.com
+*.semrush.net
+*.seoquake.com
+*.seoab.io
+*.scatec.io
+*.sellzone.com
+*.myinsights.io
