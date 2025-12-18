@@ -1,4 +1,6 @@
 hackerone.com
+api.hackerone.com
+www.hackerone.com
 https://*.hackerone-user-content.com/
 errors.hackerone.net
 https://*.hackerone-ext-content.com
