@@ -86,7 +86,6 @@ if __name__ == "__main__":
             open_handles.append(handle)
             folder = Path("./assets/{}".format(handle))
             folder.mkdir(parents=True, exist_ok=True)
-            break
 
     # 开启的项目进行资产保存
     for handle in open_handles:
