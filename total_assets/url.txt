@@ -558,6 +558,9 @@ app.localizestaging.com
 portswigger.net
 ai.portswigger.net
 http1mustdie.com
+collections.portswigger.net
+share.portswigger.net
+links.portswigger.net
 production.plaid.com
 dashboard.plaid.com
 demo.plaid.com
@@ -724,6 +727,7 @@ testnet.bitmex.com
 www.bitmex.com
 super6.skysports.com
 itv7.itv.com
+rafflee.co.uk
 databricks.com
 accounts.cloud.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com

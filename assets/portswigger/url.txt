@@ -1,3 +1,6 @@
 portswigger.net
 ai.portswigger.net
 http1mustdie.com
+collections.portswigger.net
+share.portswigger.net
+links.portswigger.net
