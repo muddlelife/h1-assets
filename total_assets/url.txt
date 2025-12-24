@@ -271,8 +271,6 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 kayak.ai
-moneybird.com
-moneybirdstorage.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/

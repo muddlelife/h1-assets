@@ -41,7 +41,6 @@ https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 com.airbnb.android
 com.kayak.android
-com.moneybird.android
 com.grabtaxi.passenger
 com.grabtaxi.driver2
 com.grabpay.merchant
