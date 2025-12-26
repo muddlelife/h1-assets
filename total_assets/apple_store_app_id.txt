@@ -298,7 +298,6 @@ Starbucks Japan iOS
 com.nbaimd.gametime.universal
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/us/app/verily-me/id6448808133
-https://apps.apple.com/us/app/onduo/id1138490045
 HubSpot iOS Mobile App
 id6472513080
 com.whoop.iphone

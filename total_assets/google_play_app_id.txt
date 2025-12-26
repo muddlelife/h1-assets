@@ -312,7 +312,6 @@ Starbucks Japan Android
 com.nbaimd.gametime.nba2011
 com.syfe
 https://play.google.com/store/apps/details?id=com.verily.me
-https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
 HubSpot Android Mobile App
 com.coloros.browser
 com.heytap.browser
