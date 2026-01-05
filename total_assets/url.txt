@@ -70,6 +70,7 @@ https://www.priceline.com/pwd/v0/pcln-graphql/
 gnip.com
 x.com
 grok.com
+chat.x.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
