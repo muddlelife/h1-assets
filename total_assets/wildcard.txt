@@ -75,7 +75,6 @@ munin-*.wordpress.org
 *.tospotify.com
 *.spotify.com
 *.spotify.net
-*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com
@@ -286,6 +285,9 @@ support*.earlywarning.com
 *.zelle.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
+*.gocardless.io,*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless.com
 *.web3factory.consensys.net
 *.exodus.io
 *.a.exodus.io

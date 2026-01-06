@@ -155,11 +155,8 @@ Leaked/Сompromised Employee accounts
 Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Blockchain
 NordVPN Browser Extension
 All Mobile Assets
-Geneva 
 Yoti Password Manager browser extension
 Malwarebytes Privacy (VPN)
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -207,6 +204,7 @@ Tier 2
 Tier 3
 All other Assets
 Core Assets
+bankaccountdata.gocardless.com
 Passkey Wallet
 https://www.amazonpay.in/*
 H5G

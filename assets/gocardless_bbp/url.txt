@@ -1,0 +1,9 @@
+www.gocardless.com
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+auth0.gocardless.com
+payer-details-sandbox.gocardless.com

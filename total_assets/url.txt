@@ -272,6 +272,8 @@ www.hotelscombined.com
 www.mundi.com.br
 business.kayak.com
 kayak.ai
+moneybird.com
+moneybirdstorage.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/
@@ -372,7 +374,6 @@ api2.grofers.com
 blinkit.com
 bistro-api.blinkit.com
 https://mcp-server.zomato.com/mcp
-https://signin-hackerone.hbstaging.website/
 poe.com
 *.goldmansachs.com
 *.gs.com
@@ -573,8 +574,6 @@ talk.brave.com
 account.brave.com
 cdna.lystit.com
 mobileapi.lystit.com
-nft.io
-platform.enjin.io
 try.discourse.org
 app.nordpass.com
 blox.link
@@ -616,6 +615,7 @@ gateway.geneva-staging.chat
 router.geneva-staging.com
 social.geneva-staging.com
 social.geneva-staging.chat
+app.geneva-staging.com
 core.yoti.com
 api.yoti.com
 ccloud.yoti.com
@@ -1105,6 +1105,15 @@ cloud.forescout.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
+www.gocardless.com
+manage-sandbox.gocardless.com
+pay-sandbox.gocardless.com
+api-sandbox.gocardless.com
+connect-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+auth0.gocardless.com
+payer-details-sandbox.gocardless.com
 staking.consensys.io
 https://consensys.io/
 larksuite.com

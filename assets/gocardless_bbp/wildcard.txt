@@ -1,0 +1,3 @@
+*.gocardless.io,*.gocardless-banking.io
+*.gocardless-cicd.io
+*.gocardless.com

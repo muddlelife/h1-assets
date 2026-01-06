@@ -4,6 +4,7 @@ Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
 funding-webhooks.remitly.io
 hub-api-sandbox.remitly.io
+https://ob-sandbox.gocardless.io
 faucet-api.polygon.technology/
 api-gateway.polygon.technology
 gasstation.polygon.technology/

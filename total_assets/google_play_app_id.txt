@@ -41,6 +41,7 @@ https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 com.airbnb.android
 com.kayak.android
+com.moneybird.android
 com.grabtaxi.passenger
 com.grabtaxi.driver2
 com.grabpay.merchant
@@ -83,7 +84,6 @@ com.acronis.abc
 com.brave.browser
 com.brave.browser_beta
 com.lyst.lystapp
-com.enjin.mobile.wallet
 com.nordvpn.android
 com.nordpass.android.app.password.manager
 Saily - Android

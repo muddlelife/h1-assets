@@ -1,4 +1,3 @@
-*.binary.com
 *.deriv.com
 *.deriv.cloud
 *.derivws.com

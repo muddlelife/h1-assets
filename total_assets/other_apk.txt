@@ -11,7 +11,7 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.android.browser
 com.nordvpn.android
-https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
+com.genevachat.staging
 FortniteClient-Android-Shipping-arm64-es2.apk
 com.larksuite.suite
 com.recordedfuture.mobile

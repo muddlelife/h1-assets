@@ -40,6 +40,7 @@ https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 com.airbnb.app
 com.luxuryretreats.ios
 com.kayak.travel
+com.moneybird.Moneybird
 647268330
 1257641454
 1343620481
@@ -81,16 +82,13 @@ com.peterandlinda.iOCNotes
 1192506963
 com.brave.ios.browser
 597940518
-com.enjin.mobile.wallet
 905953485
 1486322860
 Saily - iOS
 930441707
 351331194
 403684733
-com.badoo.hotornot
 6444040977
-1604650263
 983980808
 com.malwarebytes.Malwarebytes
 com.grammarly.keyboard
