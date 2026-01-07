@@ -290,7 +290,6 @@ https://apps.apple.com/us/app/3cx/id992045982
 1641486558
 Netflix Mobile Application for iOS
 https://apps.apple.com/app/chia-signer/id6504493785 
-https://apps.apple.com/de/app/my-porsche/id1559529059
 Klarna iOS App (com.klarna.app)
 Starbucks China iOS
 Starbucks Japan iOS

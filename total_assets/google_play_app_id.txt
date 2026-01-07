@@ -306,7 +306,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 com.audible.application
 com.einnovation.temu
 Netflix Mobile Application for Android
-https://play.google.com/store/apps/details?id=com.porsche.one
 Klarna Android App (com.myklarnamobile)
 Starbucks China Android
 Starbucks Japan Android
