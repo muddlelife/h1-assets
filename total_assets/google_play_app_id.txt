@@ -329,6 +329,7 @@ com.heytap.mall
 com.oppo.store
 company.thebrowser.arc
 com.whoop.android
+dif.tech.plata
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
