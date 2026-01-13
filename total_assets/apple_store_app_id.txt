@@ -82,6 +82,7 @@ com.peterandlinda.iOCNotes
 1192506963
 com.brave.ios.browser
 597940518
+com.enjin.mobile.wallet
 905953485
 1486322860
 Saily - iOS

@@ -1,2 +1,1 @@
 Superdrug.App.IOS
-com.recordedfuture.mobile

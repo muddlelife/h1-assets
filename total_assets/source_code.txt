@@ -119,16 +119,18 @@ https://github.com/brave-intl/publishers
 https://github.com/brave/vault-updater
 https://github.com/brave-intl/bat-go
 https://github.com/brave/*, https://github.com/brave-intl/*
+Enjin Indexer
 https://github.com/discourse/discourse
 https://github.com/nodejs/node
-https://github.com/rsksmart/rskj
-https://github.com/rsksmart/powpeg-node
-https://github.com/rsksmart/2wp-app
-https://github.com/rsksmart/2wp-api
-https://github.com/rsksmart/liquidity-provider-server
-https://github.com/rsksmart/liquidity-bridge-contract
-https://github.com/rsksmart/bridges-core-sdk
-https://github.com/rsksmart/flyover-sdk
+https://github.com/cosmos/iavl
+https://github.com/iqlusioninc/yubihsm.rs
+https://github.com/iqlusioninc/tmkms
+https://github.com/iqlusioninc/crates/tree/main/signatory
+https://github.com/cosmos/ledger-cosmos
+https://github.com/cosmos/gaia
+https://github.com/cosmos/ics23
+https://github.com/skip-mev/go-fast-contracts
+www.github.com/cosmos/evm
 https://github.com/pixiv/charcoal
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/chainlink

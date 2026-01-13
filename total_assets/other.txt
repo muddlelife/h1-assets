@@ -155,6 +155,8 @@ Leaked/Сompromised Employee accounts
 Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Blockchain
 NordVPN Browser Extension
 All Mobile Assets
 Yoti Password Manager browser extension
@@ -186,6 +188,15 @@ https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
 Other In-Scope Assets
 Databricks Free Edition
+CosmWasm
+Packet Forward Middleware
+CometBFT
+Cosmos SDK
+ibc-go
+Horcrux
+Hermes Relayer
+IBC Go Relayer
+Solidity IBC Eureka
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
 Crypto.com Wallet Extension

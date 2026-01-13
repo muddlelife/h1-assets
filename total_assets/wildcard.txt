@@ -561,4 +561,3 @@ https://*.api.konghq.com
 https://us.identity.konghq.com/*
 *.platacard.mx
 https://*.saytechnologies.com
-https://*.say.rocks

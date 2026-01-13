@@ -575,6 +575,8 @@ account.brave.com
 api-dashboard.search.brave.com
 cdna.lystit.com
 mobileapi.lystit.com
+nft.io
+platform.enjin.io
 try.discourse.org
 app.nordpass.com
 blox.link
@@ -742,7 +744,6 @@ console.ort-one-pingone.com
 apps.ort-one-pingone.com
 auth.ort-one-pingone.com
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
-https://github.com/rsksmart/rsk-powhsm/
 https://crypto.com/exchange
 app.mona.co
 merchant.crypto.com
@@ -1374,17 +1375,6 @@ payoneer.com.cn
 http://greenchannel.payoneer.com.cn/gcportal
 myaccount-cn.payoneer.com
 myaccount.payoneer.com
-www.recordedfuture.com
-therecord.media
-api.recordedfuture.com
-app.recordedfuture.com
-id.recordedfuture.com
-securitytrails.com
-geminiadvisory.io
-hatching.io
-tria.ge
-dns.watch
-bgpview.io
 api.tideplatform.in
 www.compass.com
 www.trendyol.com
