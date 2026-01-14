@@ -155,8 +155,6 @@ Leaked/Сompromised Employee accounts
 Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Blockchain
 NordVPN Browser Extension
 All Mobile Assets
 Yoti Password Manager browser extension
@@ -378,6 +376,7 @@ Microsites
 Open Source - Spectator
 Secondary Assets
 Content Authorization Targets
+[Unico] Liveness Bypass
 Crypto infrastructure for cold and hot wallets
 Merchant Portal
 Customer Portal

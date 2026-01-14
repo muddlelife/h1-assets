@@ -84,7 +84,6 @@ com.acronis.abc
 com.brave.browser
 com.brave.browser_beta
 com.lyst.lystapp
-com.enjin.mobile.wallet
 com.nordvpn.android
 com.nordpass.android.app.password.manager
 Saily - Android

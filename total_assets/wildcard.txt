@@ -543,6 +543,9 @@ api*.netflix.com
 *.prod.dradis.netflix.com
 *.nflximg.net
 *.nflxso.net
+*.unico.io
+*.acesso.io
+*.cadastro.uat.unico.app
 *.varonis.com
 *.varonis.io
 *.varonis.net

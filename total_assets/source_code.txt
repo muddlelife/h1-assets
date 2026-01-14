@@ -119,7 +119,6 @@ https://github.com/brave-intl/publishers
 https://github.com/brave/vault-updater
 https://github.com/brave-intl/bat-go
 https://github.com/brave/*, https://github.com/brave-intl/*
-Enjin Indexer
 https://github.com/discourse/discourse
 https://github.com/nodejs/node
 https://github.com/cosmos/iavl
