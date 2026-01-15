@@ -82,6 +82,7 @@ com.peterandlinda.iOCNotes
 1192506963
 com.brave.ios.browser
 597940518
+com.enjin.mobile.wallet
 905953485
 1486322860
 Saily - iOS
@@ -177,30 +178,6 @@ https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 iOS Playstation App
 878577184
 1080248000
-ICIParisXL.App.IOS
-ThePerfumeShop.App.iOS
-Marionnaud.Italy.iOS
-Marionnaud.Romania.iOS
-Marionnaud.Switzerland.iOS
-Marionnaud.Austria.iOS
-PNS.HongKong.iOS
-MoneyBack.HongKong.iOS
-Kruidvat.Belgium.iOS
-Kruidvat.Netherlands.iOS
- Fortress.HongKong.IOS
-Watsons.HongKong.IOS
-Watsons.Indonesia.IOS
-Watsons.Malaysia.IOS
-Watsons.Philippines.IOS
-Watsons.TaiWan.IOS
-Watsons.Thailand.IOS
-Watsons.Singapore.IOS
-Marionnaud.France.iOS
-Watsons.Turkey.iOS
-Drogas.Latvia.iOS
-Drogas.Lietuva.iOS
-Lookatme.Philippines.IOS
-Lookatme.Philippines.Android
 835599320
 1235601864
 641062073

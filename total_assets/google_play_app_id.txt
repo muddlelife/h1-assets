@@ -84,6 +84,7 @@ com.acronis.abc
 com.brave.browser
 com.brave.browser_beta
 com.lyst.lystapp
+com.enjin.mobile.wallet
 com.nordvpn.android
 com.nordpass.android.app.password.manager
 Saily - Android
@@ -191,29 +192,6 @@ com.evernote
 Android Playstation App
 com.zzkko
 com.romwe
-Superdrug.App.Android
-ICIParisXL.App.Android
-ThePerfumeShop.App.Android
-Marionnaud.Italy.Android
-Marionnaud.Switzerland.Android
-Marionnaud.Romania.Android
-Marionnaud.Austria.Android
-PNS.HongKong.Android
-MoneyBack.HongKong.Android
-Kruidvat.Belgium.Android
-Kruidvat.Netherlands.Android
- Watsons.TaiWan.Android
-Fortress.HongKong.Android
-Watsons.HongKong.Android
-Watsons.Indonesia.Android
-Watsons.Malaysia.Android
-Watsons.Philippines.Android
-Watsons.Singapore.Android
-Watsons.Thailand.Android
-Marionnaud.France.Android
-Watsons.Turkey.Android
-Drogas.Latvia.Android
-Drogas.Lietuva.Android
 com.zhiliaoapp.musically
 com.ss.android.ugc.trill
 com.ss.android.ugc.now
