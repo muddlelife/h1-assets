@@ -30,6 +30,8 @@ munin-*.wordpress.org
 *.gitlab.org
 *.gitlap.com
 *.acrobat.adobe.com
+*.algolia.net
+*.algolianet.com
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com

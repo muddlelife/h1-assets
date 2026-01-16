@@ -153,6 +153,8 @@ learningmanagerstage4.adobe.com
 photos.adobe.io
 portfolio.ccpsx.com
 commercemarketplace.adobe.com
+www.algolia.com
+dashboard.algolia.com
 www.bitmoji.com
 www.bitstrips.com
 scan.snapchat.com

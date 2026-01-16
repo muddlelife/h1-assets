@@ -298,9 +298,7 @@ com.heytap.health.international
 com.heytap.market
 com.heytap.themestore
 com.oplus.account
-com.oplus.member
 com.oplus.themestore
-com.oplus.vip
 com.oppo.market
 com.heytap.store
 com.heytap.mall
