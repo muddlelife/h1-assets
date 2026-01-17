@@ -1,3 +1,6 @@
+us.forescout.cloud
+uk.forescout.cloud
+de.forescout.cloud
 www.forescout.com
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
@@ -49,7 +52,4 @@ streaming-api.iris.production.forescoutcloud.net
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 streaming-gw.iris.production.forescoutcloud.net
 community.forescout.com
-us.forescout.cloud
-uk.forescout.cloud
-de.forescout.cloud
 cloud.forescout.com

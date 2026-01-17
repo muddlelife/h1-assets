@@ -1,5 +1,5 @@
+com.hotornot.app
+com.bumblebff.app
 com.bumble.app
 com.badoo.mobile
 com.badoo.twa
-com.hotornot.app
-com.bumblebff.app

@@ -1,7 +1,7 @@
+com.foxnextgames.m3
 com.pieyel.scrabble
 com.withbuddies.dice.free
 com.scopely.yux
-com.foxnextgames.m3
 com.scopely.monopolygo
 com.scopely.startrek
 com.gsn.android.casino

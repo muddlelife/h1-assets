@@ -1,17 +1,4 @@
 *.vpn.hackerone.net
-Cloudflare Pages
-CDNJS
-WARP Mobile Apps
-Cloudflare Access
-Stream
-1.1.1.1 Resolver
-Magic Transit
-Spectrum
-Load Balancing
-Bot Management
-Cloudflare Zero Trust/Cloudflare One
-Open source tools from Cloudflare
-Area 1
 Cloudflare D1
 Cloudflare R2
 WARP desktop client
@@ -41,6 +28,19 @@ Magic WAN
 Data Loss Prevention (DLP)
 SSL/TLS
 Cloudflare Workers CI
+Cloudflare Pages
+CDNJS
+WARP Mobile Apps
+Cloudflare Access
+Stream
+1.1.1.1 Resolver
+Magic Transit
+Spectrum
+Load Balancing
+Bot Management
+Cloudflare Zero Trust/Cloudflare One
+Open source tools from Cloudflare
+Area 1
 channelstore.roku.com/details/48061/vhx
 VHX Branded Customer iOS Apps
 VHX Branded Customer Android Apps
@@ -63,8 +63,8 @@ Glassdoor Authentication
 Glassdoor Heritage
 Glassdoor Infrastructure & Misc
 Glassdoor Jobs
-Your Own GitLab Instance
 Other non-production infrastructure
+Your Own GitLab Instance
 GitLab for Jira Cloud
 Tier 1 Assets
 Tier 2 Assets
@@ -73,9 +73,9 @@ uber.com
 Recon Data
 *.uberinternal.com
 *ubereats.com
-Adobe Commerce, Commerce B2B and Commerce Open Source
 C2PA Tool
 *.lightroom.adobe.com
+Adobe Commerce, Commerce B2B and Commerce Open Source
 *.sc-corp.net
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
@@ -92,26 +92,24 @@ C100447517
 C103149579
 Tor
 Tor Browser
-GitHub CSP
+Copilot
 GitHub Enterprise Cloud
 GitHub Pages
 GitHub Production Credentials
 Dependabot
 GitHub for mobile
-Copilot
 Copilot Chat on dotcom
 Copilot for Business
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
 Copilot Spaces
 Copilot Coding Agent
 GitHub Spark
+GitHub CSP
 Braintree SDK
 PayPal SDK
 Subdomain Takeover (SDTO)
 Other Spotify websites
 Anchor
-Megaphone
-Podsights
 Sonantic
 Core Assets
 Non-Core Assets
@@ -119,7 +117,9 @@ GHE
 Jira
 Okta
 VPN
+Megaphone
 Wrapped
+Podsights
 github.com/deriv-com
 All Assets (other than Blinkit)
 Tier 2
@@ -171,18 +171,18 @@ Grammarly Browser Extensions
 Capture the Flag
 Superhuman Go
 Coda Chrome Extension
-Any other Epic games owned asset not listed in the out of scope section
 EpicOnlineServices
+Any other Epic games owned asset not listed in the out of scope section
 v1staging.kidswebservices.com 
 v1. kidswebservices.com
 Steam Servers
 Steam Client
-Other
-Elastic Package Registry
 Elastic Synthetics Monitoring
 elastic.co credentials
 Software Supply Chain
 Elastic Clients
+Other
+Elastic Package Registry
 All Other BitMEX Assets
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
@@ -224,11 +224,11 @@ s3://faraday-uploads
 s3://faraday-secret
 gs://fdy-production-sdk-uploads
 gs://faraday-secret
-Figma Atlassian App
 Figma Desktop App
 Figma iOS and Android apps
 Figma Slack App
 Figma for Microsoft Teams
+Figma Atlassian App
 Intellectual Property on Public Domains
 Freshservice Discovery Agent and Probe
 Citrix Secure Access client for Windows
@@ -236,6 +236,17 @@ Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
+Stripe Apps
+Stripe Payment Links
+Stripe Invoicing
+Stripe Financial Connections
+Stripe Revenue Recognition
+Stripe Identity
+Stripe Climate
+Stripe Data Pipeline
+Stripe Tax
+Stripe Capital
+Stripe Treasury
 Stripe Payments
 Stripe Checkout
 Stripe Connect
@@ -249,29 +260,18 @@ Stripe Sigma
 Stripe Atlas
 Stripe SDKs
 Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
 Stripe for Visual Studio Code
 Tap to Pay (Android)
 Tap to Pay (iOS)
 Sandboxes
 Organizations
 Smokescreen Open Source Project
-Eno® Browser Extension
 *.capitalone.com
 *.capitaloneshopping.com
 Capital One Shopping Browser Extension
 *.capitalonegslbex.com
 *.capitalone.ca
+Eno® Browser Extension
 https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://apps.facebook.com/pearls-peril
@@ -296,7 +296,6 @@ Wickr Me OS X
 Wickr Pro OS X
 Wickr Pro Windows
 Wickr Me Windows
-Enterprise Edition Products and Tools
 All Evergreen Assets (Excluding staging)
 MongoDB Owned GitHub Repositories
 Cluster-To-Cluster sync
@@ -304,6 +303,7 @@ Compass
 Relational Migrator
 MongoDB Shell
 VS Code Plugin
+Enterprise Edition Products and Tools
 MongoDB Connectors
 MongoDB Atlas
 MongoDB Community Server
@@ -318,11 +318,11 @@ Atlas Data Federation
 Atlas Payments/Billing
 Tier 1
 Tier 2
-MetaMask Browser Extension
 MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
 Message signing snap
+MetaMask Browser Extension
 mUSD Stablecoin
 mpa.qr.web.m-pesa.com
 Notion Frontend

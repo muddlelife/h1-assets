@@ -1,6 +1,3 @@
-accounts.khealth.com
-eligibility.khealth.com
-treatments.khealth.com
 www.kpharmacyllc.com
 start.khealth.com
 app.khealth.com
@@ -12,4 +9,7 @@ http://auth.khealth.com/mayo-la-crosse/sign-up
 salesforce.khealth.com
 http://clinical-quality.khealth.com/api/v1
 api.khealth.com
+accounts.khealth.com
+eligibility.khealth.com
+treatments.khealth.com
 auth.hhc247.org

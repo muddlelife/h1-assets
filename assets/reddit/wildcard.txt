@@ -3,6 +3,6 @@
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
-*.reddit.com
 *.spiketrap.io
 *.memorable.io
+*.reddit.com

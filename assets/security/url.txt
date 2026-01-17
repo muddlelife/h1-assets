@@ -1,9 +1,3 @@
-hackerone.com
-api.hackerone.com
-www.hackerone.com
-https://*.hackerone-user-content.com/
-errors.hackerone.net
-https://*.hackerone-ext-content.com
 app.pullrequest.com
 reviewer.pullrequest.com
 ctf.hacker101.com
@@ -18,6 +12,12 @@ profile-photos.hackerone-user-content.com
 hackerone-user-content.com
 profile-photos-us-east-2.hackerone-user-content.com
 cover-photos-us-east-2.hackerone-user-content.com
+hackerone.com
 hackerone.live
 www.wearehackerone.com
 mta-sts.wearehackerone.com
+api.hackerone.com
+www.hackerone.com
+errors.hackerone.net
+https://*.hackerone-ext-content.com
+https://*.hackerone-user-content.com/

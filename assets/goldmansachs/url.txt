@@ -1,8 +1,6 @@
-*.goldmansachs.com
-*.gs.com
-*.goldman.com
 *.marcus.com
 *.honestdollar.com
+*.goldmanpfm.com
 *.marcus.co.uk
 research.gs.com
 *.gsam.com
@@ -14,10 +12,12 @@ research.gs.com
 developer.gs.com
 goldmansachsindices.com
 marquee.gs.com
-*.ayco.com
-*.gspublishing.com
-*.gs.de
-*.goldmanpfm.com
 apigw.foliofn.com
 api.foliofn.com
+*.goldmansachs.com
+*.ayco.com
+*.gs.com
+*.goldman.com
+*.gspublishing.com
+*.gs.de
 www.fitvermogen.nl

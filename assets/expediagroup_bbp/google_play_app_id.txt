@@ -1,3 +1,5 @@
+com.hcom.android
+com.vrbo.android
 com.hotwire.hotels
 com.ebookers
 com.orbitz
@@ -5,5 +7,3 @@ com.expedia.bookings
 com.wotif.android
 com.cheaptickets
 com.travelocity.android
-com.hcom.android
-com.vrbo.android

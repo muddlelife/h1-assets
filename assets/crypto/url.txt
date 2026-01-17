@@ -1,10 +1,10 @@
 https://crypto.com/exchange
+https://crypto.com/price
 app.mona.co
 merchant.crypto.com
 js.crypto.com
 tax.crypto.com
 https://crypto.com/nft
-https://crypto.com/price
 web.crypto.com
 developer-platform-api.crypto.com
 nadex.com

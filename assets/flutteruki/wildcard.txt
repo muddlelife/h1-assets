@@ -1,10 +1,13 @@
-*.betfair.com
-*.paddypower.com
 *.betfair.es
 *.betfair.it
 *.betfair.ro
 *.betfair.se
 *.paddypower.it
+*.paddypartners.com
+*.betfair.com
+*.paddypower.com
+*.ppbdev.com
+*.dibz.co.uk
 *.skygamingcontent.com
 *.skycasino.com
 *.sbgcdn.com
@@ -31,6 +34,3 @@
 *.skybettingandgaming.info
 *.betsharedservices.io
 *.sportinglife.com
-*.paddypartners.com
-*.ppbdev.com
-*.dibz.co.uk

@@ -1,9 +1,9 @@
+AmpliFi
 airMAX
 UniFi
 EdgeMAX
 airFiber
 UFiber
-AmpliFi
 UniFi Talk
 UniFi Protect
 UniFi Switches

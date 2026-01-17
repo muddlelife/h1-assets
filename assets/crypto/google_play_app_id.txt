@@ -1,2 +1,2 @@
-co.mona.android
 com.defi.wallet
+co.mona.android

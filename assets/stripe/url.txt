@@ -1,3 +1,4 @@
+*.link.co
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -6,4 +7,3 @@ app.taxjar.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.link.co

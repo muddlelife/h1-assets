@@ -1,3 +1,14 @@
+Stripe Apps
+Stripe Payment Links
+Stripe Invoicing
+Stripe Financial Connections
+Stripe Revenue Recognition
+Stripe Identity
+Stripe Climate
+Stripe Data Pipeline
+Stripe Tax
+Stripe Capital
+Stripe Treasury
 Stripe Payments
 Stripe Checkout
 Stripe Connect
@@ -11,17 +22,6 @@ Stripe Sigma
 Stripe Atlas
 Stripe SDKs
 Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
 Stripe for Visual Studio Code
 Tap to Pay (Android)
 Tap to Pay (iOS)

@@ -1,4 +1,3 @@
-moonpay.com
 hypermint.com
 web3.moonpay.com
 sell.moonpay.com
@@ -6,3 +5,4 @@ buy.moonpay.com
 auth.moonpay.com
 app.moonpay.com
 api.moonpay.com
+moonpay.com

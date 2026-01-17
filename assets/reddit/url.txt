@@ -1,7 +1,9 @@
+redditforbusiness.com
 new.reddit.com
 api.reddit.com
 mod.reddit.com
 ads.reddit.com
+matrix.redditspace.com
 gql.reddit.com
 accounts.reddit.com
 gateway.reddit.com
@@ -9,8 +11,6 @@ strapi.reddit.com
 m.reddit.com
 amp.reddit.com
 meta-api.reddit.com
-sh.reddit.com
-redditforbusiness.com
-matrix.redditspace.com
 developers.reddit.com
 business.reddithelp.com
+sh.reddit.com

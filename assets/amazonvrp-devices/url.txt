@@ -1,3 +1,7 @@
+www.amazon.com/photos/*
+api.amazonalexa.com/*
+https://www.amazon.com/luna/*
+https://luna.amazon.com/*
 read.amazon.com
 alexaanswers.amazon.com
 blueprints.amazon.com
@@ -8,7 +12,3 @@ developer.amazon.com/apps-and-games/*
 developer.amazon.com/alexa/*
 alexa.amazon.com
 skills-store.amazon.com
-www.amazon.com/photos/*
-api.amazonalexa.com/*
-https://www.amazon.com/luna/*
-https://luna.amazon.com/*

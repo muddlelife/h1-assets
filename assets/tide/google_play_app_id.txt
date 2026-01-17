@@ -1,2 +1,2 @@
-com.tideplatform.banking
 co.tide.tideplatform.in
+com.tideplatform.banking

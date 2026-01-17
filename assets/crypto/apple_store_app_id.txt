@@ -1,2 +1,2 @@
-com.monaco.mobile
 com.defi.wallet
+com.monaco.mobile

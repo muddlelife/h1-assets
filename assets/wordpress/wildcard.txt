@@ -1,5 +1,5 @@
+munin-*.wordpress.org
 *.wordpress.org
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 *.wordcamp.org
 *.wordpress.net
-munin-*.wordpress.org

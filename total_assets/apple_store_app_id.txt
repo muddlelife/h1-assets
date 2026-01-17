@@ -1,7 +1,7 @@
 425194759
-1491791513
 486781045
 493086499
+1491791513
 288429040
 336381998
 com.atebits.Tweetie2
@@ -17,11 +17,11 @@ org.toshi.distribution
 com.tumblr.tumblr
 com.clay.ios
 Glassdoor iOS
-com.iphone.workfront
 com.adobe.lrmobile
 com.adobe.PSMobile
 com.adobe.Adobe-Reader
 com.adobe.scan.ios
+com.iphone.workfront
 adobe.fresco.ios
 com.bitstrips.imoji
 com.toyopagroup.picaboo
@@ -29,10 +29,10 @@ com.toyopagroup.picaboo
 936983378
 542767785
 com.dashlane.dashlanephonefinal
+com.foxnextgames.m3
 com.pieyel.scrabble
 com.withbuddies.dice.free
 com.scopely.yux
-com.foxnextgames.m3
 id1427744264
 id1621328561
 https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
@@ -55,8 +55,8 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-434613896
 960335206
+434613896
 6670203019
 6670536058
 com.wealthsimple.wealthsimple
@@ -73,8 +73,8 @@ com.skypicker.Skypicker
 Exness Trade: Online Trading
 Exness Social Trading
 Exness Investor
-it.twsweb.Nextcloud
 com.nextcloud.Talk
+it.twsweb.Nextcloud
 com.peterandlinda.iOCNotes
 1118448159
 978342143
@@ -99,8 +99,8 @@ id1534920947
 com.valvesoftware.Steam
 1589023233
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-com.monaco.mobile
 com.defi.wallet
+com.monaco.mobile
 740514933
 455004730
 674258465
@@ -116,6 +116,8 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 1032480595
 982922982
+284971959
+1245772818
 566635048
 403546234
 483394780
@@ -123,16 +125,11 @@ com.creditkarma.mobile.international
 531549799
 880759727
 284803487
-284971959
-1245772818
 599664106
 1506229470
 1485539253
 6740879082
 1413721906
-com.etoro.openbook
-com.etoro.wallet
-io.getdelta.ios
 com.frontapp.mobile
 545599256
 657777015
@@ -178,9 +175,9 @@ https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 iOS Playstation App
 878577184
 1080248000
+641062073
 835599320
 1235601864
-641062073
 1591003012
 8x8-work
 Freshdesk-iOS-App
@@ -196,13 +193,9 @@ com.hypr.one
 1089294040
 co.tide
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
+6467634418
 524362642
 1127881507
-6467634418
-447553564
-529996768
-603097018
-1116488672
 586634331
 719525810
 868013618
@@ -218,19 +211,23 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 1510325826
 1215220850
 594802437
+447553564
+529996768
 1448884851
+603097018
+1116488672
 1180400838
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 6741442288
 com.newegg.app
 1091010942
 https://apps.apple.com/app/id1635031432
+621574163
+1528364633
 944011620
 302584613
 947984433
 1324809509
-621574163
-1528364633
 com.wf.mobilebanking
 com.wf.ceomobile
 com.ripio.ios

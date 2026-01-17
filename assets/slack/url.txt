@@ -1,12 +1,12 @@
-slack.com
-api.slack.com
-slackb.com
-app.slack.com
-edgeapi.slack.com
 slackatwork.com
 slack-redir.net
 slack-imgs.com
 spaces.pm
+slack.com
+api.slack.com
+slackb.com
 www.quip.com
 *.quip.com
+app.slack.com
 slack-status.com
+edgeapi.slack.com

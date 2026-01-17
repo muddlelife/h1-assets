@@ -5,8 +5,6 @@ vimeopro.com
 http://vimeo.com/ondemand
 http://vimeo.com/api
 checkout.vimeo.com
-http://vimeo.com/create
-vimeo.magisto.com
 vhx.tv
 embed.vhx.tv
 api.vhx.tv
@@ -15,3 +13,5 @@ staging.magisto.com
 applause1.magisto.com
 www.livestream.com
 donations.livestream.com
+http://vimeo.com/create
+vimeo.magisto.com

@@ -1,5 +1,5 @@
 *.zellepay.com
 *.earlywarning.com
+*.zelle.com
 developer*.earlywarning.com
 support*.earlywarning.com
-*.zelle.com

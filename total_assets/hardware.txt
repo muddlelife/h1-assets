@@ -1,9 +1,9 @@
+AmpliFi
 airMAX
 UniFi
 EdgeMAX
 airFiber
 UFiber
-AmpliFi
 UniFi Talk
 UniFi Protect
 UniFi Switches
@@ -41,11 +41,11 @@ Point Smart
 CounterAct 8.4
 PlayStation 4
 PlayStation 5
+Luna
 Tablets
 Echo Family Devices
 FireTV
 Kindle E-Reader
-Luna
 eero Devices
 https://us.eufy.com/products/t88711w1
 https://us.eufy.com/products/t88511d1
