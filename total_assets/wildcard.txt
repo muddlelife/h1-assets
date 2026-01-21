@@ -281,6 +281,7 @@ support*.earlywarning.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
+*.grateful.me
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
@@ -533,3 +534,9 @@ https://*.api.konghq.com
 https://us.identity.konghq.com/*
 *.platacard.mx
 https://*.saytechnologies.com
+*.anduril.com
+*.andurildev.com
+*.anduril.dev
+*.andurildev.au
+*.anduril.au
+*.anduril.com.au
