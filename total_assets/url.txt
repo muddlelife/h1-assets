@@ -1088,6 +1088,7 @@ internal-api.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api-drive-stream.larksuite.com
 hackers_chosendomain.larksuite.com
+larksuite.us
 www.coinspot.com.au
 https://www.coinspot.com.au/v2/api
 www.amazon.*
@@ -1158,6 +1159,12 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
+lemon8-api.tiktokv.us
+starling-ttp.lemon8-app.us
+platform.tiktokpangle.us
+pangle-mediation-ttp.tiktokpangle.us
+www.soundonw.us
+tiktokdata-us-open.tiktokw.us
 platform.8x8pilot.com
 uc.8x8pilot.com
 sso.8x8pilot.com
@@ -1853,3 +1860,14 @@ enterpriseregistration.bitstamp.net
 status.bitstamp.net
 url6884.team.bitstamp.net
 www.doordash.com
+http://tsock.us1.twilio.com
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
+http://twilio.com/blog
+http://help.twilio.com
+sendgrid.com
+app.sendgrid.com
+signup.sendgrid.com
+api.sendgrid.com
+mc.sendgrid.com
+app.segment.com
+https://segment.com/docs/connections/sources/

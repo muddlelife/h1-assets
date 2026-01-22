@@ -2,3 +2,4 @@
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
 *inf.fndlsb.net
+*.tvg.com

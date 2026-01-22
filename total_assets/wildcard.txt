@@ -257,6 +257,7 @@ https://*.creditkarma.ca
 *.mgmt.fndlsb.net
 *.prd.fndlsb.net
 *inf.fndlsb.net
+*.tvg.com
 *.instacart.com
 *.instacart.tools
 *.redditinc.com
@@ -534,6 +535,8 @@ https://*.api.konghq.com
 https://us.identity.konghq.com/*
 *.platacard.mx
 https://*.saytechnologies.com
+*.sip.*.twilio.com
+static*.twilio.com
 *.anduril.com
 *.andurildev.com
 *.anduril.dev

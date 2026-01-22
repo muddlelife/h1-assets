@@ -15,3 +15,8 @@ app.klarna.com
 https://events.1password.com/api/
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
+api.twilio.com
+Twilio APIs
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/docs/authy/api
+api.segment.io

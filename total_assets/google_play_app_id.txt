@@ -308,3 +308,4 @@ com.robinhood.gateway
 com.robinhood.money
 net.bitstamp.app
 com.dd.doordash
+https://www.authy.com/download/
