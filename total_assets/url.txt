@@ -1124,6 +1124,16 @@ reach.hostinger.com
 app.faraday.ai
 api.faraday.ai
 vault2.faraday.ai
+crm.na1.insightly.com
+accounts.insightly.com
+outlook.insightly.com
+mobileapi.na1.insightly.com
+http://api.insightly.com/v3.1/
+login.insightly.com
+mobileapi.insightly.com
+http://api.na1.insightly.com/v3.1/
+marketing.na1.insightly.com
+app.unbounce.com
 cs.money
 support.cs.money
 wiki.cs.money
