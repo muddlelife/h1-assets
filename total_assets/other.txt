@@ -188,15 +188,6 @@ https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
 Other In-Scope Assets
 Databricks Free Edition
-CosmWasm
-Packet Forward Middleware
-CometBFT
-Cosmos SDK
-ibc-go
-Horcrux
-Hermes Relayer
-IBC Go Relayer
-Solidity IBC Eureka
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
 Crypto.com Wallet Extension

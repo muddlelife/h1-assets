@@ -1133,7 +1133,6 @@ login.insightly.com
 mobileapi.insightly.com
 http://api.na1.insightly.com/v3.1/
 marketing.na1.insightly.com
-app.unbounce.com
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1419,8 +1418,6 @@ delivery-webview.indrive.com
 invisionu.education
 kronor.io
 magiceden.io
-slingshot.finance
-slingshot.app
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
