@@ -167,6 +167,7 @@ ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
 Malwarebytes Device Control
 Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
 Grammarly Browser Extensions
 Capture the Flag
 Superhuman Go
@@ -360,6 +361,12 @@ e-Commerce
 3CX Phone System
 3CX Live chat WordPress plugin
 *.audible.(TLD)
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies
 Corporate Assets
 Open Source - Consoleme
 Open Source - Weep
