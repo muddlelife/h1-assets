@@ -78,7 +78,6 @@ it.twsweb.Nextcloud
 com.peterandlinda.iOCNotes
 1118448159
 978342143
-429704844
 1192506963
 com.brave.ios.browser
 597940518
