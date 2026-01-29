@@ -15,6 +15,8 @@ ingest.clairvoyance.indrive.tech
 alternativa.film
 auroratechaward.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
+job.ryadom.kz
+ryadom.kz
 couriers.indrive.com
 careers.indrive.com
 coaching.supernovas.indrive.com
@@ -29,3 +31,7 @@ teammate.indriver.io
 blog.indrive.com
 delivery-webview.indrive.com
 invisionu.education
+api.ryadom.kz
+landing.ryadom.kz
+sso.ryadom.kz
+web.ryadom.kz

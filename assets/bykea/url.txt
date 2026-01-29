@@ -4,3 +4,4 @@ https://leaflet-map.bykea.net
 https://nominatim.bykea.net
 https://geocode-beta.bykea.net
 https://api.bykea.net
+tomoe.bykea.net
