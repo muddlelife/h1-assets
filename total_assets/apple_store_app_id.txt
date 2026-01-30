@@ -28,7 +28,6 @@ com.toyopagroup.picaboo
 284910350
 936983378
 542767785
-com.dashlane.dashlanephonefinal
 com.foxnextgames.m3
 com.pieyel.scrabble
 com.withbuddies.dice.free

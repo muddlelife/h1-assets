@@ -187,12 +187,6 @@ my.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 yelptop100.com
-api.dashlane.com
-ws1.dashlane.com
-www.dashlane.com
-console.dashlane.com
-app.dashlane.com
-logs.dashlane.com
 store.ui.com
 community.ui.com
 account.ui.com

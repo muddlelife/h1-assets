@@ -1,2 +1,2 @@
-Other In-Scope Assets
 Databricks Free Edition
+Open Scope

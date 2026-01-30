@@ -79,7 +79,6 @@ Adobe Commerce, Commerce B2B and Commerce Open Source
 *.sc-corp.net
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
-Standalone Chrome extension
 Games Tier 1
 Games Tier 2
 Games Tier 3
@@ -187,8 +186,8 @@ Elastic Package Registry
 All Other BitMEX Assets
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
-Other In-Scope Assets
 Databricks Free Edition
+Open Scope
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
 Crypto.com Wallet Extension
