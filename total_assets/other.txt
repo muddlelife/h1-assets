@@ -188,6 +188,15 @@ https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
 Databricks Free Edition
 Open Scope
+CosmWasm
+Packet Forward Middleware
+CometBFT
+Cosmos SDK
+ibc-go
+Horcrux
+Hermes Relayer
+IBC Go Relayer
+Solidity IBC Eureka
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
 Crypto.com Wallet Extension
@@ -330,7 +339,6 @@ Android & iOS App for REI Customers
 *.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
-Magic Eden Wallet (Chrome Extension)
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable

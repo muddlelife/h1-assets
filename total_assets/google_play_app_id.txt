@@ -256,7 +256,6 @@ notion.id
 com.coinhako
 com.boozt
 com.booztlet
-com.magiceden.wallet
 ro.superbet.sport
 ro.superbet.games
 com.eero.android

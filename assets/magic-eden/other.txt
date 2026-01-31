@@ -1,4 +1,3 @@
 *.magiceden.io
 *.magiceden.dev
 *.magiceden.workers.dev
-Magic Eden Wallet (Chrome Extension)

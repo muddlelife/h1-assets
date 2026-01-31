@@ -237,7 +237,6 @@ com.coinhako.app
 1671793296
 com.boozt.app
 com.boozt.booztlet
-com.magiceden.wallet
 1023499075
 com.security.BatteryCam
 com.security.care
