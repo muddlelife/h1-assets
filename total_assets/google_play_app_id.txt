@@ -254,6 +254,7 @@ com.vodafone.mpesa.mozambique
 com.vodafone.mpesa.drc
 notion.id
 com.coinhako
+om.vodafone.mva
 com.boozt
 com.booztlet
 ro.superbet.sport

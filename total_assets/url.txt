@@ -545,10 +545,6 @@ your-assigned-subdomain.files.com
 www.files.com
 beta-cloud.acronis.com
 account.acronis.com
-localizestaging.com
-api.localizestaging.com
-cdn.localizestaging.com
-app.localizestaging.com
 portswigger.net
 ai.portswigger.net
 http1mustdie.com
@@ -1416,6 +1412,11 @@ api.ryadom.kz
 landing.ryadom.kz
 sso.ryadom.kz
 web.ryadom.kz
+www.vodafone.om
+apix.vodafone.om
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
 kronor.io
 magiceden.io
 www.pornbox.com
