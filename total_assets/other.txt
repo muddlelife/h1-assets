@@ -80,6 +80,7 @@ Adobe Commerce, Commerce B2B and Commerce Open Source
 *.sc-corp.net
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
+Standalone Chrome extension
 Games Tier 1
 Games Tier 2
 Games Tier 3
@@ -363,7 +364,6 @@ https://billing.ring.com/*
 Secondary Assets
 Primary Assets
 *.visamiddleeast.com
-https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 e-Commerce
 <locale>.trip.com
 3CX Phone System
@@ -401,6 +401,8 @@ Subdomain Takeover - konghq.com
 NetScaler Gateway
 NetScaler ADC
 NetScaler AAA
+Tier 1
+Tier 2
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net

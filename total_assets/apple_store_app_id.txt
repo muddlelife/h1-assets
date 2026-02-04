@@ -28,6 +28,7 @@ com.toyopagroup.picaboo
 284910350
 936983378
 542767785
+com.dashlane.dashlanephonefinal
 com.foxnextgames.m3
 com.pieyel.scrabble
 com.withbuddies.dice.free
@@ -253,7 +254,6 @@ https://apps.apple.com/us/app/bme-conecta/id6443938949
 1218902777
 926252661
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
-com.secretkeylabs.xverse
 1351179184
 com.trip.ios
 https://apps.apple.com/us/app/bybit-app/id1488296980

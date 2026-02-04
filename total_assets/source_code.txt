@@ -21,6 +21,7 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 https://lensstudio.snapchat.com/api/
+SSO_Saml_connector
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 https://www.mapbox.com/mapbox-gl-js/
 https://docs.mapbox.com/ios/maps/overview/
@@ -239,3 +240,17 @@ https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp
 https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/aptos-cctp
+https://github.com/vercel/next.js
+https://github.com/sveltejs/svelte
+https://github.com/vercel/turborepo
+https://github.com/vercel/swr
+https://github.com/vercel/ai
+https://github.com/nuxt/nuxt
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/nitrojs/nitro
+https://github.com/vercel/async-sema
+https://github.com/vercel-labs/skills
+https://github.com/vercel-labs/agent-skills

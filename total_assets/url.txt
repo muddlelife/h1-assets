@@ -187,6 +187,12 @@ my.snapchat.com
 businesshelp.snapchat.com
 store.snapchat.com
 yelptop100.com
+api.dashlane.com
+ws1.dashlane.com
+www.dashlane.com
+console.dashlane.com
+app.dashlane.com
+logs.dashlane.com
 store.ui.com
 community.ui.com
 account.ui.com
@@ -704,6 +710,7 @@ https://fngw-svc-gc-livefn.ol.epicgames.net/api/magpie
 https://fngw-svc-ds-livefn.ol.epicgames.net/api/magpie
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce/
 cosmo.fdeb.live.use1a.on.epicgames.com
+https://communities.epicgames.com
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
@@ -752,6 +759,7 @@ developer-platform-api.crypto.com
 nadex.com
 developer.crypto.com
 developer-api.crypto.com
+og.com
 comic.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
