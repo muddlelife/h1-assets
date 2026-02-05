@@ -365,6 +365,9 @@ Secondary Assets
 Primary Assets
 *.visamiddleeast.com
 e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
 <locale>.trip.com
 3CX Phone System
 3CX Live chat WordPress plugin

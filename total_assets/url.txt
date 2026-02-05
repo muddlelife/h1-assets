@@ -407,7 +407,6 @@ www.hyatt.com
 world.hyatt.com
 assets.hyatt.com
 book.cheapcaribbean.com
-res.nowresorts.com
 res.treasureisland.globalbookingsolutions.com
 res.vacations.buschgardens.com
 res.vacations.sesameplace.com
@@ -1606,7 +1605,6 @@ tomoe.bykea.net
 http://api.lightspark.com
 http://app.lightspark.com
 https://link.uma.me
-lrc20.lightspark.com
 app.uma.money
 app.blueskytravelvietnam.com
 http://testnet.bybit.eu
