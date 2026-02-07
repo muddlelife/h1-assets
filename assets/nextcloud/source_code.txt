@@ -33,7 +33,6 @@ nextcloud/circles
 nextcloud/data_request
 nextcloud/files_antivirus
 nextcloud/fulltextsearch
-daita/files_fulltextsearch_tesseract
 nextcloud/flow_notifications
 nextcloud/fulltextsearch_elasticsearch
 nextcloud/files_fulltextsearch
@@ -60,3 +59,4 @@ nextcloud/nextcloud_announcements
 nextcloud/logreader
 nextcloud/survey_client
 nextcloud/updater
+nextcloud/files_fulltextsearch_tesseract

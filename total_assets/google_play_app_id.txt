@@ -23,7 +23,6 @@ com.bitstrips.imoji
 com.snapchat.android
 com.yelp.android.biz
 com.yelp.android
-com.dashlane
 com.foxnextgames.m3
 com.pieyel.scrabble
 com.withbuddies.dice.free

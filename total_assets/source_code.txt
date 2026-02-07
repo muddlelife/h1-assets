@@ -21,7 +21,6 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 https://lensstudio.snapchat.com/api/
-SSO_Saml_connector
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 https://www.mapbox.com/mapbox-gl-js/
 https://docs.mapbox.com/ios/maps/overview/
@@ -77,7 +76,6 @@ nextcloud/circles
 nextcloud/data_request
 nextcloud/files_antivirus
 nextcloud/fulltextsearch
-daita/files_fulltextsearch_tesseract
 nextcloud/flow_notifications
 nextcloud/fulltextsearch_elasticsearch
 nextcloud/files_fulltextsearch
@@ -104,6 +102,7 @@ nextcloud/nextcloud_announcements
 nextcloud/logreader
 nextcloud/survey_client
 nextcloud/updater
+nextcloud/files_fulltextsearch_tesseract
 https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-examples
