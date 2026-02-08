@@ -206,8 +206,6 @@ com.stripe.android.dashboard
 com.hypr.one
 com.konylabs.capitalone
 com.wikibuy.prod.main
-co.tide.tideplatform.in
-com.tideplatform.banking
 com.compass.compass
 com.trendyol.milla.android
 trendyol.com

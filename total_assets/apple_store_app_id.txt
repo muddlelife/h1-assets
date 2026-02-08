@@ -189,7 +189,6 @@ Citrix Secure Access client for macOS
 com.hypr.one
 407558537
 1089294040
-co.tide
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 6467634418
 524362642

@@ -337,7 +337,6 @@ https://*.chalet.8x8.com/ws/v1
 *.bridge.xyz
 *.hypr.com
 *.gethypr.com
-*.tide.co
 *.houseoffun.com
 *.playwsop.com
 *.serious.li

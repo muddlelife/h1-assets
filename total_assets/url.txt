@@ -1229,7 +1229,6 @@ payoneer.com.cn
 http://greenchannel.payoneer.com.cn/gcportal
 myaccount-cn.payoneer.com
 myaccount.payoneer.com
-api.tideplatform.in
 www.compass.com
 www.trendyol-milla.com
 www.trendyol.com
