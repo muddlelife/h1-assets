@@ -410,6 +410,7 @@ Tier 2
 *.robinhood.net
 *.say.rocks
 *.saytechnologies.com
+Tier 3
 https://www.twilio.com/en-us/blog/get-started-webrtc
 https://www.twilio.com/docs/libraries
 smtp.sendgrid.net

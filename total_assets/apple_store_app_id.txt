@@ -12,8 +12,8 @@ com.tinyspeck.chatlyio
 com.slack.slackmdm
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 547702041
-com.coinbase.ios
 org.toshi.distribution
+com.vilcsak.bitcoin2
 com.tumblr.tumblr
 com.clay.ios
 Glassdoor iOS
