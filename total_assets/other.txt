@@ -393,6 +393,7 @@ Customer Connected Domain
 HubSpot Sales Office 365 add-in
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 ColorOS
+Extremely high properties
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 WHOOP 4.0 STRAP
