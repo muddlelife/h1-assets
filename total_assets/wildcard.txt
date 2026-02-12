@@ -373,10 +373,6 @@ https://*.metamask.io
 https://*.floqast.engineering
 *.eu.floqast.app
 *.m-pesa.com
-*.boredapeyachtclub.com
-*.yuga.com
-*.yugalabs.io
-*.otherside.xyz
 intercity-*.eu-east-1.indriverapp.com
 *.indriverapp.com
 *.indriver.com

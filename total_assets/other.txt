@@ -333,8 +333,6 @@ Notion Integrations
 Privilege Escalation
 Notion Authentication
 Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
 Any public cloud resource or infrastructure operated and managed by REI.
 Android & iOS App for REI Customers
 *.magiceden.io

@@ -299,10 +299,13 @@ com.heytap.mall
 com.oppo.store
 company.thebrowser.arc
 com.whoop.android
+com.meesho.supply
+com.valmo.valmo
 dif.tech.plata
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
 net.bitstamp.app
+com.robinhood.global Android
 com.dd.doordash
 https://www.authy.com/download/
