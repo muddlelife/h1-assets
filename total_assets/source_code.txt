@@ -213,6 +213,7 @@ https://github.com/spiffe/spire
 https://github.com/rust-lang/rust
 https://github.com/moonpay
 Snaps Development Packages
+https://github.com/Web3Auth/web3auth-web
 https://www.zabbix.com/download_sources
 OKX Wallet Core Open Source
 https://github.com/tronprotocol/java-tron

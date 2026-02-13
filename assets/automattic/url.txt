@@ -14,3 +14,4 @@ akismet.com
 mailpoet.com
 my.pressable.com
 clay.earth
+wpscan.com

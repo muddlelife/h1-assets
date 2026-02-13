@@ -117,6 +117,7 @@ akismet.com
 mailpoet.com
 my.pressable.com
 clay.earth
+wpscan.com
 about.gitlab.com
 docs.gitlab.com
 design.gitlab.com
@@ -153,8 +154,6 @@ learningmanagerstage4.adobe.com
 photos.adobe.io
 portfolio.ccpsx.com
 commercemarketplace.adobe.com
-www.algolia.com
-dashboard.algolia.com
 www.bitmoji.com
 www.bitstrips.com
 scan.snapchat.com
@@ -887,6 +886,7 @@ www.ultimateears.com
 www.astrogaming.com
 www.logitech.com.cn
 sync.logitech.com
+logiq.logitech.io
 api.mercadopago.com
 api.mercadolibre.com
 logistica.redelcom.cl
@@ -949,6 +949,7 @@ www.orbitz.com
 www.ebookers.com
 www.ebookers.fi
 www.mrjet.se
+www.expedia-aarp.com
 www.carrentals.com
 www.wotif.com
 www.cheaptickets.com
@@ -1338,6 +1339,10 @@ https://user-storage.api.cx.metamask.io
 developer.metamask.io
 signature-insights.api.cx.metamask.io
 metamask.io
+dashboard.web3auth.io
+api-dashboard.web3auth.io
+wallet.web3auth.io
+api-wallet.web3auth.io
 api-eu.floqast.app
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com

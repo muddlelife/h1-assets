@@ -10,3 +10,4 @@ www.ultimateears.com
 www.astrogaming.com
 www.logitech.com.cn
 sync.logitech.com
+logiq.logitech.io
