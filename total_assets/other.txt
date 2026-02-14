@@ -376,8 +376,6 @@ https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 @privy-io controlled namespace dependencies
 Corporate Assets
-Open Source - Consoleme
-Open Source - Weep
 Open Source - Zuul
 Microsites
 Open Source - Spectator

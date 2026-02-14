@@ -1,6 +1,4 @@
 Corporate Assets
-Open Source - Consoleme
-Open Source - Weep
 Open Source - Zuul
 Microsites
 Open Source - Spectator
