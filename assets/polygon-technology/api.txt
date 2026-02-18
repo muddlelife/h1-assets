@@ -2,4 +2,3 @@ faucet-api.polygon.technology/
 api-gateway.polygon.technology
 gasstation.polygon.technology/
 api-polygon-tokens.polygon.technology/
-balance-api.polygon.technology/

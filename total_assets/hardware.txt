@@ -15,7 +15,6 @@ UniFi Access
 UniFi Connect
 GitHub Enterprise Server
 Dyson Connected Products (IoT Hardware)
-Helium Hotspot
 Mi/Redmi Phone
 Mi Band
 Mi Home Webcam 
