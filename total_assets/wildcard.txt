@@ -150,6 +150,7 @@ dev.epicgames.com/*
 *.found.io
 *.swiftype.com
 *.elastic.dev
+*.ela.st
 *.bitmex.com
 *.betfair.es
 *.betfair.it

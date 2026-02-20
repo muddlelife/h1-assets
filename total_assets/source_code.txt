@@ -36,7 +36,8 @@ Spotify SDKs
 iOS SDK
 Android SDK
 Web Playback SDK
-Backstage source code
+Core Backstage source code
+https://github.com/backstage/backstage
 github.com/binary-com
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems

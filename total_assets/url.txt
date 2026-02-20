@@ -716,7 +716,6 @@ steamcommunity.com
 www.teamfortress.com
 www.counter-strike.net
 developer.valvesoftware.com
-www.elastic.co
 cloud.elastic.co
 testnet.bitmex.com
 www.bitmex.com

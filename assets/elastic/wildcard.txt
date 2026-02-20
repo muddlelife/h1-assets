@@ -5,3 +5,4 @@
 *.found.io
 *.swiftype.com
 *.elastic.dev
+*.ela.st
