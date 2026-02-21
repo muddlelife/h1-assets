@@ -150,8 +150,6 @@ Leaked/Сompromised Employee accounts
 Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Blockchain
 NordVPN Browser Extension
 All Mobile Assets
 Yoti Password Manager browser extension

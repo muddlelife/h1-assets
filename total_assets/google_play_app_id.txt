@@ -82,7 +82,6 @@ com.acronis.acronistrueimage
 com.acronis.abc
 com.brave.browser
 com.lyst.lystapp
-com.enjin.mobile.wallet
 com.nordvpn.android
 com.nordpass.android.app.password.manager
 Saily - Android

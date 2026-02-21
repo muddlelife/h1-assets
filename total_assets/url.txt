@@ -565,8 +565,6 @@ account.brave.com
 api-dashboard.search.brave.com
 cdna.lystit.com
 mobileapi.lystit.com
-nft.io
-platform.enjin.io
 try.discourse.org
 app.nordpass.com
 blox.link
