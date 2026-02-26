@@ -736,6 +736,7 @@ console.ort-one-pingone.com
 apps.ort-one-pingone.com
 auth.ort-one-pingone.com
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
+https://console.ort-one-pingone.com/?env=7f327541-54e0-4ba4-8335-65eac2a25b5e
 https://crypto.com/exchange
 https://crypto.com/price
 app.mona.co
@@ -884,6 +885,7 @@ www.astrogaming.com
 www.logitech.com.cn
 sync.logitech.com
 logiq.logitech.io
+www.whatismode.com
 api.mercadopago.com
 api.mercadolibre.com
 logistica.redelcom.cl
