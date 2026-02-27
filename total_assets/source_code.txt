@@ -227,6 +227,7 @@ https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp
 https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/malachite
 https://github.com/vercel/next.js
 https://github.com/sveltejs/svelte
 https://github.com/vercel/turborepo

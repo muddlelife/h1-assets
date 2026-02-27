@@ -886,6 +886,7 @@ www.logitech.com.cn
 sync.logitech.com
 logiq.logitech.io
 www.whatismode.com
+modefestival.com
 api.mercadopago.com
 api.mercadolibre.com
 logistica.redelcom.cl
