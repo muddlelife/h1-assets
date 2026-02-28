@@ -1592,6 +1592,7 @@ https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
+https://ebctest.cybersource.com/tech-partner-integration
 bykea.com
 https://maps.bykea.net
 https://leaflet-map.bykea.net

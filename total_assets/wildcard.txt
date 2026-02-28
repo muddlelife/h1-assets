@@ -200,7 +200,6 @@ dev.epicgames.com/*
 *.skybetservices.com
 *.sbgorigin.com
 *.sbgservices.com
-*.bonne-terre-data-layer.com
 *.skybettingandgaming.com
 *.msgsvc.io
 *.operationstechnology.io

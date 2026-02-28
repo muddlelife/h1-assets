@@ -1,5 +1,6 @@
 https://github.com/rails/rails
 https://github.com/cloudflare/workerd
+https://github.com/cloudflare/vinext
 GlotPress
 WP-CLI
 Official WordPress plugins
