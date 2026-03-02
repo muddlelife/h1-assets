@@ -23,7 +23,6 @@
 *.elasticsearch.jp
 *.elasticsearch.org
 *.elasticsearch.wtf
-*.es.io
 *.estccdn.com
 *.insight.io
 *.kibana.wtf
