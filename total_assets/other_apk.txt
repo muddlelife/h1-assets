@@ -1,3 +1,4 @@
+com.clearme.clearapp
 com.miui.micloudsync
 com.xiaomi.smarthome
 com.xiaomi.market
