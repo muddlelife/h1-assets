@@ -1,2 +1,4 @@
 ColorOS
 Extremely high properties
+Moderate Level Properties
+High Level Properties

@@ -330,7 +330,6 @@ Any public cloud resource or infrastructure operated and managed by REI.
 Android & iOS App for REI Customers
 *.magiceden.io
 *.magiceden.dev
-*.magiceden.workers.dev
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable
@@ -383,6 +382,8 @@ HubSpot Sales Office 365 add-in
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 ColorOS
 Extremely high properties
+Moderate Level Properties
+High Level Properties
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 WHOOP 4.0 STRAP

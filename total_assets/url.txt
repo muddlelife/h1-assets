@@ -1607,6 +1607,7 @@ https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://ebctest.cybersource.com/pts/v1/transaction-batch-upload
 https://ebctest.cybersource.com/tech-partner-integration
+https://ebctest.cybersource.com/notification-subscriptions
 bykea.com
 https://maps.bykea.net
 https://leaflet-map.bykea.net
