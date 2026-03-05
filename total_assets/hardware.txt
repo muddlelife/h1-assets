@@ -38,7 +38,7 @@ Video Conferencing Products
 USB Unifying and LightSpeed Receivers
 Logitech Mice & Keyboards
 Point Smart
-CounterAct 8.4
+CounterAct 9.x
 PlayStation 4
 PlayStation 5
 Luna

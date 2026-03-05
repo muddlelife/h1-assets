@@ -1025,7 +1025,6 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-query.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
-a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 datapod-1-druid-ingest.production.forescoutcloud.net
 datapod-1-100-druid-query.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
@@ -1437,6 +1436,7 @@ vfo02.vodafone.om
 vfo03.vodafone.om
 kronor.io
 magiceden.io
+dicey.com
 www.pornbox.com
 www.analvids.com
 www.ddfcontent.com
