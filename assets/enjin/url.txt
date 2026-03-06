@@ -1,2 +1,1 @@
 nft.io
-platform.enjin.io
