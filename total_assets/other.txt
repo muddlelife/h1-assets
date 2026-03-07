@@ -317,7 +317,6 @@ Tier 2
 MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
-Message signing snap
 MetaMask Browser Extension
 mUSD Stablecoin
 mpa.qr.web.m-pesa.com

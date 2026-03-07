@@ -1347,14 +1347,9 @@ sandbox-b2b.ripio.com
 test.deribit.com
 insights.deribit.com
 pb.deribit.com
-portfolio.metamask.io
 snaps.metamask.io
-https://user-storage.api.cx.metamask.io
-developer.metamask.io
 signature-insights.api.cx.metamask.io
 metamask.io
-dashboard.web3auth.io
-api-dashboard.web3auth.io
 wallet.web3auth.io
 api-wallet.web3auth.io
 api-eu.floqast.app
