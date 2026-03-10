@@ -1005,9 +1005,9 @@ eu.remix.com
 platform.remix.com
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
-zellepay.force.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
+zelleservice.my.salesforce.com
 prow.k8s.io
 kubernetes.io
 k8s.io
