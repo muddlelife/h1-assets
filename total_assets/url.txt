@@ -1366,6 +1366,9 @@ app.dynamic.xyz
 mail.notion.so
 calendar.notion.so
 api.wisdomtreeprimeapp.com
+https://app.wisdomtreeconnect.com/api/
+https://app.wisdomtreeconnect.com/o/token/
+https://app.wisdomtreeconnect.com
 client-api.arkoselabs.com
 cdn.arkoselabs.com
 customer-sessions.arkoselabs.com
