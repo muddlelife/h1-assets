@@ -107,7 +107,7 @@ eufyMake Studio software
 3CX SBC
 Arc on Mac
 Arc on Windows
-Dia
+Dia Browser
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Kong Mesh

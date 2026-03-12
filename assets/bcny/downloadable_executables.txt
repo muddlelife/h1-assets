@@ -1,3 +1,3 @@
 Arc on Mac
 Arc on Windows
-Dia
+Dia Browser

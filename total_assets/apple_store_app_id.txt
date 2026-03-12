@@ -233,7 +233,6 @@ io.metamask.Metamask
 1442121355
 1502222766
 com.coinhako.app
-1671793296
 1589071345
 com.boozt.app
 com.boozt.booztlet

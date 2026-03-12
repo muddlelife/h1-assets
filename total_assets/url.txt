@@ -1386,7 +1386,6 @@ http://www.rei.com/learn/expert-advice
 http://collaboration.rei.com
 www.sheer.com
 my.sheer.com
-zerobounce.net
 api.au.frontegg.com
 portal.au.frontegg.com
 sandbox.securegateway.com
@@ -1836,6 +1835,7 @@ alfred.syfe.com
 mark8.syfe.com
 alfred-uat-31.nonprod.syfe.com
 chatspot.ai
+hubspot.net
 opposhop.cn
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
@@ -1884,19 +1884,6 @@ fusion.tradepmr.com
 www.tradepmr.com
 insight2.tradepmr.com
 www.bitstamp.net
-7671800.bitstamp.net
-7671800.team.bitstamp.net
-_16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
-_domainconnect.bitstamp.net
-autodiscover.bitstamp.net
-bounces.bitstamp.net
-em1198.bitstamp.net
-em4296.team.bitstamp.net
-em9457.team.bitstamp.net
-enterpriseenrollment.bitstamp.net
-enterpriseregistration.bitstamp.net
-status.bitstamp.net
-url6884.team.bitstamp.net
 www.doordash.com
 http://tsock.us1.twilio.com
 https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c

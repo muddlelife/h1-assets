@@ -387,6 +387,7 @@ Moderate Level Properties
 High Level Properties
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+Dia Assistant
 WHOOP 4.0 STRAP
 join.whoop.com
 WHOOP 5.0/MG STRAP
