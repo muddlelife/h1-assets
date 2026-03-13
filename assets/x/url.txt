@@ -3,3 +3,4 @@ x.com
 grok.com
 chat.x.com
 grokipedia.com
+money.x.com
