@@ -408,7 +408,6 @@ api.foliofn.com
 *.goldman.com
 *.gspublishing.com
 *.gs.de
-www.fitvermogen.nl
 fetlife.com
 fetlifemail.com
 hyatt.com

@@ -225,6 +225,7 @@ Figma iOS and Android apps
 Figma Slack App
 Figma for Microsoft Teams
 Figma Atlassian App
+Other Asset (Campaigns)
 Intellectual Property on Public Domains
 Freshservice Discovery Agent and Probe
 Citrix Secure Access client for Windows
@@ -262,6 +263,7 @@ Tap to Pay (iOS)
 Sandboxes
 Organizations
 Smokescreen Open Source Project
+Munkisrv Open Source Project
 *.capitalone.com
 *.capitaloneshopping.com
 Capital One Shopping Browser Extension

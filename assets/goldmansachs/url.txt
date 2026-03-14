@@ -20,4 +20,3 @@ api.foliofn.com
 *.goldman.com
 *.gspublishing.com
 *.gs.de
-www.fitvermogen.nl
