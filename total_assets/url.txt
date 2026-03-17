@@ -570,13 +570,6 @@ demo.plaid.com
 cdn.plaid.com
 secure.plaid.com
 plaid.com
-search.brave.com
-talk.brave.com
-brave.com
-basicattentiontoken.org
-creators.basicattentiontoken.org
-account.brave.com
-api-dashboard.search.brave.com
 cdna.lystit.com
 mobileapi.lystit.com
 nft.io
@@ -1494,7 +1487,6 @@ toolsforhumanity.com
 getworldcoin.com
 worldcoin.org
 developer.worldcoin.org
-id.worldcoin.org
 world.org
 aw.visa.com
 bb.visa.com
@@ -1664,6 +1656,7 @@ unico.io
 devcenter.unico.io
 https://vault.chiatest.net/
 api.vault.chiatest.net
+p2p.walletbot.me
 walletbot.me
 pay.wallet.tg
 wallet.tg

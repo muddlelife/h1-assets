@@ -355,6 +355,7 @@ https://*.chalet.8x8.com/ws/v1
 *.grindr.io
 *.grindr.com
 *.grindr.mobi
+*.metronome.com
 *.lemonsqueezy.com
 *.bridge.xyz
 *.hypr.com
