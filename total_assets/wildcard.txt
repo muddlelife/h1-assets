@@ -375,6 +375,7 @@ https://*.chalet.8x8.com/ws/v1
 *.boardkingsgame.com
 https://*.khealth.com
 https://*.khealth.io/
+*.whatnot.com
 *.krisp.ai
 http://*.newegg.com
 http://*.newegg.ca

@@ -76,7 +76,6 @@ money.x.com
 3.basecamp.com
 launchpad.37signals.com
 world.hey.com
-fizzy.do
 slackatwork.com
 slack-redir.net
 slack-imgs.com
@@ -1191,12 +1190,6 @@ connect.8x8.com
 apps.8x8.com
 video-agent.8x8.com
 converse.8x8.com
-yourdomain.freshchat.com
-yourdomain.freshcaller.com
-yourdomain.myfreshworks.com
-yourdomain.freshdesk.com
-yourdomain.freshservice.com
-yourdomain.freshrelease.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com
@@ -1262,6 +1255,10 @@ accounts.khealth.com
 eligibility.khealth.com
 treatments.khealth.com
 auth.hhc247.org
+www.whatnot.com
+api.whatnot.com
+live-service.whatnot.com
+auction-service.whatnot.com
 zooplus.net
 www.zooplus.de
 www.zooplus.co.uk

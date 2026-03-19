@@ -178,11 +178,6 @@ iOS Playstation App
 1235601864
 1591003012
 8x8-work
-Freshdesk-iOS-App
-Freshservice-iOS-App
-Freshchat-iOS-App
-Freshcaller-iOS-App
-Freshservice-Intune-iOS-App
 Citrix Secure Access client for macOS
 319881193
 978516833
@@ -216,6 +211,7 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 1180400838
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 6741442288
+Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
 https://apps.apple.com/app/id1635031432
