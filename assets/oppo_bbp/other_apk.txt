@@ -1,3 +1,4 @@
+com.heytap.wallet
 com.heytap.pictorial
 com.coloros.pictorial
 com.coloros.findmyphone

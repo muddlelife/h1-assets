@@ -1,3 +1,13 @@
+Acrobat AI Assistant
+Acrobat PDF Spaces
+Acrobat Create Presentations
+Acrobat Create Podcast
+Express AI Assistant
+Lightroom AI Edits
+Lightroom "Edit suggestions" Tech Preview
+Photoshop AI Assistant
+Firefly Image Models
+Firefly Video Model
 C2PA Tool
 *.lightroom.adobe.com
 Adobe Commerce, Commerce B2B and Commerce Open Source
