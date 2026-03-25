@@ -268,8 +268,6 @@ www.hotelscombined.com
 www.mundi.com.br
 kayak.ai
 business.kayak.com
-moneybird.com
-moneybirdstorage.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/
@@ -475,6 +473,8 @@ https://www.myntra.com
 https://www.flipkart.com
 https://pay.payzippy.com
 https://uiscoop.payzippy.com
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://play.google.com/store/apps/details?id=com.flipkart.android
 jobs.kiwi.com
 www.kiwi.com
 auth.skypicker.com
@@ -1826,6 +1826,9 @@ mark8.syfe.com
 alfred-uat-31.nonprod.syfe.com
 chatspot.ai
 hubspot.net
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
+https://www.coloros.com/
 opposhop.cn
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
@@ -1886,4 +1889,3 @@ api.sendgrid.com
 mc.sendgrid.com
 app.segment.com
 https://segment.com/docs/connections/sources/
-www.sembcorp.com
