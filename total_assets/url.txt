@@ -1485,6 +1485,7 @@ getworldcoin.com
 worldcoin.org
 developer.worldcoin.org
 world.org
+https://ebctest.cybersource.com/kms/
 aw.visa.com
 bb.visa.com
 bd.visa.com
