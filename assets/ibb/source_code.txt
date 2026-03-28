@@ -5,7 +5,6 @@ https://github.com/libuv/libuv
 https://github.com/ruby
 https://github.com/rails
 https://github.com/rubygems/rubygems
-https://github.com/curl/curl
 https://github.com/Electron
 https://github.com/django
 https://github.com/Nginx

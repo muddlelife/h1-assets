@@ -146,7 +146,6 @@ http://*.grofers.com
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
-*.xiaomimimo.com
 *.mi.com
 *.xiaomi.com
 *.miui.com
