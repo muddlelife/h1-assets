@@ -1287,7 +1287,6 @@ dashboard.razorpay.com
 api.razorpay.com
 checkout.razorpay.com
 invoices.razorpay.com
-rubygems.org
 knox.beta.blendlabs.com
 hypermint.com
 web3.moonpay.com
