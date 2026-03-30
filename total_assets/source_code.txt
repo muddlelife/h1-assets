@@ -40,8 +40,6 @@ Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
 github.com/binary-com
-https://github.com/ruby/ruby
-https://github.com/rubygems/rubygems
 https://github.com/kiwicom/*
 nextcloud/server
 nextcloud/spreed
@@ -177,7 +175,6 @@ https://github.com/kubernetes-client
 github.com/kubernetes-csi
 https://github.com/Dynatrace
 LaunchDarkly Open Source SDKs
-https://github.com/jitsi
 https://github.com/DopplerHQ/cli
 https://github.com/moonpay
 https://github.com/Web3Auth/web3auth-web
