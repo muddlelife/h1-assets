@@ -1111,6 +1111,7 @@ direct.playstation.com
 api.direct.playstation.com
 ps5.np.playstation.net
 checkout.playstation.com
+agents.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
