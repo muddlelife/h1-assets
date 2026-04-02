@@ -39,6 +39,7 @@ https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 com.airbnb.app
 com.luxuryretreats.ios
 com.kayak.travel
+com.moneybird.Moneybird
 647268330
 1257641454
 1343620481

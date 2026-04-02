@@ -1,4 +1,3 @@
-https://github.com/rails/rails
 https://github.com/cloudflare/workerd
 https://github.com/cloudflare/vinext
 GlotPress
@@ -91,7 +90,6 @@ nextcloud/workflow_script
 nextcloud/calendar
 nextcloud/contacts
 nextcloud/richdocuments
-nextcloud/onlyoffice
 nextcloud/user_saml
 nextcloud/files_automatedtagging
 nextcloud/end_to_end_encryption

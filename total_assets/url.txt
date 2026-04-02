@@ -268,6 +268,8 @@ www.hotelscombined.com
 www.mundi.com.br
 kayak.ai
 business.kayak.com
+moneybird.com
+moneybirdstorage.com
 www.mapbox.com
 api.mapbox.com
 https://docs.mapbox.com/
@@ -1869,6 +1871,11 @@ affiliate.meesho.com
 www.valmo.in
 superstoreapp.meesho.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+1win.com
+https://1win.com/betting
+https://1win.com/casino
+1w.cash
+1w.run
 api.robinhood.com
 cashier.robinhood.com
 minerva.robinhood.com
