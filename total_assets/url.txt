@@ -999,6 +999,7 @@ eu.remix.com
 platform.remix.com
 https://metroconnect.app.ridewithvia.com
 https://pt-runner.app.ridewithvia.com
+www.certos.com
 zelleservice.my.site.com
 ews-fusion.my.site.com
 zelleservice.my.salesforce.com
