@@ -52,6 +52,7 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 *.base.org
 Web3 Smart Contracts
 Coinbase WaaS (Wallet as a Service)
+WP Cloud
 WooCommerce
 Crowdsignal
 WordPress Plugins & Themes

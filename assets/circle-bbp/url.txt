@@ -1,3 +1,7 @@
+rpc.drpc.testnet.arc.network
+rpc.quicknode.testnet.arc.network
+rpc.blockdaemon.testnet.arc.network
+rpc.testnet.arc.network
 api.circle.com
 app.circle.com
 console.circle.com

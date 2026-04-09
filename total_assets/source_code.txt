@@ -195,6 +195,7 @@ https://github.com/Chia-Network/clvm_rs
 https://github.com/Chia-Network/chia_rs
 https://github.com/Chia-Network/chiapos
 https://github.com/Chia-Network/chiavdf
+https://github.com/circlefin/arc-node
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp
