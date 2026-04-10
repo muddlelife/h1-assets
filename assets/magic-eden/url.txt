@@ -1,2 +1,3 @@
+api.dicey.com
 magiceden.io
 dicey.com

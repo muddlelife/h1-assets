@@ -157,7 +157,6 @@ https://github.com/kubernetes/kube-state-metrics
 https://github.com/kubernetes/autoscaler
 https://github.com/kubernetes/kube-deploy
 https://github.com/kubernetes/release
-https://github.com/kubernetes/dashboard
 https://github.com/kubernetes/node-problem-detector
 https://github.com/kubernetes/repo-infra
 https://github.com/kubernetes/kubectl

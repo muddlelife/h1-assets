@@ -1,5 +1,4 @@
 com.heytap.wallet
-com.finshell.fin
 com.fintech.life
 com.heytap.book
 com.heytap.databaseengine

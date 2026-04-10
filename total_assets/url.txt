@@ -1426,6 +1426,7 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 kronor.io
+api.dicey.com
 magiceden.io
 dicey.com
 www.pornbox.com

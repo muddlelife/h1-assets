@@ -60,11 +60,6 @@ Texts
 Beeper
 WordPress VIP
 Other Assets
-Glassdoor Authentication
-Glassdoor Employer Center
-Glassdoor Heritage
-Glassdoor Infrastructure & Misc
-Glassdoor Jobs
 Other non-production infrastructure
 Your Own GitLab Instance
 GitLab for Jira Cloud
@@ -166,7 +161,6 @@ Enjin Coin - Ethereum ERC-20 Contract
 Enjin Blockchain
 NordVPN Browser Extension
 All Mobile Assets
-Yoti Password Manager browser extension
 Malwarebytes Privacy (VPN)
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 Vulnerability & Patch Management

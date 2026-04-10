@@ -16,7 +16,6 @@ org.toshi.distribution
 com.vilcsak.bitcoin2
 com.tumblr.tumblr
 com.clay.ios
-Glassdoor iOS
 com.adobe.lrmobile
 com.adobe.PSMobile
 com.adobe.Adobe-Reader

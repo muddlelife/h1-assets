@@ -14,7 +14,6 @@ com.coinbase.android
 org.toshi
 com.coinbase.wallite
 com.tumblr
-Glassdoor Android
 com.adobe.lrmobile
 com.adobe.scan.android
 com.adobe.reader
