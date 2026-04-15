@@ -1116,10 +1116,10 @@ api.direct.playstation.com
 ps5.np.playstation.net
 checkout.playstation.com
 agents.hostinger.com
+http://payments.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
-payments.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 reach.hostinger.com

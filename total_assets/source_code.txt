@@ -103,7 +103,6 @@ nextcloud/updater
 nextcloud/files_fulltextsearch_tesseract
 https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-link-android
-https://github.com/plaid/plaid-link-examples
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
