@@ -414,7 +414,6 @@ www.hyatt.com
 world.hyatt.com
 assets.hyatt.com
 book.cheapcaribbean.com
-res.treasureisland.globalbookingsolutions.com
 res.vacations.buschgardens.com
 res.vacations.sesameplace.com
 vacations.travelimpressions.com
