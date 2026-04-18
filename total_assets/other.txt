@@ -221,6 +221,7 @@ Core Assets
 bankaccountdata.gocardless.com
 Passkey Wallet
 https://www.amazonpay.in/*
+Managed OpenClaw
 H5G
 mail.hostinger.com/v2
 s3://faraday-uploads
