@@ -1878,12 +1878,14 @@ https://app.insomnia.rest/
 http://cloud.konghq.com
 developer.konghq.com
 konghq.com
+meesho.io
 www.meesho.com
 admin.meeshosupply.com
 supplier.meesho.com
 affiliate.meesho.com
 www.valmo.in
 superstoreapp.meesho.com
+investor.meesho.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 1win.com
 https://1win.com/betting

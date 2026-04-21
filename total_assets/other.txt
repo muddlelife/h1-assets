@@ -115,6 +115,7 @@ GitHub CSP
 Braintree SDK
 PayPal SDK
 Subdomain Takeover (SDTO)
+DRM (Digital Rights Management) System
 Other Spotify websites
 Anchor
 Sonantic
