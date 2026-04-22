@@ -75,9 +75,6 @@ com.skypicker.main
 com.dyson.mobile.android
 com.exness.investments
 com.exness.android.pa
-com.nextcloud.client
-com.nextcloud.talk2
-it.niedermann.owncloud.notes
 com.acronis.acronistrueimage
 com.acronis.abc
 com.brave.browser

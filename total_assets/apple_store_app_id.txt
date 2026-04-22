@@ -72,9 +72,6 @@ com.skypicker.Skypicker
 Exness Trade: Online Trading
 Exness Social Trading
 Exness Investor
-com.nextcloud.Talk
-it.twsweb.Nextcloud
-com.peterandlinda.iOCNotes
 1118448159
 978342143
 1192506963

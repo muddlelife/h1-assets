@@ -622,6 +622,7 @@ code.yoti.com
 www.yotisign.com
 hub.yoti.com
 identity.yoti.com
+cloud.threatdown.com
 www.malwarebytes.com
 my.malwarebytes.com
 cloud.malwarebytes.com
@@ -1897,9 +1898,6 @@ cashier.robinhood.com
 minerva.robinhood.com
 nummus.robinhood.com
 identi.robinhood.com
-fusion.tradepmr.com
-www.tradepmr.com
-insight2.tradepmr.com
 www.bitstamp.net
 www.doordash.com
 http://tsock.us1.twilio.com
