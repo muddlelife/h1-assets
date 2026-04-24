@@ -337,7 +337,6 @@ support*.earlywarning.com
 *.gocardless-cicd.io
 *.gocardless.io,*.gocardless-banking.io
 *.gocardless.com
-*.web3factory.consensys.net
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
@@ -517,6 +516,7 @@ sub*.aws.indriverapp.com
 wd2*.indriverapp.com
 *.boozt.com
 *.booztlet.com
+*.superbet.gr
 *.superbet.ro
 *.superbet.rs
 *.superbet.com

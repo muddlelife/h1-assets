@@ -1074,8 +1074,6 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 auth0.gocardless.com
 payer-details-sandbox.gocardless.com
-staking.consensys.io
-https://consensys.io/
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
@@ -1847,6 +1845,7 @@ hubspot.net
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://www.coloros.com/
+https://developers.oppomobile.com/
 opposhop.cn
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
