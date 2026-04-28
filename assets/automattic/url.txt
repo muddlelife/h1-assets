@@ -1,3 +1,4 @@
+parse.ly
 api.tumblr.com
 safe.tumblr.com
 secure.tumblr.com

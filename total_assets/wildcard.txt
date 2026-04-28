@@ -589,6 +589,7 @@ api*.hubspot.com
 api*.hubapi.com
 https://*.api.konghq.com
 https://us.identity.konghq.com/*
+*.bancoplata.mx
 *.platacard.mx
 https://*.saytechnologies.com
 *.sip.*.twilio.com

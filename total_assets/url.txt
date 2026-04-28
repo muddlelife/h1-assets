@@ -102,6 +102,7 @@ coinbase.com
 http://coinbase.com
 international.coinbase.com
 nft.coinbase.com
+parse.ly
 api.tumblr.com
 safe.tumblr.com
 secure.tumblr.com
@@ -1484,7 +1485,6 @@ https://secure-test.six-swiss-exchange.com/
 prd-ring-web-us.prd.rings.solutions
 publicsafety.ring.com
 toolsforhumanity.com
-getworldcoin.com
 worldcoin.org
 developer.worldcoin.org
 world.org

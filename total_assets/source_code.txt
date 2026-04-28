@@ -114,6 +114,13 @@ https://github.com/Web3Auth/web3auth-web
 https://www.zabbix.com/download_sources
 OKX Wallet Core Open Source
 https://github.com/tronprotocol/java-tron
+https://github.com/worldcoin/orb-software
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
 https://github.com/worldcoin
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/kotlin-sdk

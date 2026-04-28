@@ -1,1 +1,2 @@
+*.bancoplata.mx
 *.platacard.mx
