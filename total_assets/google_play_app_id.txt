@@ -277,15 +277,17 @@ com.nbaimd.gametime.nba2011
 com.syfe
 https://play.google.com/store/apps/details?id=com.verily.me
 HubSpot Android Mobile App
-com.coloros.browser
+com.coloros.video
 com.heytap.browser
 com.heytap.cloud
 com.heytap.health.international
 com.heytap.market
 com.heytap.themestore
+com.heytap.xgame
 com.oplus.account
 com.oplus.themestore
 com.oppo.market
+com.oppo.quicksearchbox
 com.heytap.store
 com.heytap.mall
 com.oppo.store

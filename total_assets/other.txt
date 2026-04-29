@@ -363,6 +363,8 @@ https://oauth.ring.com/*
 https://billing.ring.com/*
 Secondary Assets
 Primary Assets
+forms.cybersource.com
+*.prod.innovexperiments.com
 *.visamiddleeast.com
 e-Commerce
 Other related e-commerce services
@@ -393,9 +395,6 @@ HubSpot Sales Office 365 add-in
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 ColorOS
 Low Level Properties and Test environment
-Extremely high properties
-Moderate Level Properties
-High Level Properties
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 Dia Assistant

@@ -40,6 +40,10 @@ com.oplus.studycenter
 com.qpon.merchant
 com.qpon.platform
 com.shopai.apps
+com.katanlabs.bubblepop
+com.katanlabs.matchballgame
+com.fullmetalgamedev.fruitshooting
+com.oplus.games
 com.heytap.music
 com.heytap.pictorial
 com.coloros.pictorial
