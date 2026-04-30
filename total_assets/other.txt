@@ -322,6 +322,7 @@ Atlas Charts
 Atlas IAM
 Atlas Data Federation
 Atlas Payments/Billing
+Web3 - Smart Contracts Scope
 Tier 1
 Tier 2
 MetaMask SDK
