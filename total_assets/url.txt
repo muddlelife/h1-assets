@@ -863,6 +863,7 @@ hotel-development.marriott.com
 ifast.marriott.com
 ssm-marriottms.saviyntcloud.com
 wechat.api.marriott.com
+login.remitly.com
 remitly.com
 blog.remitly.com
 api.remitly.io
