@@ -28,7 +28,6 @@ book.booktandl.com
 login.www.vaxvacationaccess.com
 new.www.vaxvacationaccess.com
 res.blueskytours.globalbookingsolutions.com
-res.southwestvacations.com
 res.universalorlandovacations.com
 res.vacations.united.com
 res.vacations.universalstudioshollywood.com

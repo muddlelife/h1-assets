@@ -325,7 +325,6 @@ https://*.creditkarma.ca
 *.snooguts.net
 *.redditmedia.com
 *.spiketrap.io
-*.memorable.io
 *.reddit.com
 *.zellepay.com
 *.earlywarning.com
