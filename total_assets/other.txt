@@ -236,6 +236,7 @@ Figma for Microsoft Teams
 Figma Atlassian App
 Other Asset (Campaigns)
 Intellectual Property on Public Domains
+Freshservice Discovery Agent and Probe
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux

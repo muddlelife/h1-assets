@@ -1194,6 +1194,12 @@ connect.8x8.com
 apps.8x8.com
 video-agent.8x8.com
 converse.8x8.com
+yourdomain.freshchat.com
+yourdomain.freshcaller.com
+yourdomain.myfreshworks.com
+yourdomain.freshdesk.com
+yourdomain.freshservice.com
+yourdomain.freshrelease.com
 www.xvideos.com
 www.xvideos.red
 www.xnxx.com

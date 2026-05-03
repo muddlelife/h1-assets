@@ -175,6 +175,11 @@ iOS Playstation App
 1235601864
 1591003012
 8x8-work
+Freshdesk-iOS-App
+Freshservice-iOS-App
+Freshchat-iOS-App
+Freshcaller-iOS-App
+Freshservice-Intune-iOS-App
 Citrix Secure Access client for macOS
 319881193
 978516833
