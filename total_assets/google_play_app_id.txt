@@ -308,3 +308,4 @@ net.bitstamp.app
 com.robinhood.global Android
 com.dd.doordash
 https://www.authy.com/download/
+SUPERAPP (AOS)
