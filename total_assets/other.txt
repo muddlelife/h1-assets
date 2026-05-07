@@ -66,7 +66,6 @@ GitLab for Jira Cloud
 Tier 1 Assets
 Tier 2 Assets
 Tier 3 Assets
-uber.com
 Recon Data
 *.uberinternal.com
 *ubereats.com

@@ -1,4 +1,3 @@
-uber.com
 Recon Data
 *.uberinternal.com
 *ubereats.com
