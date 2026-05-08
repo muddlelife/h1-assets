@@ -130,6 +130,7 @@ https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
 https://github.com/buildonspark/spark
+github.com/anthropics
 https://www.npmjs.com/package/@privy-io/react-auth
 Open Source - Atlas
 https://github.com/Chia-Network/chia-blockchain
@@ -140,6 +141,7 @@ https://github.com/Chia-Network/chiapos
 https://github.com/Chia-Network/chiavdf
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp

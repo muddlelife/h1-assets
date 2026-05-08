@@ -762,6 +762,7 @@ developer.crypto.com
 developer-api.crypto.com
 og.com
 comic.pixiv.net
+premium.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
 accounts.pixiv.net
@@ -1696,6 +1697,12 @@ http://app.lightspark.com
 https://link.uma.me
 app.uma.money
 app.blueskytravelvietnam.com
+claude.ai
+console.anthropic.com
+api.anthropic.com
+docs.anthropic.com
+support.anthropic.com
+anthropic.atlassian.com
 http://testnet.bybit.eu
 http://www.bybit.com/trade/tradfi/
 http://www.bybit.com/en/alpha/overview/

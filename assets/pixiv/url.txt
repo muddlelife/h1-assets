@@ -1,4 +1,5 @@
 comic.pixiv.net
+premium.pixiv.net
 sketch.pixiv.net
 sensei.pixiv.net
 accounts.pixiv.net

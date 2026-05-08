@@ -1,5 +1,6 @@
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp
