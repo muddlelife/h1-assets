@@ -13,6 +13,7 @@ UISP
 GitHub CLI
 npm CLI
 GitHub Desktop
+Save to Spotify CLI
 Spotify desktop application (Windows and Mac)
 Rockstar Games Launcher
 Files.com Command Line Interface (CLI) App

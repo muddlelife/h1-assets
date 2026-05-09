@@ -107,7 +107,6 @@ https://github.com/kubernetes-security
 https://github.com/kubernetes-client
 github.com/kubernetes-csi
 https://github.com/Dynatrace
-LaunchDarkly Open Source SDKs
 https://github.com/DopplerHQ/cli
 https://github.com/moonpay
 https://github.com/Web3Auth/web3auth-web

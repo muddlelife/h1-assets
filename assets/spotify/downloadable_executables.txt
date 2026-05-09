@@ -1,1 +1,2 @@
+Save to Spotify CLI
 Spotify desktop application (Windows and Mac)

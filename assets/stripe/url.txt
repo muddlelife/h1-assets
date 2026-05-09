@@ -1,3 +1,4 @@
+mcp.stripe.com
 *.link.co
 api.stripe.com
 *.stripe.com

@@ -1188,11 +1188,6 @@ wiki.cs.money
 blog.cs.money
 www.figma.com
 api.figma.com
-docs.launchdarkly.com
-app.launchdarkly.com
-events.launchdarkly.com
-stream.launchdarkly.com
-https://launchdarkly.com/docs
 staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
@@ -1272,6 +1267,7 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+mcp.stripe.com
 *.link.co
 api.stripe.com
 *.stripe.com
