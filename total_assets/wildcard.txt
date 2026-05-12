@@ -33,9 +33,6 @@ munin-*.wordpress.org
 *.yelp.com
 *.yelp-support.com
 *.yelpwifi.com
-*.scopely.com
-*.scopely.io
-*.withbuddies.com
 *.ui.com
 *.ubnt.com
 *.uisp.com

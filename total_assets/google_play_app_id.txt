@@ -22,16 +22,6 @@ com.bitstrips.imoji
 com.snapchat.android
 com.yelp.android.biz
 com.yelp.android
-com.foxnextgames.m3
-com.pieyel.scrabble
-com.withbuddies.dice.free
-com.scopely.yux
-com.scopely.monopolygo
-com.scopely.startrek
-com.gsn.android.casino
-com.gsn.grandcasino
-air.com.bitrhymes.bingo
-com.gsn.android.tripeaks
 com.ubnt.easyunifi
 com.ubnt.umobile
 com.ubnt.discovery.app

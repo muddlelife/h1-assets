@@ -86,9 +86,6 @@ Adobe Commerce, Commerce B2B and Commerce Open Source
 *.sc-corp.net
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
-Games Tier 1
-Games Tier 2
-Games Tier 3
 UniFi Cloud
 UID
 Localized airbnb sites listed at the link below:
