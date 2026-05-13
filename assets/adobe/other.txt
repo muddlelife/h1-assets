@@ -9,6 +9,7 @@ Photoshop AI Assistant
 Firefly Image Models
 Firefly Video Model
 Stock AI Studio
+Behance Freelance Job creation
 C2PA Tool
 *.lightroom.adobe.com
 Adobe Commerce, Commerce B2B and Commerce Open Source
