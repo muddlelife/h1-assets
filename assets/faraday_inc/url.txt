@@ -1,3 +1,5 @@
+buy.faraday.ai
+row.pro
 app.faraday.ai
 api.faraday.ai
 vault2.faraday.ai

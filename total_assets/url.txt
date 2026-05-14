@@ -1169,6 +1169,8 @@ hpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 reach.hostinger.com
+buy.faraday.ai
+row.pro
 app.faraday.ai
 api.faraday.ai
 vault2.faraday.ai

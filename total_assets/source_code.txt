@@ -106,7 +106,6 @@ github.com/kubernetes-csi
 https://github.com/Dynatrace
 https://github.com/DopplerHQ/cli
 https://github.com/moonpay
-https://github.com/Web3Auth/web3auth-web
 https://www.zabbix.com/download_sources
 OKX Wallet Core Open Source
 https://github.com/tronprotocol/java-tron
