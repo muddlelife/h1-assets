@@ -336,7 +336,6 @@ support*.earlywarning.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
-*.grateful.me
 *.amazon.cl
 *.amazon.co.za
 *.amazon.com.au
