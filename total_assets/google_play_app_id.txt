@@ -180,7 +180,6 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.ss.android.ugc.trill
 com.tiktokshop.seller
-org.vom8x8.sipua
 com.freshservice.helpdesk
 com.freshdesk.helpdesk
 com.freshchat.agent.android

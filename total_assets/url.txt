@@ -1147,6 +1147,11 @@ business.truecaller.com
 www.evernote.com
 accounts.evernote.com
 api.evernote.com
+profile.playstation.com
+session-share.playstation.com
+compete.playstation.com
+web.np.playstation.com
+www.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com

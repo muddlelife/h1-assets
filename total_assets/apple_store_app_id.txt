@@ -168,7 +168,6 @@ iOS Playstation App
 835599320
 1235601864
 1591003012
-8x8-work
 Freshdesk-iOS-App
 Freshservice-iOS-App
 Freshchat-iOS-App
