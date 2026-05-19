@@ -337,8 +337,6 @@ Notion Authentication
 Github Repositories or other public artifacts owned by makenotion
 Any public cloud resource or infrastructure operated and managed by REI.
 Android & iOS App for REI Customers
-*.magiceden.io
-*.magiceden.dev
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable

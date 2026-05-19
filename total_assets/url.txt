@@ -1484,7 +1484,6 @@ vfo02.vodafone.om
 vfo03.vodafone.om
 kronor.io
 api.dicey.com
-magiceden.io
 dicey.com
 www.pornbox.com
 www.analvids.com
@@ -2015,6 +2014,7 @@ https://c.realme.com/in/
 https://c.realme.com/ru/
 https://community.oppo.com/
 https://communityin.oppo.com/
+https://e-global.heytap.com/marketing/login
 opposhop.cn
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
