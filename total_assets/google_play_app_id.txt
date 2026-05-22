@@ -67,7 +67,6 @@ com.exness.investments
 com.exness.android.pa
 com.acronis.acronistrueimage
 com.acronis.abc
-com.brave.browser
 com.lyst.lystapp
 com.enjin.mobile.wallet
 com.nordvpn.android

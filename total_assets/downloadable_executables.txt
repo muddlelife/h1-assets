@@ -29,7 +29,6 @@ Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Burp Suite Pro/Community
 Burp Collaborator
-Brave Browser Desktop
 NordVPN - Windows Executable
 NordVPN - MacOS Executable
 NordVPN - Linux Executable
