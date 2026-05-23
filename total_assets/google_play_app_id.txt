@@ -63,7 +63,6 @@ com.Hyatt
 https://play.google.com/store/apps/details?id=com.myntra.android
 com.skypicker.main
 com.dyson.mobile.android
-com.exness.investments
 com.exness.android.pa
 com.acronis.acronistrueimage
 com.acronis.abc
