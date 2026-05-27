@@ -1,5 +1,5 @@
+Elastic Credentials
 Elastic Synthetics Monitoring
-elastic.co credentials
 Software Supply Chain
 Elastic Clients
 Other

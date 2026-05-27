@@ -18,8 +18,6 @@ https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab-pages
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
-https://github.com/contentauth/c2pa-js
-https://github.com/contentauth/c2pa-rs
 https://lensstudio.snapchat.com/api/
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 https://www.mapbox.com/mapbox-gl-js/

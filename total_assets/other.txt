@@ -178,8 +178,8 @@ v1staging.kidswebservices.com
 v1. kidswebservices.com
 Steam Servers
 Steam Client
+Elastic Credentials
 Elastic Synthetics Monitoring
-elastic.co credentials
 Software Supply Chain
 Elastic Clients
 Other
@@ -215,7 +215,6 @@ Tier 2
 Tier 3
 All other Assets
 Core Assets
-bankaccountdata.gocardless.com
 Passkey Wallet
 https://www.amazonpay.in/*
 Managed OpenClaw

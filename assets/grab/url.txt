@@ -2,8 +2,6 @@ grab.careers
 p.grabtaxi.com
 gamma.grab.co
 manage.grab.co
-jira.grab.com
-wiki.grab.com
 kartaview.org
 api.grabpay.com
 xtramile.grabpay.com

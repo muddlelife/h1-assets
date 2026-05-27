@@ -330,9 +330,6 @@ developer*.earlywarning.com
 support*.earlywarning.com
 *.sprint.dynatracelabs.com
 *.sprint.apps.dynatracelabs.com
-*.gocardless-cicd.io
-*.gocardless.io,*.gocardless-banking.io
-*.gocardless.com
 *.exodus.io
 *.a.exodus.io
 *.exodus.com
