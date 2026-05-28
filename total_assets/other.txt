@@ -193,7 +193,6 @@ CosmWasm
 CometBFT
 Cosmos SDK
 ibc-go
-Horcrux
 Hermes Relayer
 Solidity IBC Eureka
 com.affirm.internal.hackerone

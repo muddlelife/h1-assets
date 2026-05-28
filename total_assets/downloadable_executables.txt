@@ -1,3 +1,4 @@
+grok-build-cli
 basecamp3.exe
 Basecamp.app
 HEY.app

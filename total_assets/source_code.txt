@@ -11,7 +11,6 @@ Gutenberg
 https://github.com/slackhq/nebula
 https://github.com/coinbase/cb-mpc
 Jetpack
-https://gitlab.com/gitlab-org/opstrace/opstrace
 https://gitlab.com/gitlab-org/gitlab
 https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitaly

@@ -1574,6 +1574,7 @@ testbank.xs2a.com
 askpeopleteam.visa.com
 releasor.payworks.com/
 https://ebctest.cybersource.com/pbl
+survey.visa.com
 aw.visa.com
 bb.visa.com
 bd.visa.com
