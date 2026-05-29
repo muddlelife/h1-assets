@@ -730,6 +730,7 @@ databricks.com
 accounts.cloud.databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 sandbox.affirm.com
+seraphicsecurity.com
 falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.org
@@ -1110,6 +1111,7 @@ account-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 manage-sandbox.gocardless.com
+developer.gocardless.com
 www.gocardless.com
 pay-sandbox.gocardless.com
 api-sandbox.gocardless.com

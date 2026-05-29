@@ -1,4 +1,5 @@
 manage-sandbox.gocardless.com
+developer.gocardless.com
 www.gocardless.com
 pay-sandbox.gocardless.com
 api-sandbox.gocardless.com
