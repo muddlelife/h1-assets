@@ -150,7 +150,6 @@ Files.com Mobile App
 Other Acronis Domains
 Acronis Cyber Infrastructure
 Burp Suite DAST
-Brave websites
 Other Semrush Related Asset
 Leaked/Сompromised Employee accounts
 Other APK Assets
@@ -236,6 +235,11 @@ Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
+Stripe CLI
+Stripe Projects
+Stripe fiat-to-crypto onramp
+Global Payouts
+Customer Portal
 Stripe Apps
 Stripe Payment Links
 Stripe Invoicing

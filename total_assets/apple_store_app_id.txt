@@ -68,7 +68,6 @@ Exness Investor
 1118448159
 978342143
 1192506963
-com.brave.ios.browser
 597940518
 com.enjin.mobile.wallet
 905953485

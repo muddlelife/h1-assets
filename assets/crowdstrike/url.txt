@@ -1,8 +1,10 @@
-seraphicsecurity.com
+sgnl.ai
+sgnl.cloud
+sgnl.team
+sgnlapis.cloud
 falcon-sandbox.com
 hybrid-analysis.com
 www.crowdstrike.org
 www.crowdstrike.com
 onum.com
 onum-labs.com
-pangea.cloud
