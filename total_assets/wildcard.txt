@@ -210,6 +210,7 @@ dev.epicgames.com/*
 *.prelert.com
 *.theelasticast.com
 *.bitmex.com
+*.ppb.com
 *.betfair.es
 *.betfair.it
 *.betfair.ro
