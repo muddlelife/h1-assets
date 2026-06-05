@@ -104,7 +104,6 @@ https://github.com/Dynatrace
 https://github.com/DopplerHQ/cli
 https://github.com/moonpay
 https://www.zabbix.com/download_sources
-OKX Wallet Core Open Source
 https://github.com/tronprotocol/java-tron
 https://github.com/worldcoin/orb-software
 https://github.com/worldcoin/orb-firmware

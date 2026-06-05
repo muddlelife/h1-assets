@@ -214,7 +214,6 @@ air.com.buffalo_studios.newflashbingo
 com.youdagames.monopolypoker
 com.playtika.caesarscasino
 com.jellybtn.boardkings
-ai.kanghealth
 org.hartfordhealthcare.hhc247
 com.whatnot_mobile
 com.newegg.app

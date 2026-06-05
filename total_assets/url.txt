@@ -1297,15 +1297,11 @@ gnocchi-www.buffalo-ggn.net
 smtp2go.com
 app.smtp2go.com
 api.smtp2go.com
-www.kpharmacyllc.com
-start.khealth.com
-app.khealth.com
 kaccount.khealth.com
 ask.khealth.com
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
-salesforce.khealth.com
 http://clinical-quality.khealth.com/api/v1
 api.khealth.com
 accounts.khealth.com
