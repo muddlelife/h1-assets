@@ -90,6 +90,7 @@ Tier B - Non Core (Bitmoji, Playcanvas)
 UniFi Cloud
 UID
 Localized airbnb sites listed at the link below:
+Authentication & ATO
 Shopify Developed Apps
 Shopify Mobile Applications
 C100447517
@@ -150,7 +151,6 @@ Files.com Mobile App
 Other Acronis Domains
 Acronis Cyber Infrastructure
 Burp Suite DAST
-Brave websites
 Other Semrush Related Asset
 Leaked/Сompromised Employee accounts
 Other APK Assets
@@ -286,8 +286,6 @@ Tier 1 Studios
 Tier 2
 Tier 3
 Tier 1
-Tier 1
-Tier 2
 Other
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.

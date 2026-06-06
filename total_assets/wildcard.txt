@@ -402,8 +402,16 @@ https://*.chalet.8x8.com/ws/v1
 *.playticorp.com
 *.caesarsgames.com
 *.boardkingsgame.com
+*.hhc247.org
+*.khealth-test.com
+*.csconnect.org
+*.mgbcareconnect.org
+*.northwellprimarycarenow.com
+*.hmh247.org
+*.primarycareondemand.mayoclinic.org
+*.novanthealthvirtualprimarycare.org
+*.pennmedicine.connect-visit.com
 https://*.khealth.com
-https://*.khealth.io/
 *.whatnot.com
 *.krisp.ai
 http://*.newegg.com

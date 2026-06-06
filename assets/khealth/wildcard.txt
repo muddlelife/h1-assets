@@ -1,2 +1,10 @@
+*.hhc247.org
+*.khealth-test.com
+*.csconnect.org
+*.mgbcareconnect.org
+*.northwellprimarycarenow.com
+*.hmh247.org
+*.primarycareondemand.mayoclinic.org
+*.novanthealthvirtualprimarycare.org
+*.pennmedicine.connect-visit.com
 https://*.khealth.com
-https://*.khealth.io/
