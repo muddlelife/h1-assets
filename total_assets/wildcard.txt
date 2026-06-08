@@ -367,6 +367,7 @@ primevideo.com/*
 *.sheingsp.com
 *.shein.com
 *.romwe.com
+*.soundon.global
 *.pipopay.com
 *.tiktokpublishers.com
 *.tiktokcdn.com

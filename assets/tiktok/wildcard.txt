@@ -1,3 +1,4 @@
+*.soundon.global
 *.pipopay.com
 *.tiktokpublishers.com
 *.tiktokcdn.com

@@ -1198,6 +1198,7 @@ staking-api.polygon.technology
 faucet.polygon.technology
 portal.polygon.technology
 staking.polygon.technology
+www.soundon.global
 effecthouse.tiktok.com
 partner.tiktokshop.com
 shop.tiktok.com
