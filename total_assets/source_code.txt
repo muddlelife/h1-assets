@@ -18,6 +18,7 @@ https://gitlab.com/gitlab-org/gitlab-pages
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://lensstudio.snapchat.com/api/
+https://www.npmjs.com/package/@airtable/mcp-cli
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 https://www.mapbox.com/mapbox-gl-js/
 https://docs.mapbox.com/ios/maps/overview/
@@ -103,7 +104,6 @@ github.com/kubernetes-csi
 https://github.com/Dynatrace
 https://github.com/DopplerHQ/cli
 https://github.com/moonpay
-https://www.zabbix.com/download_sources
 https://github.com/tronprotocol/java-tron
 https://github.com/worldcoin/orb-software
 https://github.com/worldcoin/orb-firmware

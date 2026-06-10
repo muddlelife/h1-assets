@@ -199,6 +199,7 @@ uisp.com
 unifi.ui.com
 careers.ui.com
 ispdesign.ui.com
+mcp.staging.airtable.com
 api-staging.airtable.com
 staging.airtable.com
 kyc-onboarding.booking.com
@@ -554,6 +555,7 @@ your-assigned-subdomain.files.com
 www.files.com
 beta-cloud.acronis.com
 account.acronis.com
+id.portswigger.net
 portswigger.net
 ai.portswigger.net
 http1mustdie.com

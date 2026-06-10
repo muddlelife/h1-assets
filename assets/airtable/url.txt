@@ -1,2 +1,3 @@
+mcp.staging.airtable.com
 api-staging.airtable.com
 staging.airtable.com
