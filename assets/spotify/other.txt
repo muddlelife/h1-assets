@@ -1,6 +1,7 @@
-DRM (Digital Rights Management) System
 Other Spotify websites
 Anchor
+Megaphone
+Podsights
 Sonantic
 Core Assets
 Non-Core Assets
@@ -8,6 +9,5 @@ GHE
 Jira
 Okta
 VPN
-Megaphone
 Wrapped
-Podsights
+DRM (Digital Rights Management) System

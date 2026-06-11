@@ -1,3 +1,7 @@
+air.com.playtika.slotomania
+air.com.buffalo_studios.newflashbingo
+com.playtika.caesarscasino
+com.jellybtn.boardkings
 com.pacificinteractive.HouseOfFun
 com.playtika.wsop.gp
 com.Seriously.BestFiends
@@ -12,8 +16,4 @@ lol.onevone
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 com.wooga.pearlsperil
-air.com.playtika.slotomania
-air.com.buffalo_studios.newflashbingo
 com.youdagames.monopolypoker
-com.playtika.caesarscasino
-com.jellybtn.boardkings

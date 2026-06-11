@@ -1,7 +1,7 @@
-WP Cloud
 WooCommerce
 Crowdsignal
 WordPress Plugins & Themes
 Texts
 Beeper
 WordPress VIP
+WP Cloud

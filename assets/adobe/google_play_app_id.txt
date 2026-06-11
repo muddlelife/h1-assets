@@ -1,4 +1,4 @@
+com.adobe.reader
 com.adobe.lrmobile
 com.adobe.scan.android
-com.adobe.reader
 com.adobe.workfront

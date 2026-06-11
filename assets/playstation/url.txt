@@ -1,8 +1,3 @@
-profile.playstation.com
-session-share.playstation.com
-compete.playstation.com
-web.np.playstation.com
-www.playstation.com
 *.playstation.net
 *.sonyentertainmentnetwork.com
 *.api.playstation.com
@@ -11,9 +6,14 @@ store.playstation.com
 social.playstation.com
 transact.playstation.com
 wallets.api.playstation.com
-ca.account.sony.com
-my.account.sony.com
 direct.playstation.com
 api.direct.playstation.com
+ca.account.sony.com
+my.account.sony.com
 ps5.np.playstation.net
 checkout.playstation.com
+profile.playstation.com
+session-share.playstation.com
+compete.playstation.com
+web.np.playstation.com
+www.playstation.com

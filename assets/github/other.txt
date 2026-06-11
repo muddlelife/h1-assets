@@ -1,13 +1,13 @@
-Copilot
+GitHub CSP
 GitHub Enterprise Cloud
 GitHub Pages
 GitHub Production Credentials
 Dependabot
 GitHub for mobile
+Copilot
 Copilot Chat on dotcom
 Copilot for Business
 GitHub Enterprise Cloud with Data Residency (GHEC-DR)
 Copilot Spaces
 Copilot Coding Agent
 GitHub Spark
-GitHub CSP

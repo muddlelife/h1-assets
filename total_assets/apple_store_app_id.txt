@@ -1,7 +1,7 @@
 425194759
+1491791513
 486781045
 493086499
-1491791513
 288429040
 336381998
 com.atebits.Tweetie2
@@ -16,11 +16,11 @@ org.toshi.distribution
 com.vilcsak.bitcoin2
 com.tumblr.tumblr
 com.clay.ios
+com.iphone.workfront
 com.adobe.lrmobile
 com.adobe.PSMobile
 com.adobe.Adobe-Reader
 com.adobe.scan.ios
-com.iphone.workfront
 adobe.fresco.ios
 com.bitstrips.imoji
 com.toyopagroup.picaboo
@@ -47,8 +47,8 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-960335206
 434613896
+960335206
 6670203019
 6670536058
 com.wealthsimple.wealthsimple
@@ -87,8 +87,8 @@ id1534920947
 com.valvesoftware.Steam
 1589023233
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-com.defi.wallet
 com.monaco.mobile
+com.defi.wallet
 740514933
 455004730
 674258465
@@ -104,8 +104,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 1032480595
 982922982
-284971959
-1245772818
 566635048
 403546234
 483394780
@@ -113,6 +111,8 @@ com.creditkarma.mobile.international
 531549799
 880759727
 284803487
+284971959
+1245772818
 599664106
 1506229470
 1485539253
@@ -163,9 +163,9 @@ https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 iOS Playstation App
 878577184
 1080248000
-641062073
 835599320
 1235601864
+641062073
 1591003012
 Freshdesk-iOS-App
 Freshservice-iOS-App
@@ -179,9 +179,13 @@ com.hypr.one
 407558537
 1089294040
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
-6467634418
 524362642
 1127881507
+6467634418
+447553564
+529996768
+603097018
+1116488672
 586634331
 719525810
 868013618
@@ -197,23 +201,19 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 1510325826
 1215220850
 594802437
-447553564
-529996768
 1448884851
-603097018
-1116488672
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 6741442288
 Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
 https://apps.apple.com/app/id1635031432
-621574163
-1528364633
 944011620
 302584613
 947984433
 1324809509
+621574163
+1528364633
 com.wf.mobilebanking
 com.wf.ceomobile
 com.ripio.ios

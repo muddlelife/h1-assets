@@ -1,5 +1,5 @@
+metamask.io
 snaps.metamask.io
 signature-insights.api.cx.metamask.io
-metamask.io
 wallet.web3auth.io
 api-wallet.web3auth.io

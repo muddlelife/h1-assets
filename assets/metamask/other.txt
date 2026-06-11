@@ -1,5 +1,5 @@
+MetaMask Browser Extension
 MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
-MetaMask Browser Extension
 mUSD Stablecoin

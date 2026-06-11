@@ -1,7 +1,7 @@
-my.plaid.com
 production.plaid.com
 dashboard.plaid.com
 demo.plaid.com
 cdn.plaid.com
+my.plaid.com
 secure.plaid.com
 plaid.com

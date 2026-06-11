@@ -1,8 +1,8 @@
-agents.hostinger.com
-http://payments.hostinger.com
 www.hostinger.com
 cpanel.hostinger.com
 hpanel.hostinger.com
 builder.hostinger.com
 horizons.hostinger.com
 reach.hostinger.com
+agents.hostinger.com
+http://payments.hostinger.com

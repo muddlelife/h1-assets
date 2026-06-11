@@ -1,3 +1,16 @@
+Cloudflare Pages
+CDNJS
+WARP Mobile Apps
+Cloudflare Access
+Stream
+1.1.1.1 Resolver
+Magic Transit
+Spectrum
+Load Balancing
+Bot Management
+Cloudflare Zero Trust/Cloudflare One
+Open source tools from Cloudflare
+Area 1
 Cloudflare D1
 Cloudflare R2
 WARP desktop client
@@ -27,16 +40,3 @@ Magic WAN
 Data Loss Prevention (DLP)
 SSL/TLS
 Cloudflare Workers CI
-Cloudflare Pages
-CDNJS
-WARP Mobile Apps
-Cloudflare Access
-Stream
-1.1.1.1 Resolver
-Magic Transit
-Spectrum
-Load Balancing
-Bot Management
-Cloudflare Zero Trust/Cloudflare One
-Open source tools from Cloudflare
-Area 1

@@ -1,3 +1,8 @@
+*.mi.com
+*.xiaomi.com
+*.miui.com
+*.xiaomiyoupin.com
+*.miwifi.com
 *.airstar-finance.com
 *.airstar.com
 *.airstarfinance.net
@@ -35,8 +40,3 @@
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
-*.mi.com
-*.xiaomi.com
-*.miui.com
-*.xiaomiyoupin.com
-*.miwifi.com

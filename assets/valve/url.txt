@@ -1,8 +1,6 @@
 www.dota2.com
 support.steampowered.com
 partner.steampowered.com
-playartifact.com
-help.steampowered.com
 store.steampowered.com
 www.valvesoftware.com
 api.steampowered.com
@@ -11,3 +9,5 @@ steamcommunity.com
 www.teamfortress.com
 www.counter-strike.net
 developer.valvesoftware.com
+playartifact.com
+help.steampowered.com

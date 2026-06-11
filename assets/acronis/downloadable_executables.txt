@@ -1,7 +1,7 @@
-Other Acronis executables
-Acronis Cloud Manager
 Acronis Agent
 Acronis Cyber Protect
 Acronis DeviceLock DLP
 Acronis Snap Deploy
+Other Acronis executables
+Acronis Cloud Manager
 Acronis True Image (formerly Acronis Cyber Protect Home Office)

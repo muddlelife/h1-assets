@@ -1,2 +1,2 @@
-http://wellsfargo.com
 connect.secure.wellsfargo.com
+http://wellsfargo.com

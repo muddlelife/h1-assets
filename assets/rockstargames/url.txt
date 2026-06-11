@@ -1,8 +1,8 @@
-store.rockstargames.com
-*.rockstargames.com
-circolocorecords.com/
 socialclub.rockstargames.com
 rockstarnorth.com
 prod.ros.rockstargames.com
 support.rockstargames.com
+*.rockstargames.com
+store.rockstargames.com
+circolocorecords.com/
 www.rockstargames.com

@@ -1,9 +1,12 @@
-stock.adobe.com
-contributor.stock.adobe.com
-firefly.adobe.com
 account.adobe.com
 auth.services.adobe.com
 fonts.adobe.com
+repo.magento.com
+magento.com
+account.magento.com
+stock.adobe.com
+contributor.stock.adobe.com
+firefly.adobe.com
 https://contentcredentials.org/
 photoshop.adobe.com
 http://ims-na1.adobelogin.com
@@ -11,9 +14,6 @@ adobeid-na1.services.adobe.com
 http://federatedid-na1.services.adobe.com
 new.express.adobe.com
 net.s2stagehance.com
-repo.magento.com
-magento.com
-account.magento.com
 learningmanagerstage4.adobe.com
 photos.adobe.io
 portfolio.ccpsx.com

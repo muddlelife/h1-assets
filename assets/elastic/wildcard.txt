@@ -1,9 +1,9 @@
-*.elstc.co
-*.elasticnet.co
-*.eops.nl
 *.elastic.co
 *.found.io
 *.swiftype.com
+*.elstc.co
+*.elasticnet.co
+*.eops.nl
 *.elastic.dev
 *.ela.st
 *.elastic.wtf

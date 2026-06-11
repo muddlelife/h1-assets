@@ -1,8 +1,8 @@
+api.circle.com
+app.circle.com
+console.circle.com
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
 rpc.blockdaemon.testnet.arc.network
 rpc.testnet.arc.network
 https://github.com/circlefin/stellar-cctp
-api.circle.com
-app.circle.com
-console.circle.com

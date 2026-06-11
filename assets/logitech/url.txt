@@ -1,6 +1,3 @@
-www.logicool.co.jp
-logitechg.com.cn
-gaming.logicool.co.jp
 circle.logi.com
 id.logi.com
 accounts.logi.com
@@ -10,4 +7,7 @@ www.ultimateears.com
 www.astrogaming.com
 www.logitech.com.cn
 sync.logitech.com
+www.logicool.co.jp
+logitechg.com.cn
+gaming.logicool.co.jp
 logiq.logitech.io

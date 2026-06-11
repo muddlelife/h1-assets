@@ -1,4 +1,3 @@
-*.superbet.gr
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
@@ -11,3 +10,4 @@
 *.napoleonsports.be
 *.superbet.pl
 *.happening.dev
+*.superbet.gr

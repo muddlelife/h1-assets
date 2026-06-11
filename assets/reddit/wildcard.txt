@@ -3,5 +3,5 @@
 *.reddithelp.com
 *.snooguts.net
 *.redditmedia.com
-*.spiketrap.io
 *.reddit.com
+*.spiketrap.io

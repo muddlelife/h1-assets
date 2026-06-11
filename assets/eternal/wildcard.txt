@@ -1,10 +1,10 @@
-*.zdev.net
 *.zomato.com
-http://*.grofer.io
-http://*.grofers.com
+*.zdev.net
 *.zomans.com
 *.hyperpure.com
 *.runnr.in
+http://*.grofer.io
+http://*.grofers.com
 *.district.in
 *.edition.in
 *.ticketnew.com

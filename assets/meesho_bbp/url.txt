@@ -1,4 +1,3 @@
-meesho.io
 www.meesho.com
 admin.meeshosupply.com
 supplier.meesho.com
@@ -6,3 +5,4 @@ affiliate.meesho.com
 www.valmo.in
 superstoreapp.meesho.com
 investor.meesho.com
+meesho.io

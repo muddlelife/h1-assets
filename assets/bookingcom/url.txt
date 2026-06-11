@@ -1,5 +1,10 @@
-kyc-onboarding.booking.com
+booking.com
+secure.booking.com
+careers.booking.com
+https://iphone-xml.booking.com/json/
+https://secure-iphone-xml.booking.com/json/
 account.booking.com
+kyc-onboarding.booking.com
 taxi.booking.com
 widget.rentalcars.com
 cars.booking.com
@@ -22,9 +27,6 @@ accommodations.booking.com
 portal.taxi.booking.com
 flights.booking.com
 secure-supply-xml.booking.com
-booking.com
-secure.booking.com
-careers.booking.com
 http://secure-iphone-xml.booking.com/json/
 spark.fareharbor.com
 www.fareharbor.com
@@ -37,5 +39,3 @@ compass.fareharbor.com
 fhdn.fareharbor.com
 tableau.fareharbor.engineering
 fareharborsites.com
-https://iphone-xml.booking.com/json/
-https://secure-iphone-xml.booking.com/json/

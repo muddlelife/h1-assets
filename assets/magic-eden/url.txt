@@ -1,2 +1,2 @@
-api.dicey.com
 dicey.com
+api.dicey.com

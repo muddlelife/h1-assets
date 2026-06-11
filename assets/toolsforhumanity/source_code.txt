@@ -1,3 +1,4 @@
+https://github.com/worldcoin
 https://github.com/worldcoin/orb-software
 https://github.com/worldcoin/orb-firmware
 https://github.com/worldcoin/orb-core
@@ -5,4 +6,3 @@ https://github.com/worldcoin/orb-messages
 https://github.com/worldcoin/orb-secure-element
 https://github.com/worldcoin/orb-relay-messages
 https://github.com/worldcoin/orb-rustzone
-https://github.com/worldcoin

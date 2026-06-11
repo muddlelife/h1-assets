@@ -1,3 +1,4 @@
+Enterprise Edition Products and Tools
 All Evergreen Assets (Excluding staging)
 MongoDB Owned GitHub Repositories
 Cluster-To-Cluster sync
@@ -5,7 +6,6 @@ Compass
 Relational Migrator
 MongoDB Shell
 VS Code Plugin
-Enterprise Edition Products and Tools
 MongoDB Connectors
 MongoDB Atlas
 MongoDB Community Server

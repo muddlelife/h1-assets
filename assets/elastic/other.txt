@@ -1,6 +1,6 @@
-Elastic Credentials
+Other
+Elastic Package Registry
 Elastic Synthetics Monitoring
 Software Supply Chain
 Elastic Clients
-Other
-Elastic Package Registry
+Elastic Credentials

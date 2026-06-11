@@ -1,3 +1,3 @@
-*.sheingsp.com
 *.shein.com
 *.romwe.com
+*.sheingsp.com

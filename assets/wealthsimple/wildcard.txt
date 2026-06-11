@@ -1,2 +1,2 @@
-*.simpletax.ca
 *.wealthsimple.com
+*.simpletax.ca

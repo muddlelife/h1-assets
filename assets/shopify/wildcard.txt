@@ -1,6 +1,6 @@
+*.shopify.io
 *.shopify.com
 *.shopifykloud.com
-*.shopifycs.com
 *.shopifycloud.com
+*.shopifycs.com
 *.pci.shopifyinc.com
-*.shopify.io

@@ -1,7 +1,7 @@
-https://bridge.ripio.com/
 trade.ripio.com
 app.ripio.com
 https://kyc.ripio.com/
 http://auth.ripio.com
 defi.ripio.com
 sandbox-b2b.ripio.com
+https://bridge.ripio.com/

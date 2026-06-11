@@ -15,5 +15,5 @@ callbacks.airbnb.com
 *.muscache.com
 *.airbnb-aws.com
 *.luxuryretreats.com
-www.hoteltonight.com
 *.hoteltonight-test.com
+www.hoteltonight.com

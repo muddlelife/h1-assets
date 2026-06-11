@@ -1,8 +1,3 @@
-www.dyson.com.ua
-shop.dyson.tw
-www.dyson.tw
-www.gr.dyson.com
-www.dyson.com.ee
 www.dyson.co.uk
 www.dyson.com
 www.dysoncanada.ca
@@ -59,3 +54,8 @@ www.dyson.com.ro
 www.dyson.vn
 *.cp.dyson.com
 www.dyson.cn
+www.dyson.com.ua
+shop.dyson.tw
+www.dyson.tw
+www.gr.dyson.com
+www.dyson.com.ee
