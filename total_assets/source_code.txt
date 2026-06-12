@@ -2,7 +2,7 @@ https://github.com/cloudflare/workerd
 https://github.com/cloudflare/vinext
 WordPress Core
 BuddyPress Core
-BBPress Core
+bbPress Core
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 Gutenberg
 GlotPress

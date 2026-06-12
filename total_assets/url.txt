@@ -385,6 +385,7 @@ api2.grofers.com
 blinkit.com
 bistro-api.blinkit.com
 https://mcp-server.zomato.com/mcp
+https://signin-hackerone.hbstaging.website/
 poe.com
 *.goldmansachs.com
 *.gs.com
@@ -984,6 +985,12 @@ furydocs.io
 mercadolibreexperience.cl
 mercadolivreexperience.com.br
 sustentabilidadmercadolibre.com
+academy.mercadoads.com
+mercadoenvios.com.ve
+mercadopago.com.ve
+mpago.li
+mpago.la
+mercadobackoffice.com
 accounts.creditkarma.com
 www.creditkarma.ca
 api.creditkarma.com
@@ -1274,6 +1281,7 @@ shop.judge.me
 woocommerce-adapter.judge.me
 bigcommerce-adapter.judge.me
 cache.judge.me
+insights.judgeme.dev
 api.stripe.com
 *.stripe.com
 js.stripe.com
@@ -1446,13 +1454,11 @@ job.ryadom.kz
 ryadom.kz
 couriers.indrive.com
 careers.indrive.com
-coaching.supernovas.indrive.com
 indrive.com
 intercity.indrive.com
 media.indrive.com
 movie.indrive.com
 url-checker.indrive.com
-www.supernovas.indrive.com
 oymyakon.indriver.io
 teammate.indriver.io
 blog.indrive.com
