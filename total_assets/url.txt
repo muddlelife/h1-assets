@@ -386,6 +386,7 @@ blinkit.com
 bistro-api.blinkit.com
 https://mcp-server.zomato.com/mcp
 https://signin-hackerone.hbstaging.website/
+https://hackerone-m1rtuq8orz.hbstaging.website/
 poe.com
 *.goldmansachs.com
 *.gs.com
@@ -985,7 +986,6 @@ furydocs.io
 mercadolibreexperience.cl
 mercadolivreexperience.com.br
 sustentabilidadmercadolibre.com
-academy.mercadoads.com
 mercadoenvios.com.ve
 mercadopago.com.ve
 mpago.li
