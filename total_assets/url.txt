@@ -1121,15 +1121,6 @@ cloud.forescout.com
 account-sprint.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 myaccount-hardening.dynatracelabs.com
-www.gocardless.com
-pay-sandbox.gocardless.com
-api-sandbox.gocardless.com
-connect-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-ob.gocardless.com
-payer-details-sandbox.gocardless.com
-manage-sandbox.gocardless.com
-developer.gocardless.com
 larksuite.com
 lark-frontier.byteoversea.com
 file.larksuite.com
