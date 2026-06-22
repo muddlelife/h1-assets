@@ -148,6 +148,7 @@ http://*.grofers.com
 *.xunkids.com
 *.youpin.cn
 *.zmifi.com
+*.xiaomimimo.com
 *.lyst.com
 *.lystit.com
 *.lyst.co
