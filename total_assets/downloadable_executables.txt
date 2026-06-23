@@ -30,55 +30,6 @@ Acronis Cloud Manager
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Burp Suite Pro/Community
 Burp Collaborator
-NordVPN - Windows Executable
-NordVPN - MacOS Executable
-NordVPN - Linux Executable
-NordPass - Windows Executable
-NordPass - MacOS Executable
-NordPass - Linux Executable
-Roblox Client
-Roblox Studio
-Roblox Engine
-Malwarebytes for Windows
-Malwarebytes for Mac
-AdwCleaner
-Malwarebytes for Teams
-Malwarebytes Remediation for CrowdStrike
-Malwarebytes ToolSet (MBTS)
-Malwarebytes Windows Firewall Control
-Malwarebytes Support Tool (MBST)
-Grammarly Desktop for Windows
-Grammarly Desktop for macOS
-FortniteClient-Win64-Shipping.exe
-FortniteLauncher-Win64-Shipping.exe
-FortniteLauncher-Win64-Shipping_BE.exe
-FortniteLauncher-Win64-Shipping_EAC.exe
-FortniteLauncher.exe
-EOS C# SDK
-UnrealEditorFortnite-Win64-Shipping.exe
-EpicGamesLauncher.exe    
-UEFN
-Beats - Auditbeat
-Beats - Filebeat
-Beats - Heartbeat
-Beats - Metricbeat
-Beats - Packetbeat
-Beats - Winlogbeat
-Elastic Agent
-Elastic Cloud Enterprise (ECE)
-Elastic Cloud on Kubernetes (ECK)
-Elastic Enterprise Search
-Elastic Maps Server
-Elasticsearch
-Logstash
-Observability - APM Agents
-Observability - APM Server
-Fleet Server
-Kibana
-Beats
-Elastic Defend
-Beats - Osquerybeat
-Elastic Distributions of OpenTelemetry (EDOT)
 Streamlabs Desktop Application PC/MAC
 Logi Tune PC/MAC
 Logitech Sync
@@ -92,19 +43,13 @@ Dynatrace ActiveGate
 Dynatrace MobileAgent
 Windows OS Executable: Download here https://www.larksuite.com/download
 Mac OS Executable: Download here https://www.larksuite.com/download
-Exodus Desktop Wallet
-406056744
 Virtual Office Desktop
 doppler
 HyprUnlock.exe
 HYPR Workforce Access.app
 https://download.krisp.ai/win
 https://download.krisp.ai/mac
-Drivers
-Database Tools
 Notion Desktop App
-eufyMake Studio software
-3CX SBC
 Arc on Mac
 Arc on Windows
 Dia Browser

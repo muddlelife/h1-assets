@@ -14,4 +14,3 @@ https://webrtc.8x8.com/
 cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
-apps.8x8.com
