@@ -35,7 +35,6 @@ Hyperdrive
 Workers KV
 Cloudflare Analytics
 Cloudflare Durable Objects
-Turnstile
 Waiting Room
 Magic WAN
 Data Loss Prevention (DLP)
@@ -151,6 +150,37 @@ Files.com Mobile App
 Other Acronis Domains
 Acronis Cyber Infrastructure
 Burp Suite DAST
+Brave websites
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+All Other BitMEX Assets
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://testflight.apple.com/join/533gFghn
+Databricks Free Edition
+Open Scope
+CosmWasm
+CometBFT
+Cosmos SDK
+ibc-go
+Hermes Relayer
+Solidity IBC Eureka
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
 Crypto.com Wallet Extension
 Faucets
 Crypto
@@ -168,15 +198,6 @@ Tier 2
 Tier 3
 All other Assets
 Core Assets
-s3://faraday-uploads
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
 Other Asset (Campaigns)
 Intellectual Property on Public Domains
 Freshservice Discovery Agent and Probe
@@ -236,48 +257,43 @@ Tier 2
 Tier 3
 Tier 1
 Other
-Web3 - Smart Contracts Scope
-Tier 1
-Tier 2
-MetaMask Browser Extension
-MetaMask SDK
-https://metamask.github.io/phishing-warning/<vX.Y.Z>
-Snaps
-mUSD Stablecoin
-mpa.qr.web.m-pesa.com
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
 Any public cloud resource or infrastructure operated and managed by REI.
 Android & iOS App for REI Customers
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1
-Tier 2
-Tier 3
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/docs/libraries
-smtp.sendgrid.net
-Any host/web property verified to be owned by Twilio et al.
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Mozilla VPN Clients
+Product Delivery
+Mozilla Ad Routing Service
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+forms.cybersource.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+3CX Phone System
+3CX Live chat WordPress plugin

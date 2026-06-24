@@ -34,7 +34,6 @@ Hyperdrive
 Workers KV
 Cloudflare Analytics
 Cloudflare Durable Objects
-Turnstile
 Waiting Room
 Magic WAN
 Data Loss Prevention (DLP)

@@ -7,7 +7,6 @@ account.magento.com
 stock.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
-https://contentcredentials.org/
 photoshop.adobe.com
 http://ims-na1.adobelogin.com
 adobeid-na1.services.adobe.com
