@@ -156,6 +156,23 @@ Leaked/Сompromised Employee accounts
 Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Blockchain
+NordVPN Browser Extension
+All Mobile Assets
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
 Any other Epic games owned asset not listed in the out of scope section
 EpicOnlineServices
 v1staging.kidswebservices.com 
@@ -198,9 +215,20 @@ Tier 2
 Tier 3
 All other Assets
 Core Assets
-Other Asset (Campaigns)
-Intellectual Property on Public Domains
-Freshservice Discovery Agent and Probe
+Passkey Wallet
+https://www.amazonpay.in/*
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux
@@ -284,16 +312,31 @@ Primary Assets
 *.visamiddleeast.com
 forms.cybersource.com
 *.prod.innovexperiments.com
-e-Commerce
-Other related e-commerce services
-Recruitment services
-Main corporate site
-<locale>.trip.com
-Infrastructure & Internal Apps/Services
-Official Clients
-Claude Code
-Leaked Employee API Keys
-Claude Desktop Extensions and Claude.ai MCP servers
-Claude in Chrome
-3CX Phone System
-3CX Live chat WordPress plugin
+[Unico] Liveness Bypass
+Crypto infrastructure for cold and hot wallets
+Merchant Portal
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+Dia Assistant
+WHOOP 4.0 STRAP
+join.whoop.com
+WHOOP 5.0/MG STRAP
+GitHub Actions in our Public Repositories 
+Subdomain Takeover - konghq.com
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+Tier 1
+Tier 2
+Tier 3
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/docs/libraries
+smtp.sendgrid.net
+Any host/web property verified to be owned by Twilio et al.
