@@ -199,24 +199,6 @@ Solidity IBC Eureka
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
 Crypto.com Wallet Extension
-Faucets
-Crypto
-Leaked Credentials
-Tier 3
-Android & iOS App for Instacart Shoppers
-Android App
-iOS App
-Core Assets
-Non-Core Assets
-k8s.gcr.io
-https://storage.googleapis.com/kubernetes-release/
-Tier 1
-Tier 2
-Tier 3
-All other Assets
-Core Assets
-Passkey Wallet
-https://www.amazonpay.in/*
 H5G
 mail.hostinger.com/v2
 Managed OpenClaw
@@ -229,6 +211,8 @@ Figma Desktop App
 Figma iOS and Android apps
 Figma Slack App
 Figma for Microsoft Teams
+Other Asset (Campaigns)
+Freshservice Discovery Agent and Probe
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux
@@ -285,58 +269,6 @@ Tier 2
 Tier 3
 Tier 1
 Other
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
-WGP Slot Games
-https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
-Mac OS Executable
-Windows OS Executable
-OKX Android APK
-OKX iOS APP
-OKX Wallet Chrome Extension
-OKX Wallet Edge Add-ons
-OKX Wallet Safari Extension
-Mozilla VPN Clients
-Product Delivery
-Mozilla Ad Routing Service
-https://ring.com/*
-https://api.ring.com/*
-https://fw.ring.com/*
-https://app.ring.com/*
-https://admin.ring.com/*
-https://nw.ring.com/*
-https://oauth.ring.com/*
-https://billing.ring.com/*
-Secondary Assets
-Primary Assets
-*.visamiddleeast.com
-forms.cybersource.com
-*.prod.innovexperiments.com
 [Unico] Liveness Bypass
 Crypto infrastructure for cold and hot wallets
 Merchant Portal
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1
-Tier 2
-Tier 3
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/docs/libraries
-smtp.sendgrid.net
-Any host/web property verified to be owned by Twilio et al.

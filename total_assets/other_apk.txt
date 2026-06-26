@@ -14,4 +14,3 @@ com.android.browser
 com.nordvpn.android
 com.genevachat.staging
 FortniteClient-Android-Shipping-arm64-es2.apk
-com.larksuite.suite
