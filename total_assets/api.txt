@@ -1,9 +1,2 @@
 api-partner.spotify.com
-verified.clearme.com/v1/verification_sessions
-Crypto.com mobile app APIs that require an account
-Crypto.com Exchange APIs that require an account
-faucet-api.polygon.technology/
-api-gateway.polygon.technology
-gasstation.polygon.technology/
-api-polygon-tokens.polygon.technology/
 app.klarna.com

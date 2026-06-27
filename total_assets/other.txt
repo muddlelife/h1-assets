@@ -125,150 +125,69 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+Web3 - Smart Contracts Scope
 Tier 1
-Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.vennhypotheken.nl
-*.nextcapital.com
-Other Dyson Assets
-Github findings
-FIles.com REST API
-Files.com SDK's
-Files.com Mobile App
-Other Acronis Domains
-Acronis Cyber Infrastructure
-Burp Suite DAST
-Brave websites
-Other Semrush Related Asset
-Leaked/Сompromised Employee accounts
-Other APK Assets
-Other Hardware Assets
-MIUI OS for Xiaomi Phone
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Blockchain
-NordVPN Browser Extension
-All Mobile Assets
-Malwarebytes Privacy (VPN)
-BrowserGuard (Firefox/Chrome/Safari browser extension)
-ThreatDown Patch Management
-ThreatDown Endpoint Detection & Response (EDR)
-ThreatDown Endpoint Protection
-ThreatDown Device Control
-Any other Malwarebytes asset
-ThreatDown Browser Phishing Protection
-Any other ThreatDown asset
-Grammarly Browser Extensions
-Capture the Flag
-Superhuman Go
-Coda Chrome Extension
-Any other Epic games owned asset not listed in the out of scope section
-EpicOnlineServices
-v1staging.kidswebservices.com 
-v1. kidswebservices.com
-Steam Servers
-Steam Client
-Other
-Elastic Package Registry
-Elastic Synthetics Monitoring
-Software Supply Chain
-Elastic Clients
-Elastic Credentials
-All Other BitMEX Assets
-https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
-https://testflight.apple.com/join/533gFghn
-Databricks Free Edition
-Open Scope
-CosmWasm
-CometBFT
-Cosmos SDK
-ibc-go
-Hermes Relayer
-Solidity IBC Eureka
-com.affirm.internal.hackerone
-CrowdStrike public infrastructure
-Crypto.com Wallet Extension
-H5G
-mail.hostinger.com/v2
-Managed OpenClaw
-s3://faraday-uploads
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Other Asset (Campaigns)
-Freshservice Discovery Agent and Probe
-Citrix Secure Access client for Windows
-Citrix Secure Access client for iOS
-Citrix Secure Access client for Linux
-Citrix End Point Analysis (EPA) client for Linux
-Citrix End Point Analysis (EPA) client for Windows
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
-Eno® Browser Extension
-*.capitalone.com
-*.capitaloneshopping.com
-Capital One Shopping Browser Extension
-*.capitalonegslbex.com
-*.capitalone.ca
-https://apps.facebook.com/pokerheat
-https://apps.facebook.com/vegas_downtown_slots
-https://apps.facebook.com/pearls-peril
-1474700 (Steam app id)
-Tier 1 Studios
 Tier 2
-Tier 3
-Tier 1
-Other
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+mUSD Stablecoin
+mpa.qr.web.m-pesa.com
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+3CX Phone System
+3CX Live chat WordPress plugin
+*.audible.(TLD)
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
 [Unico] Liveness Bypass
 Crypto infrastructure for cold and hot wallets
 Merchant Portal
