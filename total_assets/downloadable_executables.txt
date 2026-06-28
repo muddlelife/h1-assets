@@ -16,7 +16,12 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Drivers
-Database Tools
-Notion Desktop App
+Dynatrace OneAgent
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+Windows OS Executable: Download here https://www.larksuite.com/download
+Mac OS Executable: Download here https://www.larksuite.com/download
+Exodus Desktop Wallet
+406056744
+eufyMake Studio software
 3CX SBC

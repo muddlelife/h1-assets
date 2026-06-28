@@ -125,48 +125,48 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Any public (Internet-facing) infrastructure owned and operated by Palantir.
-Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-Enterprise Edition Products and Tools
-All Evergreen Assets (Excluding staging)
-MongoDB Owned GitHub Repositories
-Cluster-To-Cluster sync
-Compass
-Relational Migrator
-MongoDB Shell
-VS Code Plugin
-MongoDB Connectors
-MongoDB Atlas
-MongoDB Community Server
-MongoDB IntelliJ Plugin
-MongoDB Partner Integrations
-MongoDB MCP Server
-MongoDB Assistant
-Jira Projects
-Atlas Charts
-Atlas IAM
-Atlas Data Federation
-Atlas Payments/Billing
-Web3 - Smart Contracts Scope
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
 Tier 1
 Tier 2
-MetaMask Browser Extension
-MetaMask SDK
-https://metamask.github.io/phishing-warning/<vX.Y.Z>
-Snaps
-mUSD Stablecoin
-mpa.qr.web.m-pesa.com
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
+Tier 3
+All other Assets
+Core Assets
+Passkey Wallet
+https://www.amazonpay.in/*
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+Mozilla VPN Clients
+Product Delivery
+Mozilla Ad Routing Service
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+forms.cybersource.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
 Infrastructure & Internal Apps/Services
 Official Clients
 Claude Code
@@ -189,5 +189,13 @@ Open Source - Spectator
 Secondary Assets
 Content Authorization Targets
 [Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/docs/libraries
+smtp.sendgrid.net
+Any host/web property verified to be owned by Twilio et al.
