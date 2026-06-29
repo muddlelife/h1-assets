@@ -1,1 +1,1 @@
-com.larksuite.suite
+com.wisdomtree.wtprime
