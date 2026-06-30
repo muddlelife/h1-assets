@@ -17,5 +17,4 @@ affiliate-id.tokopedia.com
 seller-id.tokopedia.com
 shop-id.tokopedia.com
 pay.tokopediax.com
-www.soundonw.us
 www.soundon.global
