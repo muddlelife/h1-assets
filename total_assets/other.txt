@@ -125,6 +125,17 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
 Other Dyson Assets
 Github findings
 FIles.com REST API
@@ -141,75 +152,6 @@ Other Hardware Assets
 MIUI OS for Xiaomi Phone
 Enjin Coin - Ethereum ERC-20 Contract
 Enjin Blockchain
-Malwarebytes Privacy (VPN)
-BrowserGuard (Firefox/Chrome/Safari browser extension)
-ThreatDown Patch Management
-ThreatDown Endpoint Detection & Response (EDR)
-ThreatDown Endpoint Protection
-ThreatDown Device Control
-Any other Malwarebytes asset
-ThreatDown Browser Phishing Protection
-Any other ThreatDown asset
-Grammarly Browser Extensions
-Capture the Flag
-Superhuman Go
-Coda Chrome Extension
-Any other Epic games owned asset not listed in the out of scope section
-EpicOnlineServices
-v1staging.kidswebservices.com 
-v1. kidswebservices.com
-Steam Servers
-Steam Client
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
-Eno® Browser Extension
-*.capitalone.com
-*.capitaloneshopping.com
-Capital One Shopping Browser Extension
-*.capitalonegslbex.com
-*.capitalone.ca
-https://apps.facebook.com/pokerheat
-https://apps.facebook.com/vegas_downtown_slots
-https://apps.facebook.com/pearls-peril
-1474700 (Steam app id)
-Tier 1 Studios
-Tier 2
-Tier 3
-Tier 1
 Customer Portal
 Customer Connected Domain
 HubSpot Sales Office 365 add-in
