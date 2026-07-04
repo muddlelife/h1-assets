@@ -1,6 +1,4 @@
 *.8x8.vc
-*.jit.si
-*.jitsi.net
 *.8x8staging.com
 *.chalet.8x8.com
 vcc-*.8x8.com

@@ -16,23 +16,9 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Files.com Command Line Interface (CLI) App
-Files.com Desktop v4 App (previously known as Desktop App) 
-Files.com Desktop v6 App
-Files.com On-Premise Agent
-Acronis Agent
-Acronis Cyber Protect
-Acronis DeviceLock DLP
-Acronis Snap Deploy
-Other Acronis executables
-Acronis Cloud Manager
-Acronis True Image (formerly Acronis Cyber Protect Home Office)
-Burp Suite Pro/Community
-Burp Collaborator
-Brave Browser Desktop
-Roblox Client
-Roblox Studio
-Roblox Engine
-Arc on Mac
-Arc on Windows
-Dia Browser
+Virtual Office Desktop
+doppler
+HyprUnlock.exe
+HYPR Workforce Access.app
+https://download.krisp.ai/win
+https://download.krisp.ai/mac

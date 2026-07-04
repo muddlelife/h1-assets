@@ -1,2 +1,6 @@
 api-partner.spotify.com
-https://events.1password.com/api/
+faucet-api.polygon.technology/
+api-gateway.polygon.technology
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+8x8 Communication APIs

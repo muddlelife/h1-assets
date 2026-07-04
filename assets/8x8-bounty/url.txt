@@ -11,7 +11,6 @@ user-profile.8x8.com
 voapi.8x8.com
 https://8x8.vc/xmpp-websocket
 https://webrtc.8x8.com/
-cloud8.8x8.com
 pay.8x8.com
 admin.8x8.com
 apps.8x8.com
