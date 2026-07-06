@@ -16,13 +16,60 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-https://download.krisp.ai/win
-https://download.krisp.ai/mac
-Arc on Mac
-Arc on Windows
-Dia Browser
-Insomnia CLI (inso)
-Insomnia Desktop Client
-Kong Mesh
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Gateway Enterprise
+Files.com Command Line Interface (CLI) App
+Files.com Desktop v4 App (previously known as Desktop App) 
+Files.com Desktop v6 App
+Files.com On-Premise Agent
+Acronis Agent
+Acronis Cyber Protect
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+Other Acronis executables
+Acronis Cloud Manager
+Acronis True Image (formerly Acronis Cyber Protect Home Office)
+Burp Suite Pro/Community
+Burp Collaborator
+Roblox Client
+Roblox Studio
+Roblox Engine
+Malwarebytes for Windows
+Malwarebytes for Mac
+AdwCleaner
+Malwarebytes for Teams
+Malwarebytes Remediation for CrowdStrike
+Malwarebytes ToolSet (MBTS)
+Malwarebytes Windows Firewall Control
+Malwarebytes Support Tool (MBST)
+Grammarly Desktop for Windows
+Grammarly Desktop for macOS
+FortniteClient-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping.exe
+FortniteLauncher-Win64-Shipping_BE.exe
+FortniteLauncher-Win64-Shipping_EAC.exe
+FortniteLauncher.exe
+EOS C# SDK
+UnrealEditorFortnite-Win64-Shipping.exe
+EpicGamesLauncher.exe    
+UEFN
+Beats - Auditbeat
+Beats - Filebeat
+Beats - Heartbeat
+Beats - Metricbeat
+Beats - Packetbeat
+Beats - Winlogbeat
+Elastic Agent
+Elastic Cloud Enterprise (ECE)
+Elastic Cloud on Kubernetes (ECK)
+Elastic Enterprise Search
+Elastic Maps Server
+Elasticsearch
+Logstash
+Observability - APM Agents
+Observability - APM Server
+Fleet Server
+Kibana
+Beats
+Elastic Defend
+Beats - Osquerybeat
+Elastic Distributions of OpenTelemetry (EDOT)
+3CX SBC

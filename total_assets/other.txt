@@ -125,35 +125,96 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Blockchain
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
 Other
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1
-Tier 2
-Tier 3
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/docs/libraries
-smtp.sendgrid.net
-Any host/web property verified to be owned by Twilio et al.
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+All Other BitMEX Assets
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://testflight.apple.com/join/533gFghn
+Databricks Free Edition
+Open Scope
+CosmWasm
+CometBFT
+Cosmos SDK
+ibc-go
+Hermes Relayer
+Solidity IBC Eureka
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+forms.cybersource.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+3CX Phone System
+3CX Live chat WordPress plugin
+*.audible.(TLD)
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
+[Unico] Liveness Bypass
