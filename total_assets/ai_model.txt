@@ -1,4 +1,3 @@
 Workers AI
 Penny
-GenAI Apps under *.amazon.*
 API & SDKs

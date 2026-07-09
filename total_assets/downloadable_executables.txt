@@ -16,18 +16,15 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Streamlabs Desktop Application PC/MAC
-Logi Tune PC/MAC
-Logitech Sync
-G Hub
-Logi Options+ PC/MAC
-Logitech MIXLINE
-Front for Mac
-Front for Windows
-Dynatrace OneAgent
-Dynatrace ActiveGate
-Dynatrace MobileAgent
-Windows OS Executable: Download here https://www.larksuite.com/download
-Mac OS Executable: Download here https://www.larksuite.com/download
-Exodus Desktop Wallet
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+eufyMake Studio software
 3CX SBC
+Arc on Mac
+Arc on Windows
+Dia Browser
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Mesh
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Gateway Enterprise
