@@ -125,7 +125,50 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Other
+github.com/deriv-com
+All Assets (other than Blinkit)
+Tier 2
+Tier 1
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Brave websites
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Enjin Coin - Ethereum ERC-20 Contract
+Enjin Blockchain
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
 Mozilla VPN Clients
 Product Delivery
 Mozilla Ad Routing Service
@@ -142,59 +185,3 @@ Primary Assets
 *.visamiddleeast.com
 forms.cybersource.com
 *.prod.innovexperiments.com
-e-Commerce
-Other related e-commerce services
-Recruitment services
-Main corporate site
-<locale>.trip.com
-Infrastructure & Internal Apps/Services
-Official Clients
-Claude Code
-Leaked Employee API Keys
-Claude Desktop Extensions and Claude.ai MCP servers
-Claude in Chrome
-3CX Phone System
-3CX Live chat WordPress plugin
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1
-Tier 2
-Tier 3
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3

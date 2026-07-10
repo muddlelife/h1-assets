@@ -1,6 +1,2 @@
 api-partner.spotify.com
-app.klarna.com
-https://events.1password.com/api/
-prod.meeshoapi.com
-https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
-https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
+verified.clearme.com/v1/verification_sessions

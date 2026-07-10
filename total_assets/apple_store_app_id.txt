@@ -47,9 +47,34 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-com.newegg.app
-1091010942
-https://apps.apple.com/app/id1635031432
+434613896
+960335206
+6670203019
+6670536058
+com.wealthsimple.wealthsimple
+com.quora.app.mobile
+com.marcus.ios-us
+com.marcus.ios-uk
+com.gs.pwmdigital.external
+com.gs.gstrader.external
+com.gs.gsnow.external
+GS Select iOS app
+476639005
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
+com.skypicker.Skypicker
+993135524
+Exness Trade: Online Trading
+Exness Investor
+1118448159
+978342143
+1192506963
+com.brave.ios.browser
+597940518
+com.enjin.mobile.wallet
+com.coinhako.app
+1589071345
+com.boozt.app
+com.boozt.booztlet
 1023499075
 com.security.BatteryCam
 com.security.care
@@ -66,25 +91,3 @@ https://apps.apple.com/us/app/bme-conecta/id6443938949
 926252661
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 1351179184
-com.trip.ios
-https://apps.apple.com/us/app/bybit-app/id1488296980
-https://apps.apple.com/us/app/3cx/id992045982
-379693831
-1641486558
-Netflix Mobile Application for iOS
-https://apps.apple.com/app/chia-signer/id6504493785 
-Klarna iOS App (com.klarna.app)
-Starbucks China iOS
-Starbucks Japan iOS
-com.nbaimd.gametime.universal
-https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
-https://apps.apple.com/us/app/verily-me/id6448808133
-HubSpot iOS Mobile App
-id6472513080
-com.whoop.iphone
-1457958492
-id6443932656
-1634080733
-6462308655
-938003185
-Id1406825640
