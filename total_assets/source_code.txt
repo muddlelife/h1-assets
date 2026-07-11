@@ -36,20 +36,17 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-github.com/binary-com
-https://github.com/kiwicom/*
-https://github.com/plaid/plaid-link-ios
-https://github.com/plaid/plaid-link-android
-https://github.com/plaid/plaid-ruby
-https://github.com/plaid/react-native-plaid-link-sdk
-https://github.com/plaid/react-plaid-link
-https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/tronprotocol/java-tron
-https://github.com/worldcoin
-https://github.com/worldcoin/orb-software
-https://github.com/worldcoin/orb-firmware
-https://github.com/worldcoin/orb-core
-https://github.com/worldcoin/orb-messages
-https://github.com/worldcoin/orb-secure-element
-https://github.com/worldcoin/orb-relay-messages
-https://github.com/worldcoin/orb-rustzone
+https://github.com/vercel/next.js
+https://github.com/sveltejs/svelte
+https://github.com/vercel/turborepo
+https://github.com/vercel/swr
+https://github.com/vercel/ai
+https://github.com/nuxt/nuxt
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/nitrojs/nitro
+https://github.com/vercel/async-sema
+https://github.com/vercel-labs/skills
+https://github.com/vercel-labs/agent-skills
