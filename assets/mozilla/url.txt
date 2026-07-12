@@ -1,15 +1,11 @@
 addons.allizom.org
 developer.mozilla.org
 accounts.firefox.com
-profiler.firefox.com
 vpn.mozilla.org
 relay.firefox.com
-api.profiler.firefox.com
 www.mozilla.org
 support.mozilla.org
 hg.mozilla.org
-stage.taskcluster.nonprod.cloudops.mozgcp.net
-community-tc.services.mozilla.com
 monitor.mozilla.org
 aus5.mozilla.org
 bugzilla.mozilla.org
@@ -20,7 +16,6 @@ firefox.settings.services.mozilla.com
 lando.services.mozilla.com
 merino.services.mozilla.com
 phabricator.allizom.org
-push.services.mozilla.com
 sync.services.mozilla.com
 www.firefox.com
 pontoon.allizom.org
