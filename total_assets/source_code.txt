@@ -36,11 +36,6 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-https://github.com/cosmos/iavl
-https://github.com/cosmos/ledger-cosmos
-https://github.com/cosmos/gaia
-https://github.com/cosmos/ics23
-www.github.com/cosmos/evm
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/chainlink
 https://github.com/kubernetes/csi-api
@@ -92,4 +87,5 @@ https://github.com/kubernetes-security
 https://github.com/kubernetes-client
 github.com/kubernetes-csi
 https://github.com/Dynatrace
-https://github.com/tronprotocol/java-tron
+https://github.com/DopplerHQ/cli
+https://github.com/moonpay

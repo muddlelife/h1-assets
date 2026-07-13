@@ -29,5 +29,16 @@ Dynatrace ActiveGate
 Dynatrace MobileAgent
 Windows OS Executable: Download here https://www.larksuite.com/download
 Mac OS Executable: Download here https://www.larksuite.com/download
-Notion Desktop App
-eufyMake Studio software
+Exodus Desktop Wallet
+Virtual Office Desktop
+doppler
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+Arc on Mac
+Arc on Windows
+Dia Browser
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Mesh
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Gateway Enterprise
