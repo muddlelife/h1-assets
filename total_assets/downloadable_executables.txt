@@ -30,13 +30,8 @@ Dynatrace MobileAgent
 Windows OS Executable: Download here https://www.larksuite.com/download
 Mac OS Executable: Download here https://www.larksuite.com/download
 Exodus Desktop Wallet
-Virtual Office Desktop
-doppler
-https://download.krisp.ai/win
-https://download.krisp.ai/mac
-Arc on Mac
-Arc on Windows
-Dia Browser
+Drivers
+Database Tools
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Kong Mesh
