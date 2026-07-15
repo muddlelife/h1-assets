@@ -36,8 +36,6 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-https://github.com/smartcontractkit/external-adapters-js/
-https://github.com/smartcontractkit/chainlink
 https://github.com/kubernetes/csi-api
 https://github.com/kubernetes/kubernetes
 https://github.com/kubernetes/dns
@@ -87,18 +85,12 @@ https://github.com/kubernetes-security
 https://github.com/kubernetes-client
 github.com/kubernetes-csi
 https://github.com/Dynatrace
-https://github.com/moonpay
-https://github.com/vercel/next.js
-https://github.com/sveltejs/svelte
-https://github.com/vercel/turborepo
-https://github.com/vercel/swr
-https://github.com/vercel/ai
-https://github.com/nuxt/nuxt
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/nitrojs/nitro
-https://github.com/vercel/async-sema
-https://github.com/vercel-labs/skills
-https://github.com/vercel-labs/agent-skills
+https://github.com/tronprotocol/java-tron
+https://github.com/worldcoin
+https://github.com/worldcoin/orb-software
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
