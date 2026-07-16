@@ -1,1 +1,2 @@
 api-partner.spotify.com
+verified.clearme.com/v1/verification_sessions
