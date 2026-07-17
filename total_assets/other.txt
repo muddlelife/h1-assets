@@ -125,123 +125,61 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
-Tier 1
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+All Other BitMEX Assets
+https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://testflight.apple.com/join/533gFghn
+Databricks Free Edition
+Open Scope
+CosmWasm
+CometBFT
+Cosmos SDK
+ibc-go
+Hermes Relayer
+Solidity IBC Eureka
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+Crypto.com Wallet Extension
+Faucets
+Crypto
+Leaked Credentials
 Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.vennhypotheken.nl
-*.nextcapital.com
-Other Dyson Assets
-Github findings
-FIles.com REST API
-Files.com SDK's
-Files.com Mobile App
-Other Acronis Domains
-Acronis Cyber Infrastructure
-Burp Suite DAST
-Brave websites
-Other Semrush Related Asset
-Leaked/Сompromised Employee accounts
-Other APK Assets
-Other Hardware Assets
-MIUI OS for Xiaomi Phone
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Blockchain
-Other Asset (Campaigns)
-Intellectual Property on Public Domains
-Freshservice Discovery Agent and Probe
-Citrix Secure Access client for Windows
-Citrix Secure Access client for iOS
-Citrix Secure Access client for Linux
-Citrix End Point Analysis (EPA) client for Linux
-Citrix End Point Analysis (EPA) client for Windows
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
-Product Delivery
-Mozilla Ad Routing Service
-Firefox Homepage Newtab
-https://ring.com/*
-https://api.ring.com/*
-https://fw.ring.com/*
-https://app.ring.com/*
-https://admin.ring.com/*
-https://nw.ring.com/*
-https://oauth.ring.com/*
-https://billing.ring.com/*
-Secondary Assets
-Primary Assets
-*.visamiddleeast.com
-forms.cybersource.com
-*.prod.innovexperiments.com
-e-Commerce
-Other related e-commerce services
-Recruitment services
-Main corporate site
-<locale>.trip.com
-Infrastructure & Internal Apps/Services
-Official Clients
-Claude Code
-Leaked Employee API Keys
-Claude Desktop Extensions and Claude.ai MCP servers
-Claude in Chrome
-3CX Phone System
-3CX Live chat WordPress plugin
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Tier 1
+Tier 2
+Tier 3
+All other Assets
+Core Assets

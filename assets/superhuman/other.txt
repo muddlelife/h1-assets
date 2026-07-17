@@ -2,3 +2,6 @@ Grammarly Browser Extensions
 Capture the Flag
 Superhuman Go
 Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
