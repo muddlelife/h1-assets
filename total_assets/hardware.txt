@@ -14,11 +14,3 @@ UniFi LED
 UniFi Access
 UniFi Connect
 GitHub Enterprise Server
-Circle Cameras
-Ultimate Ears Speakers
-Presentation Remotes
-Video Conferencing Products
-USB Unifying and LightSpeed Receivers
-Logitech Mice & Keyboards
-Point Smart
-CounterAct 9.x
