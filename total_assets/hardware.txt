@@ -14,3 +14,5 @@ UniFi LED
 UniFi Access
 UniFi Connect
 GitHub Enterprise Server
+PlayStation 4
+PlayStation 5

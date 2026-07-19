@@ -47,29 +47,21 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-447553564
-529996768
-603097018
-1116488672
-586634331
-719525810
-868013618
-654671575
-1223338261
-1200391796
-975035622
-480523695
-1413287364
-1438744533
-1508620125
-645949180
-1510325826
-1215220850
-594802437
-1448884851
-https://apps.apple.com/us/app/hhc-24-7/id6741442288
-6741442288
-Whatnot: Shop, Sell, Connect
-com.newegg.app
-1091010942
-https://apps.apple.com/app/id1635031432
+448142450
+281796108
+iOS Playstation App
+878577184
+1080248000
+835599320
+1235601864
+641062073
+1591003012
+1351179184
+com.trip.ios
+https://apps.apple.com/us/app/bybit-app/id1488296980
+https://apps.apple.com/us/app/3cx/id992045982
+379693831
+1641486558
+Netflix Mobile Application for iOS
+https://apps.apple.com/app/chia-signer/id6504493785 
+Klarna iOS App (com.klarna.app)

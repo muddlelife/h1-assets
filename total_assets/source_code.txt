@@ -44,4 +44,20 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-https://github.com/moonpay
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/kotlin-sdk
+lightsparkdev/js-sdk
+lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+https://github.com/buildonspark/spark
+github.com/anthropics
+https://www.npmjs.com/package/@privy-io/react-auth
+Open Source - Atlas
+https://github.com/Chia-Network/chia-blockchain
+https://github.com/Chia-Network/chia-blockchain-gui
+https://github.com/Chia-Network/clvm_rs
+https://github.com/Chia-Network/chia_rs
+https://github.com/Chia-Network/chiapos
+https://github.com/Chia-Network/chiavdf
