@@ -44,6 +44,25 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
+https://github.com/discourse/discourse
+https://github.com/nodejs/node
+https://github.com/cosmos/iavl
+https://github.com/cosmos/ledger-cosmos
+https://github.com/cosmos/gaia
+https://github.com/cosmos/ics23
+www.github.com/cosmos/evm
+https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/chainlink
+https://github.com/DopplerHQ/cli
+https://github.com/tronprotocol/java-tron
+https://github.com/worldcoin
+https://github.com/worldcoin/orb-software
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/kotlin-sdk
 lightsparkdev/js-sdk
