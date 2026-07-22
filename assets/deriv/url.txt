@@ -5,3 +5,6 @@ oauth.deriv.com
 api.deriv.com
 derivws.com
 secure-dfadmin.deriv.com
+home.deriv.com
+core-api.deriv.com
+https://api-core.deriv.com

@@ -16,12 +16,15 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Dynatrace OneAgent
-Dynatrace ActiveGate
-Dynatrace MobileAgent
-Windows OS Executable: Download here https://www.larksuite.com/download
-Mac OS Executable: Download here https://www.larksuite.com/download
-Exodus Desktop Wallet
-406056744
+Rockstar Games Launcher
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+Drivers
+Database Tools
+Notion Desktop App
 eufyMake Studio software
-3CX SBC
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Mesh
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Gateway Enterprise

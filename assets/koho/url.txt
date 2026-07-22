@@ -4,4 +4,3 @@ http://api.koho.ca/1.0
 http://api.koho.ca/partner
 usercontent.koho.ca
 app.koho.ca
-webgateway.koho.ca
