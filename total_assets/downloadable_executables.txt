@@ -16,15 +16,9 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Rockstar Games Launcher
+HyprUnlock.exe
+HYPR Workforce Access.app
 https://download.krisp.ai/win
 https://download.krisp.ai/mac
-Drivers
-Database Tools
-Notion Desktop App
 eufyMake Studio software
-Insomnia CLI (inso)
-Insomnia Desktop Client
-Kong Mesh
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Gateway Enterprise
+3CX SBC

@@ -14,11 +14,6 @@ UniFi LED
 UniFi Access
 UniFi Connect
 GitHub Enterprise Server
-Tablets
-Echo Family Devices
-FireTV
-Kindle E-Reader
-Luna
 eero Devices
 https://us.eufy.com/products/t88711w1
 https://us.eufy.com/products/t88511d1
@@ -26,3 +21,15 @@ https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/e8213181
 eufyMake E1
 Solarbank 2 E1600 Pro
+Video Doorbell
+Peephole Cam
+Indoor Cam
+Stickup Cam
+Chime
+Ring Alarm
+Ring Smart Lighting Bridge
+Blink Outdoor
+Blink Indoor
+Blink Sync Module 2
+Blink Mini
+Blink Video Doorbell

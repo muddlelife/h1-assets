@@ -125,58 +125,21 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-Other
-Any public (Internet-facing) infrastructure owned and operated by Palantir.
-Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-Wickr Pro/Wickr Me (all related technical components) (up to)
-Wickr Pro Android
-Wickr Pro iOS
-Wickr Pro Linux
-Wickr Me iOS
-Wickr Me Android
-Wickr Me Linux
-Wickr Me OS X
-Wickr Pro OS X
-Wickr Pro Windows
-Wickr Me Windows
-Hilton Franchised Properties
-Hilton Third Party Applications
-Managed Property Assets
-Enterprise Edition Products and Tools
-All Evergreen Assets (Excluding staging)
-MongoDB Owned GitHub Repositories
-Cluster-To-Cluster sync
-Compass
-Relational Migrator
-MongoDB Shell
-VS Code Plugin
-MongoDB Connectors
-MongoDB Atlas
-MongoDB Community Server
-MongoDB IntelliJ Plugin
-MongoDB Partner Integrations
-MongoDB MCP Server
-MongoDB Assistant
-Jira Projects
-Atlas Charts
-Atlas IAM
-Atlas Data Federation
-Atlas Payments/Billing
-Web3 - Smart Contracts Scope
-Tier 1
+Eno® Browser Extension
+*.capitalone.com
+*.capitaloneshopping.com
+Capital One Shopping Browser Extension
+*.capitalonegslbex.com
+*.capitalone.ca
+https://apps.facebook.com/pokerheat
+https://apps.facebook.com/vegas_downtown_slots
+https://apps.facebook.com/pearls-peril
+1474700 (Steam app id)
+Tier 1 Studios
 Tier 2
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
+Tier 3
+Tier 1
+Other
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable
@@ -189,22 +152,42 @@ OKX Wallet Safari Extension
 Product Delivery
 Mozilla Ad Routing Service
 Firefox Homepage Newtab
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1
-Tier 2
-Tier 3
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/docs/libraries
-smtp.sendgrid.net
-Any host/web property verified to be owned by Twilio et al.
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+forms.cybersource.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+3CX Phone System
+3CX Live chat WordPress plugin
+*.audible.(TLD)
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
