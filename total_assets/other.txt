@@ -125,21 +125,73 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Eno® Browser Extension
-*.capitalone.com
-*.capitaloneshopping.com
-Capital One Shopping Browser Extension
-*.capitalonegslbex.com
-*.capitalone.ca
-https://apps.facebook.com/pokerheat
-https://apps.facebook.com/vegas_downtown_slots
-https://apps.facebook.com/pearls-peril
-1474700 (Steam app id)
-Tier 1 Studios
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+Subdomain takeover
+Databricks Free Edition
+Open Scope
+CosmWasm
+CometBFT
+Cosmos SDK
+ibc-go
+Hermes Relayer
+Solidity IBC Eureka
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+Crypto.com Wallet Extension
+Faucets
+Crypto
+Leaked Credentials
+Tier 3
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Tier 1
 Tier 2
 Tier 3
-Tier 1
-Other
+All other Assets
+Core Assets
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable
@@ -152,42 +204,20 @@ OKX Wallet Safari Extension
 Product Delivery
 Mozilla Ad Routing Service
 Firefox Homepage Newtab
-https://ring.com/*
-https://api.ring.com/*
-https://fw.ring.com/*
-https://app.ring.com/*
-https://admin.ring.com/*
-https://nw.ring.com/*
-https://oauth.ring.com/*
-https://billing.ring.com/*
-Secondary Assets
-Primary Assets
-*.visamiddleeast.com
-forms.cybersource.com
-*.prod.innovexperiments.com
-e-Commerce
-Other related e-commerce services
-Recruitment services
-Main corporate site
-<locale>.trip.com
-Infrastructure & Internal Apps/Services
-Official Clients
-Claude Code
-Leaked Employee API Keys
-Claude Desktop Extensions and Claude.ai MCP servers
-Claude in Chrome
-3CX Phone System
-3CX Live chat WordPress plugin
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+Tier 1
+Tier 2
+Tier 3
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/docs/libraries
+smtp.sendgrid.net
+Any host/web property verified to be owned by Twilio et al.

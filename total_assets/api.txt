@@ -1,1 +1,13 @@
 api-partner.spotify.com
+Crypto.com mobile app APIs that require an account
+Crypto.com Exchange APIs that require an account
+funding-webhooks.remitly.io
+hub-api-sandbox.remitly.io
+prod.meeshoapi.com
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
+api.twilio.com
+Twilio APIs
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/docs/authy/api
+api.segment.io

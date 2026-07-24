@@ -65,5 +65,4 @@ gifts.marriott.com
 joinmarriottbonvoy.com
 hotel-development.marriott.com
 ifast.marriott.com
-ssm-marriottms.saviyntcloud.com
 wechat.api.marriott.com
