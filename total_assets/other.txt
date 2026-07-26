@@ -125,74 +125,23 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-s3://faraday-uploads
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Figma Weave
-Other Asset (Campaigns)
-Intellectual Property on Public Domains
-Freshservice Discovery Agent and Probe
-Citrix Secure Access client for Windows
-Citrix Secure Access client for iOS
-Citrix Secure Access client for Linux
-Citrix End Point Analysis (EPA) client for Linux
-Citrix End Point Analysis (EPA) client for Windows
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
-Eno® Browser Extension
-*.capitalone.com
-*.capitaloneshopping.com
-Capital One Shopping Browser Extension
-*.capitalonegslbex.com
-*.capitalone.ca
-https://apps.facebook.com/pokerheat
-https://apps.facebook.com/vegas_downtown_slots
-https://apps.facebook.com/pearls-peril
-1474700 (Steam app id)
-Tier 1 Studios
+github.com/deriv-com
+All Assets (other than Blinkit)
 Tier 2
-Tier 3
 Tier 1
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
 Other
 *.audible.(TLD)
 https://www.npmjs.com/package/@privy-io/js-sdk-core
@@ -210,15 +159,3 @@ Content Authorization Targets
 [Unico] Liveness Bypass
 Crypto infrastructure for cold and hot wallets
 Merchant Portal
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP

@@ -47,45 +47,20 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.zzkko
-com.romwe
-com.zhiliaoapp.musically
-com.ss.android.ugc.trill
-com.ss.android.ugc.now
-com.tiktok.tv
-com.zhiliao.musically.livewallpaper
-com.tiktokshop.seller
-com.freshservice.helpdesk
-com.freshdesk.helpdesk
-com.freshchat.agent.android
-com.freshworks.freshcaller
-com.freshservice.helpdesk.intune
-Citrix Secure Access client for Android
-com.grindrapp.android
-com.stripe.android.dashboard
-com.hypr.one
-com.konylabs.capitalone
-com.wikibuy.prod.main
-com.compass.compass
-air.com.playtika.slotomania
-air.com.buffalo_studios.newflashbingo
-com.playtika.caesarscasino
-com.jellybtn.boardkings
-com.pacificinteractive.HouseOfFun
-com.playtika.wsop.gp
-com.Seriously.BestFiends
-com.jellybtn.cashkingmobile
-net.supertreat.solitaire
-net.wooga.junes_journey_hidden_object_mystery_game
-air.com.playtika.cvs
-com.bigblueparrot.pokerfriends
-fi.reworks.redecor
-com.Seriously.Phoenix
-lol.onevone
-net.wooga.switchcraft.googleplay
-net.wooga.tropicats_tropical_cats_puzzle_paradise
-com.wooga.pearlsperil
-com.youdagames.monopolypoker
+com.application.zomato
+com.grofers.customerapp
+com.blinkit.bistro
+com.application.zomato.district
+com.wealthsimple
+com.quora.android
+com.marcus.android.uk
+com.marcus.android
+com.gs.pwmdigital.external.android
+com.gs.pfmg.wellness
+com.gs.mobile.trader
+com.gs.mobile.gsnow
+com.Hyatt
+https://play.google.com/store/apps/details?id=com.myntra.android
 org.hartfordhealthcare.hhc247
 com.whatnot_mobile
 com.newegg.app
@@ -95,26 +70,3 @@ com.audible.application
 com.einnovation.temu
 Netflix Mobile Application for Android
 Klarna Android App (com.myklarnamobile)
-Starbucks China Android
-Starbucks Japan Android
-com.nbaimd.gametime.nba2011
-com.syfe
-https://play.google.com/store/apps/details?id=com.verily.me
-HubSpot Android Mobile App
-com.coloros.video
-com.heytap.browser
-com.heytap.cloud
-com.heytap.health.international
-com.heytap.market
-com.heytap.themestore
-com.heytap.xgame
-com.oplus.account
-com.oplus.themestore
-com.oppo.market
-com.oppo.quicksearchbox
-com.heytap.store
-com.heytap.mall
-com.oppo.store
-company.thebrowser.arc
-com.whoop.android
-SUPERAPP (AOS)

@@ -32,7 +32,7 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-https://github.com/DopplerHQ/cli
+github.com/binary-com
 https://github.com/moonpay
 https://www.npmjs.com/package/@privy-io/react-auth
 Open Source - Atlas
