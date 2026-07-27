@@ -1,3 +1,7 @@
 api-partner.spotify.com
 verified.clearme.com/v1/verification_sessions
-app.klarna.com
+faucet-api.polygon.technology/
+api-gateway.polygon.technology
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+https://events.1password.com/api/
