@@ -16,6 +16,7 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
+Rockstar Games Launcher
 Streamlabs Desktop Application PC/MAC
 Logi Tune PC/MAC
 Logitech Sync
@@ -29,12 +30,9 @@ Dynatrace ActiveGate
 Dynatrace MobileAgent
 Windows OS Executable: Download here https://www.larksuite.com/download
 Mac OS Executable: Download here https://www.larksuite.com/download
-Exodus Desktop Wallet
-406056744
-3CX SBC
-Arc on Mac
-Arc on Windows
-Dia Browser
+Drivers
+Database Tools
+Notion Desktop App
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Kong Mesh

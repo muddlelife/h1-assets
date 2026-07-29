@@ -125,6 +125,9 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+CrowdStrike public infrastructure
+Crypto.com Wallet Extension
+Faucets
 Crypto
 Leaked Credentials
 Tier 3
@@ -140,38 +143,45 @@ Tier 2
 Tier 3
 All other Assets
 Core Assets
-Passkey Wallet
-https://www.amazonpay.in/*
-3CX Phone System
-3CX Live chat WordPress plugin
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+Web3 - Smart Contracts Scope
+Tier 1
+Tier 2
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+mUSD Stablecoin
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
 GitHub Actions in our Public Repositories 
 Subdomain Takeover - konghq.com
 NetScaler Gateway
