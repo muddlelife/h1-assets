@@ -125,47 +125,30 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-CrowdStrike public infrastructure
-Crypto.com Wallet Extension
-Faucets
-Crypto
-Leaked Credentials
-Tier 3
-Android & iOS App for Instacart Shoppers
-Android App
-iOS App
-Core Assets
-Non-Core Assets
-k8s.gcr.io
-https://storage.googleapis.com/kubernetes-release/
-Tier 1
+github.com/deriv-com
+All Assets (other than Blinkit)
 Tier 2
-Tier 3
-All other Assets
-Core Assets
-Enterprise Edition Products and Tools
-All Evergreen Assets (Excluding staging)
-MongoDB Owned GitHub Repositories
-Cluster-To-Cluster sync
-Compass
-Relational Migrator
-MongoDB Shell
-VS Code Plugin
-MongoDB Connectors
-MongoDB Atlas
-MongoDB Community Server
-MongoDB IntelliJ Plugin
-MongoDB Partner Integrations
-MongoDB MCP Server
-MongoDB Assistant
-Jira Projects
-Atlas Charts
-Atlas IAM
-Atlas Data Federation
-Atlas Payments/Billing
-Web3 - Smart Contracts Scope
 Tier 1
-Tier 2
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
 MetaMask Browser Extension
 MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
@@ -182,6 +165,15 @@ Github Repositories or other public artifacts owned by makenotion
 961114489414094898
 Any public cloud resource or infrastructure operated and managed by REI.
 Android & iOS App for REI Customers
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
 GitHub Actions in our Public Repositories 
 Subdomain Takeover - konghq.com
 NetScaler Gateway

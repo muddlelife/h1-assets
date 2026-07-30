@@ -17,21 +17,17 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Streamlabs Desktop Application PC/MAC
-Logi Tune PC/MAC
-Logitech Sync
-G Hub
-Logi Options+ PC/MAC
-Logitech MIXLINE
-Front for Mac
-Front for Windows
-Dynatrace OneAgent
-Dynatrace ActiveGate
-Dynatrace MobileAgent
-Windows OS Executable: Download here https://www.larksuite.com/download
-Mac OS Executable: Download here https://www.larksuite.com/download
-Drivers
-Database Tools
+Files.com Command Line Interface (CLI) App
+Files.com Desktop v4 App (previously known as Desktop App) 
+Files.com Desktop v6 App
+Files.com On-Premise Agent
+Acronis Agent
+Acronis Cyber Protect
+Acronis DeviceLock DLP
+Acronis Snap Deploy
+Other Acronis executables
+Acronis Cloud Manager
+Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Notion Desktop App
 Insomnia CLI (inso)
 Insomnia Desktop Client
