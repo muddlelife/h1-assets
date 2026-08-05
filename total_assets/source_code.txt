@@ -32,22 +32,7 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-github.com/binary-com
-https://github.com/kiwicom/js-iam-middleware
-https://github.com/kiwicom/k8s-vault-operator
-https://github.com/kiwicom/kiwi-cache
-https://github.com/kiwicom/kiwi-json
-https://github.com/kiwicom/kiwi-structlog-config
-https://github.com/kiwicom/konfetti
-https://github.com/kiwicom/navigation-compose-typed
-https://github.com/kiwicom/orbit
-https://github.com/kiwicom/pg2avro
-https://github.com/kiwicom/request-session
-https://github.com/plaid/plaid-link-ios
-https://github.com/plaid/plaid-link-android
-https://github.com/plaid/plaid-ruby
-https://github.com/plaid/react-native-plaid-link-sdk
-https://github.com/plaid/react-plaid-link
+https://github.com/moonpay
 https://github.com/tronprotocol/java-tron
 https://github.com/worldcoin
 https://github.com/worldcoin/orb-software
@@ -57,6 +42,23 @@ https://github.com/worldcoin/orb-messages
 https://github.com/worldcoin/orb-secure-element
 https://github.com/worldcoin/orb-relay-messages
 https://github.com/worldcoin/orb-rustzone
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/kotlin-sdk
+lightsparkdev/js-sdk
+lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+https://github.com/buildonspark/spark
+github.com/anthropics
+https://www.npmjs.com/package/@privy-io/react-auth
+Open Source - Atlas
+https://github.com/Chia-Network/chia-blockchain
+https://github.com/Chia-Network/chia-blockchain-gui
+https://github.com/Chia-Network/clvm_rs
+https://github.com/Chia-Network/chia_rs
+https://github.com/Chia-Network/chiapos
+https://github.com/Chia-Network/chiavdf
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/sui-cctp

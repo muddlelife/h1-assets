@@ -1,10 +1,5 @@
 api-partner.spotify.com
-verified.clearme.com/v1/verification_sessions
-faucet-api.polygon.technology/
-api-gateway.polygon.technology
-gasstation.polygon.technology/
-api-polygon-tokens.polygon.technology/
-https://events.1password.com/api/
+app.klarna.com
 api.twilio.com
 Twilio APIs
 https://www.twilio.com/docs/verify/api
