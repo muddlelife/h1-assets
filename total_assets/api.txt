@@ -1,5 +1,9 @@
 api-partner.spotify.com
-app.klarna.com
+verified.clearme.com/v1/verification_sessions
+Crypto.com mobile app APIs that require an account
+Crypto.com Exchange APIs that require an account
+funding-webhooks.remitly.io
+hub-api-sandbox.remitly.io
 api.twilio.com
 Twilio APIs
 https://www.twilio.com/docs/verify/api
