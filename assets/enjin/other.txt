@@ -1,2 +1,1 @@
-Enjin Coin - Ethereum ERC-20 Contract
 Enjin Blockchain

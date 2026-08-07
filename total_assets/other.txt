@@ -125,6 +125,7 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+Enjin Blockchain
 Malwarebytes Privacy (VPN)
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 ThreatDown Patch Management
@@ -163,64 +164,77 @@ Faucets
 Crypto
 Leaked Credentials
 Tier 3
-Android & iOS App for Instacart Shoppers
-Android App
-iOS App
-Core Assets
-Non-Core Assets
-Any public (Internet-facing) infrastructure owned and operated by Palantir.
-Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-Wickr Pro/Wickr Me (all related technical components) (up to)
-Wickr Pro Android
-Wickr Pro iOS
-Wickr Pro Linux
-Wickr Me iOS
-Wickr Me Android
-Wickr Me Linux
-Wickr Me OS X
-Wickr Pro OS X
-Wickr Pro Windows
-Wickr Me Windows
-Hilton Franchised Properties
-Hilton Third Party Applications
-Managed Property Assets
-Enterprise Edition Products and Tools
-All Evergreen Assets (Excluding staging)
-MongoDB Owned GitHub Repositories
-Cluster-To-Cluster sync
-Compass
-Relational Migrator
-MongoDB Shell
-VS Code Plugin
-MongoDB Connectors
-MongoDB Atlas
-MongoDB Community Server
-MongoDB IntelliJ Plugin
-MongoDB Partner Integrations
-MongoDB MCP Server
-MongoDB Assistant
-Jira Projects
-Atlas Charts
-Atlas IAM
-Atlas Data Federation
-Atlas Payments/Billing
-Web3 - Smart Contracts Scope
-Tier 1
-Tier 2
-MetaMask Browser Extension
-MetaMask SDK
-https://metamask.github.io/phishing-warning/<vX.Y.Z>
-Snaps
-mUSD Stablecoin
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
+Other Asset (Campaigns)
+Intellectual Property on Public Domains
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for Linux
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Stripe Payments
+Stripe Checkout
+Stripe Connect
+Stripe Terminal
+Stripe Billing
+Stripe Elements
+Stripe Dashboard
+Stripe Issuing
+Stripe Radar
+Stripe Sigma
+Stripe Atlas
+Stripe SDKs
+Stripe Open Source
+Stripe Apps
+Stripe Payment Links
+Stripe Invoicing
+Stripe Financial Connections
+Stripe Revenue Recognition
+Stripe Identity
+Stripe Climate
+Stripe Data Pipeline
+Stripe Tax
+Stripe Capital
+Stripe Treasury
+Stripe for Visual Studio Code
+Tap to Pay (Android)
+Tap to Pay (iOS)
+Sandboxes
+Organizations
+Smokescreen Open Source Project
+Munkisrv Open Source Project
+Stripe CLI
+Stripe Projects
+Stripe fiat-to-crypto onramp
+Global Payouts
+Customer Portal
+Other
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+Dia Assistant
+WHOOP 4.0 STRAP
+join.whoop.com
+WHOOP 5.0/MG STRAP
+GitHub Actions in our Public Repositories 
+Subdomain Takeover - konghq.com
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+Tier 1 OSS
+Tier 2 OSS
+Tier 3 OSS
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
 https://www.twilio.com/en-us/blog/get-started-webrtc
 https://www.twilio.com/docs/libraries
 smtp.sendgrid.net

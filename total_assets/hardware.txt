@@ -14,6 +14,13 @@ UniFi LED
 UniFi Access
 UniFi Connect
 GitHub Enterprise Server
+Nintendo Switch System
+Nintendo Switch applications for which Nintendo is the publisher worldwide
+Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
+Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
+Nintendo Switch 2 Kernel / ARM® TrustZone®
+Nintendo Switch 2 System Processes allowing piracy
+Nintendo Switch 2 System Processes
 Circle Cameras
 Ultimate Ears Speakers
 Presentation Remotes
@@ -21,8 +28,3 @@ Video Conferencing Products
 USB Unifying and LightSpeed Receivers
 Logitech Mice & Keyboards
 Point Smart
-Tablets
-Echo Family Devices
-FireTV
-Kindle E-Reader
-Luna

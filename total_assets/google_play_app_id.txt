@@ -47,6 +47,8 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
+com.lyst.lystapp
+com.enjin.mobile.wallet
 com.bumble.app
 com.badoo.mobile
 com.badoo.twa
@@ -97,29 +99,34 @@ com.fanduel.sportsbook
 com.fanduel.casino
 com.fanduel.racing
 com.fanduel.flywheelnativecontainer.picks
-com.frontapp.mobile
-com.instacart.client
-via.rider
- com.citymapper.app.release
-ridewithvia.neoridelittlerock
-ridewithvia.par.piercetransit
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
+com.ss.android.ugc.now
+com.tiktok.tv
+com.zhiliao.musically.livewallpaper
+com.tiktokshop.seller
+com.freshservice.helpdesk
+com.freshdesk.helpdesk
+com.freshchat.agent.android
+com.freshworks.freshcaller
+com.freshservice.helpdesk.intune
+Citrix Secure Access client for Android
+com.grindrapp.android
+com.stripe.android.dashboard
+org.hartfordhealthcare.hhc247
+com.whatnot_mobile
+com.newegg.app
+ca.koho
 https://play.google.com/store/apps/details?id=com.moonpay
-com.amazon.kindle
-com.amazon.storm.lightning.client.aosp
-com.amazon.tahoe.freetime
-com.amazon.dee.app
-com.amazon.clouddrive.photos
-com.amazon.tails
-com.amazon.dee.alexaonwearos
-com.wellsfargo.ceomobile
-com.wf.wellsfargomobile
-com.hilton.android.hhonors
-com.ripio.android
-com.deribit
-io.metamask
-notion.id
+company.thebrowser.arc
+com.whoop.android
+com.meesho.supply
+com.valmo.valmo
+dif.tech.plata
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
+net.bitstamp.app
+com.robinhood.global Android
 com.dd.doordash
 https://www.authy.com/download/
-SUPERAPP (AOS)
-com.wolt.android
-com.wolt.courierapp

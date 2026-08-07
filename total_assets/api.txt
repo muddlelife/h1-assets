@@ -1,9 +1,16 @@
 api-partner.spotify.com
-verified.clearme.com/v1/verification_sessions
 Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
 funding-webhooks.remitly.io
 hub-api-sandbox.remitly.io
+faucet-api.polygon.technology/
+api-gateway.polygon.technology
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
+https://events.1password.com/api/
+prod.meeshoapi.com
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 api.twilio.com
 Twilio APIs
 https://www.twilio.com/docs/verify/api

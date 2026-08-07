@@ -16,7 +16,9 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Rockstar Games Launcher
+Roblox Client
+Roblox Studio
+Roblox Engine
 Malwarebytes for Windows
 Malwarebytes for Mac
 AdwCleaner
@@ -63,8 +65,14 @@ Logitech Sync
 G Hub
 Logi Options+ PC/MAC
 Logitech MIXLINE
-Front for Mac
-Front for Windows
-Drivers
-Database Tools
-Notion Desktop App
+doppler
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+Arc on Mac
+Arc on Windows
+Dia Browser
+Insomnia CLI (inso)
+Insomnia Desktop Client
+Kong Mesh
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Gateway Enterprise
