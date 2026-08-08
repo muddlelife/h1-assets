@@ -1,3 +1,2 @@
 com.coinbase.android
 org.toshi
-com.coinbase.wallite

@@ -46,11 +46,8 @@ VHX Branded Customer Android Apps
 VHX Branded Customer Roku Apps
 Livestream software (Producer, Studio)
 Slack Desktop Application
-Other
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 *.base.org
-Web3 Smart Contracts
-Coinbase WaaS (Wallet as a Service)
 WooCommerce
 Crowdsignal
 WordPress Plugins & Themes
@@ -125,6 +122,30 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
 Enjin Blockchain
 Malwarebytes Privacy (VPN)
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -142,28 +163,24 @@ Coda Chrome Extension
 Superhuman Mail
 Superhuman Mail Desktop App
 Superhuman Mail Chrome Extension
-Any other Epic games owned asset not listed in the out of scope section
-EpicOnlineServices
-v1staging.kidswebservices.com 
-v1. kidswebservices.com
-Steam Servers
-Steam Client
-Other
-Elastic Package Registry
-Elastic Synthetics Monitoring
-Software Supply Chain
-Elastic Clients
-Elastic Credentials
-Subdomain takeover
-Databricks Free Edition
-Open Scope
-com.affirm.internal.hackerone
-CrowdStrike public infrastructure
-Crypto.com Wallet Extension
-Faucets
-Crypto
-Leaked Credentials
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Tier 1
+Tier 2
 Tier 3
+Core Assets
+Box Drive
+Passkey Wallet
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
 Figma Atlassian App
 Figma Desktop App
 Figma iOS and Android apps
@@ -214,12 +231,77 @@ Stripe fiat-to-crypto onramp
 Global Payouts
 Customer Portal
 Other
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+Wickr Pro/Wickr Me (all related technical components) (up to)
+Wickr Pro Android
+Wickr Pro iOS
+Wickr Pro Linux
+Wickr Me iOS
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Me Windows
+Hilton Franchised Properties
+Hilton Third Party Applications
+Managed Property Assets
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+Web3 - Smart Contracts Scope
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Product Delivery
+Mozilla Ad Routing Service
+Firefox Homepage Newtab
+eufyMake Studio(2D UV)
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
 GitHub Actions in our Public Repositories 
 Subdomain Takeover - konghq.com
 NetScaler Gateway

@@ -1,5 +1,2 @@
-Other
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 *.base.org
-Web3 Smart Contracts
-Coinbase WaaS (Wallet as a Service)

@@ -30,7 +30,6 @@ booking.beachbound.com
 book.beachbound.com
 res.funjet.com
 res.secretsresorts.com
-res.skyteam.com
 res.vacations.discoverycove.com
 res.vacations.seaworld.com
 vacations.universalstudioshollywood.com
