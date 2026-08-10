@@ -1,4 +1,4 @@
 Workers AI
 Penny
 GenAI Apps under *.amazon.*
-Notion AI
+API & SDKs
