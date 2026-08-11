@@ -47,6 +47,34 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
+434613896
+960335206
+6670203019
+6670536058
+com.wealthsimple.wealthsimple
+com.quora.app.mobile
+com.marcus.ios-us
+com.marcus.ios-uk
+com.gs.pwmdigital.external
+com.gs.gstrader.external
+com.gs.gsnow.external
+GS Select iOS app
+930441707
+351331194
+403684733
+6444040977
+983980808
+com.malwarebytes.Malwarebytes
+com.grammarly.keyboard
+io.coda
+com.superhuman.mail 
+id1520720139
+id1534920947
+com.valvesoftware.Steam
+apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+com.monaco.mobile
+com.defi.wallet
+740514933
 455004730
 674258465
 632344648
@@ -86,7 +114,6 @@ com.frontapp.mobile
 iOS Box Mobile App
 exodus-movement.exodus
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
-https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 297606951
 1552455423
 1498197033
@@ -113,10 +140,23 @@ https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 988788863
 1057338687
 1659883691
+1151746202
+6479334468
+6560104638
+448142450
+281796108
+iOS Playstation App
+878577184
+1080248000
 835599320
 1235601864
 641062073
 1591003012
+Freshdesk-iOS-App
+Freshservice-iOS-App
+Freshchat-iOS-App
+Freshcaller-iOS-App
+Freshservice-Intune-iOS-App
 Citrix Secure Access client for macOS
 319881193
 978516833
@@ -152,6 +192,21 @@ https://apps.apple.com/us/app/hhc-24-7/id6741442288
 Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
+https://apps.apple.com/app/id1635031432
+944011620
+302584613
+947984433
+1324809509
+621574163
+1528364633
+com.wf.mobilebanking
+com.wf.ceomobile
+id635150066
+com.ripio.ios
+1293674041
+io.metamask.Metamask
+339041767
+383915209
 com.boozt.app
 com.boozt.booztlet
 1023499075
@@ -174,16 +229,10 @@ com.trip.ios
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://apps.apple.com/us/app/3cx/id992045982
 379693831
-Klarna iOS App (com.klarna.app)
-Starbucks China iOS
-Starbucks Japan iOS
-com.nbaimd.gametime.universal
-1457958492
-id6443932656
-1634080733
-6462308655
-938003185
-Id1406825640
+1641486558
+Netflix Mobile Application for iOS
 doordash.DoorDashConsumer
 https://www.authy.com/download/
 SUPERAPP (IOS)
+1477299281
+943905271

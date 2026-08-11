@@ -122,6 +122,57 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+github.com/deriv-com
+All Assets (other than Blinkit)
+Tier 2
+Tier 1
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+Subdomain takeover
+Databricks Free Edition
+Open Scope
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+Crypto.com Wallet Extension
 Faucets
 Crypto
 Leaked Credentials
@@ -138,10 +189,16 @@ Tier 2
 Tier 3
 Core Assets
 Box Drive
-Passkey Wallet
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 https://www.amazonpay.in/*
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
 Figma Atlassian App
 Figma Desktop App
 Figma iOS and Android apps
@@ -206,8 +263,59 @@ Tier 2
 Tier 3
 Tier 1
 Other
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
+Any public (Internet-facing) infrastructure owned and operated by Palantir.
+Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+Wickr Pro/Wickr Me (all related technical components) (up to)
+Wickr Pro Android
+Wickr Pro iOS
+Wickr Pro Linux
+Wickr Me iOS
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Me Windows
+Hilton Franchised Properties
+Hilton Third Party Applications
+Managed Property Assets
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+Web3 - Smart Contracts Scope
+Tier 1
+Tier 2
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+mUSD Stablecoin
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
 WGP Slot Games
 https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable
@@ -254,23 +362,12 @@ https://www.npmjs.com/package/@privy-io/wagmi
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
 @privy-io controlled namespace dependencies
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
 https://www.twilio.com/en-us/blog/get-started-webrtc
 https://www.twilio.com/docs/libraries
 smtp.sendgrid.net
