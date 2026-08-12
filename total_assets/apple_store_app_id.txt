@@ -47,64 +47,6 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-434613896
-960335206
-6670203019
-6670536058
-com.wealthsimple.wealthsimple
-com.quora.app.mobile
-com.marcus.ios-us
-com.marcus.ios-uk
-com.gs.pwmdigital.external
-com.gs.gstrader.external
-com.gs.gsnow.external
-GS Select iOS app
-930441707
-351331194
-403684733
-6444040977
-983980808
-com.malwarebytes.Malwarebytes
-com.grammarly.keyboard
-io.coda
-com.superhuman.mail 
-id1520720139
-id1534920947
-com.valvesoftware.Steam
-apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-com.monaco.mobile
-com.defi.wallet
-740514933
-455004730
-674258465
-632344648
-1018340690
-1294578643
-1476615877
-1456293789
-328407587
-com.mercadopago.MercadoPago
-com.3mosquitos.MercadoLibre
-com.creditkarma.mobile
-com.creditkarma.mobile.international
-1032480595
-982922982
-566635048
-403546234
-483394780
-427916203
-531549799
-880759727
-284803487
-284971959
-1245772818
-599664106
-1506229470
-1485539253
-6740879082
-1413721906
-com.frontapp.mobile
-545599256
 657777015
 469463298
 6449737830
@@ -192,7 +134,6 @@ https://apps.apple.com/us/app/hhc-24-7/id6741442288
 Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
-https://apps.apple.com/app/id1635031432
 944011620
 302584613
 947984433
@@ -231,8 +172,13 @@ https://apps.apple.com/us/app/3cx/id992045982
 379693831
 1641486558
 Netflix Mobile Application for iOS
-doordash.DoorDashConsumer
-https://www.authy.com/download/
-SUPERAPP (IOS)
-1477299281
-943905271
+https://apps.apple.com/app/chia-signer/id6504493785 
+Klarna iOS App (com.klarna.app)
+Starbucks China iOS
+Starbucks Japan iOS
+com.nbaimd.gametime.universal
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+https://apps.apple.com/us/app/verily-me/id6448808133
+HubSpot iOS Mobile App
+id6472513080
+com.whoop.iphone

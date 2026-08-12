@@ -34,10 +34,6 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-github.com/binary-com
-https://github.com/nodejs/node
-https://github.com/smartcontractkit/external-adapters-js/
-https://github.com/smartcontractkit/chainlink
 https://github.com/kubernetes/csi-api
 https://github.com/kubernetes/kubernetes
 https://github.com/kubernetes/dns
@@ -94,7 +90,6 @@ https://www.npmjs.com/package/@exodus/sentry-client
 https://www.npmjs.com/package/@exodus/errors
 https://www.npmjs.com/package/@exodus/safe-string
 https://github.com/DopplerHQ/cli
-https://github.com/moonpay
 https://github.com/tronprotocol/java-tron
 https://github.com/worldcoin
 https://github.com/worldcoin/orb-software
@@ -107,3 +102,18 @@ https://github.com/worldcoin/orb-rustzone
 github.com/anthropics
 https://www.npmjs.com/package/@privy-io/react-auth
 Open Source - Atlas
+https://github.com/Chia-Network/chia-blockchain
+https://github.com/Chia-Network/chia-blockchain-gui
+https://github.com/Chia-Network/clvm_rs
+https://github.com/Chia-Network/chia_rs
+https://github.com/Chia-Network/chiapos
+https://github.com/Chia-Network/chiavdf
+https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-aptos
+https://github.com/circlefin/sui-cctp
+https://github.com/circlefin/stablecoin-starknet
+https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/malachite
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/arc-remote-signer
