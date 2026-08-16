@@ -122,23 +122,6 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
-Tier 1
-Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.vennhypotheken.nl
-*.nextcapital.com
 Other Dyson Assets
 Github findings
 FIles.com REST API
@@ -153,20 +136,75 @@ Other APK Assets
 Other Hardware Assets
 MIUI OS for Xiaomi Phone
 Enjin Blockchain
-H5G
-mail.hostinger.com/v2
-Managed OpenClaw
-s3://faraday-uploads
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Figma Weave
-Other Asset (Campaigns)
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+Subdomain takeover
+Databricks Free Edition
+Open Scope
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+Crypto.com Wallet Extension
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Product Delivery
+Mozilla Ad Routing Service
+Firefox Homepage Newtab
+eufyMake Studio(2D UV)
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+forms.cybersource.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
 3CX Phone System
 3CX Live chat WordPress plugin
 *.audible.(TLD)
@@ -183,5 +221,25 @@ Open Source - Spectator
 Secondary Assets
 Content Authorization Targets
 [Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
+WHOOP 4.0 STRAP
+join.whoop.com
+WHOOP 5.0/MG STRAP
+GitHub Actions in our Public Repositories 
+Subdomain Takeover - konghq.com
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+Tier 1 OSS
+Tier 2 OSS
+Tier 3 OSS
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/docs/libraries
+smtp.sendgrid.net
+Any host/web property verified to be owned by Twilio et al.
