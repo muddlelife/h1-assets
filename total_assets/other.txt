@@ -168,8 +168,8 @@ Subdomain takeover
 Databricks Free Edition
 Open Scope
 com.affirm.internal.hackerone
-CrowdStrike public infrastructure
-Crypto.com Wallet Extension
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
 Mac OS Executable
 Windows OS Executable
 OKX Android APK
@@ -220,26 +220,3 @@ Microsites
 Open Source - Spectator
 Secondary Assets
 Content Authorization Targets
-[Unico] Liveness Bypass
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-https://www.twilio.com/en-us/blog/get-started-webrtc
-https://www.twilio.com/docs/libraries
-smtp.sendgrid.net
-Any host/web property verified to be owned by Twilio et al.

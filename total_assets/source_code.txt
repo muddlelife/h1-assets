@@ -63,25 +63,3 @@ https://github.com/worldcoin/orb-rustzone
 github.com/anthropics
 https://www.npmjs.com/package/@privy-io/react-auth
 Open Source - Atlas
-https://github.com/Chia-Network/chia-blockchain
-https://github.com/Chia-Network/chia-blockchain-gui
-https://github.com/Chia-Network/clvm_rs
-https://github.com/Chia-Network/chia_rs
-https://github.com/Chia-Network/chiapos
-https://github.com/Chia-Network/chiavdf
-https://github.com/vercel/next.js
-https://github.com/sveltejs/svelte
-https://github.com/vercel/turborepo
-https://github.com/vercel/swr
-https://github.com/vercel/ai
-https://github.com/nuxt/nuxt
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/nitrojs/nitro
-https://github.com/vercel/async-sema
-https://github.com/vercel-labs/skills
-https://github.com/vercel-labs/agent-skills
-https://github.com/vercel/eve
-https://github.com/vercel/chat

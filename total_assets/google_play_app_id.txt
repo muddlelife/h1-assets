@@ -46,6 +46,8 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
+com.Hyatt
+https://play.google.com/store/apps/details?id=com.myntra.android
 com.skypicker.main
 com.dyson.mobile.android
 com.exness.android.pa
@@ -69,9 +71,11 @@ https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB
 https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB
 https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
 com.affirm.central.audit
-play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
-co.mona.android
-com.defi.wallet
+om.vodafone.mva
+com.boozt
+com.booztlet
+ro.superbet.sport
+ro.superbet.games
 com.eero.android
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
@@ -93,14 +97,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 com.audible.application
 com.einnovation.temu
 Netflix Mobile Application for Android
-com.whoop.android
-com.meesho.supply
-com.valmo.valmo
-dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
-com.dd.doordash
-https://www.authy.com/download/
+SUPERAPP (AOS)
+com.wolt.android
+com.wolt.courierapp

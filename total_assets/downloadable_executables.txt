@@ -74,8 +74,3 @@ Elastic Defend
 Beats - Osquerybeat
 Elastic Distributions of OpenTelemetry (EDOT)
 3CX SBC
-Insomnia CLI (inso)
-Insomnia Desktop Client
-Kong Mesh
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Gateway Enterprise
