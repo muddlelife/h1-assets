@@ -14,46 +14,10 @@ UniFi LED
 UniFi Access
 UniFi Connect
 GitHub Enterprise Server
-Dyson Connected Products (IoT Hardware)
-Mi/Redmi Phone
-Mi Band
-Mi Home Webcam 
-Mi Robot Vacuum
-Mi TV Box
-Mi Laser Projector
-Mi TV 
-Mi Electric Scooter 
-Nintendo Switch System
-Nintendo Switch applications for which Nintendo is the publisher worldwide
-Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
-Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
-Nintendo Switch 2 Kernel / ARM® TrustZone®
-Nintendo Switch 2 System Processes allowing piracy
-Nintendo Switch 2 System Processes
-Circle Cameras
-Ultimate Ears Speakers
-Presentation Remotes
-Video Conferencing Products
-USB Unifying and LightSpeed Receivers
-Logitech Mice & Keyboards
-Point Smart
-CounterAct 9.x
-eero Devices
-https://us.eufy.com/products/t88711w1
-https://us.eufy.com/products/t88511d1
-https://us.eufy.com/products/t8410121
-https://us.eufy.com/products/e8213181
-eufyMake E1
-Solarbank 2 E1600 Pro
-Video Doorbell
-Peephole Cam
-Indoor Cam
-Stickup Cam
-Chime
-Ring Alarm
-Ring Smart Lighting Bridge
-Blink Outdoor
-Blink Indoor
-Blink Sync Module 2
-Blink Mini
-Blink Video Doorbell
+PlayStation 4
+PlayStation 5
+Tablets
+Echo Family Devices
+FireTV
+Kindle E-Reader
+Luna
