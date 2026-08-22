@@ -35,6 +35,23 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/hydra
+https://www.npmjs.com/package/@exodus/keychain
+https://www.npmjs.com/package/@exodus/sentry-client
+https://www.npmjs.com/package/@exodus/errors
+https://www.npmjs.com/package/@exodus/safe-string
+https://github.com/tronprotocol/java-tron
+https://github.com/worldcoin
+https://github.com/worldcoin/orb-software
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+github.com/anthropics
 https://github.com/vercel/next.js
 https://github.com/sveltejs/svelte
 https://github.com/vercel/turborepo

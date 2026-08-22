@@ -47,6 +47,11 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
+1452166623
+1541949985
+iOS Box Mobile App
+exodus-movement.exodus
+https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 297606951
 1552455423
 1498197033
@@ -81,10 +86,42 @@ com.anchorfminc.Anchor
 iOS Playstation App
 878577184
 1080248000
-835599320
-1235601864
-641062073
-1591003012
+944011620
+302584613
+947984433
+1324809509
+621574163
+1528364633
+com.wf.mobilebanking
+com.wf.ceomobile
+id635150066
+com.ripio.ios
+1293674041
+io.metamask.Metamask
+339041767
+383915209
+1589071345
+com.boozt.app
+com.boozt.booztlet
+1023499075
+com.security.BatteryCam
+com.security.care
+com.eufylife.EufyHome
+com.anker.AnkerMake
+Anker
+https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
+https://apps.apple.com/mx/app/debix/id1581440132
+https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
+https://apps.apple.com/mx/app/six-id/id1620496931
+https://apps.apple.com/us/app/bme-conecta/id6443938949
+1013961111
+1218902777
+926252661
+https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
+1351179184
+com.trip.ios
+https://apps.apple.com/us/app/bybit-app/id1488296980
+com.whoop.iphone
 1457958492
 id6443932656
 1634080733
@@ -93,4 +130,3 @@ id6443932656
 Id1406825640
 doordash.DoorDashConsumer
 https://www.authy.com/download/
-SUPERAPP (IOS)

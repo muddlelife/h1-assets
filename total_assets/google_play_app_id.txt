@@ -46,6 +46,9 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
+com.coinspot.app
+Android Box Mobile App
+https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 com.amazon.mShop.android.shopping
 amazon.speech.sim
 com.amazon.mShop.android.business.shopping
@@ -87,12 +90,45 @@ com.evernote
 Android Playstation App
 com.zzkko
 com.romwe
-com.zhiliaoapp.musically
-com.ss.android.ugc.trill
-com.ss.android.ugc.now
-com.tiktok.tv
-com.zhiliao.musically.livewallpaper
-com.tiktokshop.seller
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.dee.app
+com.amazon.clouddrive.photos
+com.amazon.tails
+com.amazon.dee.alexaonwearos
+com.wellsfargo.ceomobile
+com.wf.wellsfargomobile
+com.hilton.android.hhonors
+com.ripio.android
+com.deribit
+io.metamask
+notion.id
+com.abercrombie.abercrombie
+com.abercrombie.hollister
+om.vodafone.mva
+com.boozt
+com.booztlet
+ro.superbet.sport
+ro.superbet.games
+com.eero.android
+com.oceanwing.battery.cam
+com.oceanwing.care.cam
+com.oceanwing.FDMPrint
+com.anker.charging
+https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
+https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
+https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
+com.immediasemi.android.blink
+com.ring.neighborhoods
+com.ringapp
+https://play.google.com/store/apps/details?id=com.worldcoin
+com.bykea.pk
+com.bykea.pk.partner
+com.trip.android
+https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+com.whoop.android
 com.meesho.supply
 com.valmo.valmo
 dif.tech.plata
@@ -103,4 +139,3 @@ net.bitstamp.app
 com.robinhood.global Android
 com.dd.doordash
 https://www.authy.com/download/
-SUPERAPP (AOS)

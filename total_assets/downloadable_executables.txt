@@ -17,7 +17,13 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
+Windows OS Executable: Download here https://www.larksuite.com/download
+Mac OS Executable: Download here https://www.larksuite.com/download
+Exodus Desktop Wallet
 406056744
+Drivers
+Database Tools
+Notion Desktop App
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Kong Mesh
