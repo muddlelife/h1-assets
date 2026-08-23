@@ -35,6 +35,7 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
+github.com/binary-com
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/hydra
@@ -42,29 +43,12 @@ https://www.npmjs.com/package/@exodus/keychain
 https://www.npmjs.com/package/@exodus/sentry-client
 https://www.npmjs.com/package/@exodus/errors
 https://www.npmjs.com/package/@exodus/safe-string
-https://github.com/tronprotocol/java-tron
-https://github.com/worldcoin
-https://github.com/worldcoin/orb-software
-https://github.com/worldcoin/orb-firmware
-https://github.com/worldcoin/orb-core
-https://github.com/worldcoin/orb-messages
-https://github.com/worldcoin/orb-secure-element
-https://github.com/worldcoin/orb-relay-messages
-https://github.com/worldcoin/orb-rustzone
-github.com/anthropics
-https://github.com/vercel/next.js
-https://github.com/sveltejs/svelte
-https://github.com/vercel/turborepo
-https://github.com/vercel/swr
-https://github.com/vercel/ai
-https://github.com/nuxt/nuxt
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/nitrojs/nitro
-https://github.com/vercel/async-sema
-https://github.com/vercel-labs/skills
-https://github.com/vercel-labs/agent-skills
-https://github.com/vercel/eve
-https://github.com/vercel/chat
+https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/stablecoin-aptos
+https://github.com/circlefin/sui-cctp
+https://github.com/circlefin/stablecoin-starknet
+https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/malachite
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/stablecoin-xlm
+https://github.com/circlefin/arc-remote-signer

@@ -46,8 +46,18 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.coinspot.app
-Android Box Mobile App
+com.application.zomato
+com.grofers.customerapp
+com.blinkit.bistro
+com.application.zomato.district
+com.wealthsimple
+com.quora.android
+com.marcus.android.uk
+com.marcus.android
+com.gs.pwmdigital.external.android
+com.gs.pfmg.wellness
+com.gs.mobile.trader
+com.gs.mobile.gsnow
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 com.amazon.mShop.android.shopping
 amazon.speech.sim
@@ -90,52 +100,15 @@ com.evernote
 Android Playstation App
 com.zzkko
 com.romwe
-com.amazon.kindle
-com.amazon.storm.lightning.client.aosp
-com.amazon.tahoe.freetime
-com.amazon.dee.app
-com.amazon.clouddrive.photos
-com.amazon.tails
-com.amazon.dee.alexaonwearos
-com.wellsfargo.ceomobile
-com.wf.wellsfargomobile
-com.hilton.android.hhonors
-com.ripio.android
-com.deribit
-io.metamask
-notion.id
-com.abercrombie.abercrombie
-com.abercrombie.hollister
-om.vodafone.mva
-com.boozt
-com.booztlet
-ro.superbet.sport
-ro.superbet.games
-com.eero.android
-com.oceanwing.battery.cam
-com.oceanwing.care.cam
-com.oceanwing.FDMPrint
-com.anker.charging
-https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
-https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
-https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
-https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
-com.immediasemi.android.blink
-com.ring.neighborhoods
-com.ringapp
-https://play.google.com/store/apps/details?id=com.worldcoin
-com.bykea.pk
-com.bykea.pk.partner
-com.trip.android
-https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
-com.whoop.android
-com.meesho.supply
-com.valmo.valmo
-dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
-com.dd.doordash
-https://www.authy.com/download/
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
+com.ss.android.ugc.now
+com.tiktok.tv
+com.zhiliao.musically.livewallpaper
+com.tiktokshop.seller
+Klarna Android App (com.myklarnamobile)
+Starbucks China Android
+Starbucks Japan Android
+com.nbaimd.gametime.nba2011
+com.wolt.android
+com.wolt.courierapp
