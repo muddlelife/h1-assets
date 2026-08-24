@@ -29,13 +29,11 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.vn
 www.visa.co.ao
-visa.co.cr
 www.visa.co.id
 www.visa.co.il
 www.visa.co.in
 www.visa.co.jp
 www.visa.co.ke
-visa.co.ni
 www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
@@ -55,7 +53,6 @@ www.practicalmoneyskills.org
 sandbox.secure.checkout.visa.com
 www.visainfinite.ca
 http://myvisainfinite.com/suntrust/en_us/home.html
-http://www.myvisacardportal.com/welcome/enbd/product/#
 ebctest.cybersource.com
 developer.cybersource.com
 sandbox.authorize.net
@@ -69,7 +66,6 @@ https://ebctest.cybersource.com/listmanager
 https://www.visa.com.az/az_az/account/registration
 https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/ums
-visa.com.bo
 https://ebctest.cybersource.com/cds/
 www.visamiddleeast.com
 www.visa.fr
@@ -146,3 +142,7 @@ survey.visa.com
 www.visa.com.ru
 www.visa.com.ua
 forms.cybersource.com
+www.visa.co.cr
+www.visa.co.ni
+www.visa.com.bo
+https://www.myvisacardportal.com/enbd/en_ae/landing/

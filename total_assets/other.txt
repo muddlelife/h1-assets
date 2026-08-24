@@ -140,23 +140,69 @@ Data Protection Program
 *.nnip.com
 *.vennhypotheken.nl
 *.nextcapital.com
-Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
-Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
-https://www.amazonpay.in/*
-H5G
-mail.hostinger.com/v2
-Managed OpenClaw
-s3://faraday-uploads
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Figma Weave
-Other Asset (Campaigns)
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
-Vercel sandbox
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Enjin Blockchain
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Product Delivery
+Mozilla Ad Routing Service
+Firefox Homepage Newtab
+eufyMake Studio(2D UV)
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+*.visamiddleeast.com
+*.prod.innovexperiments.com
+e-Commerce
+Other related e-commerce services
+Recruitment services
+Main corporate site
+<locale>.trip.com
+Infrastructure & Internal Apps/Services
+Official Clients
+Claude Code
+Leaked Employee API Keys
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
+3CX Phone System
+3CX Live chat WordPress plugin
+*.audible.(TLD)
+https://www.npmjs.com/package/@privy-io/js-sdk-core
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/wagmi
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+@privy-io controlled namespace dependencies
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
+Secondary Assets
+Content Authorization Targets
+[Unico] Liveness Bypass
