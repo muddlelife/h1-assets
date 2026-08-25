@@ -30,4 +30,14 @@ Acronis Cloud Manager
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Burp Suite Pro/Community
 Burp Collaborator
-3CX SBC
+Brave Browser Desktop
+Dynatrace OneAgent
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+Windows OS Executable: Download here https://www.larksuite.com/download
+Mac OS Executable: Download here https://www.larksuite.com/download
+Exodus Desktop Wallet
+406056744
+Arc on Mac
+Arc on Windows
+Dia Browser

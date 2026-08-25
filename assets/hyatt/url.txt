@@ -14,7 +14,6 @@ soaext.oft.hyatt.com
 sso.oft.hyatt.com
 upsell.hyatt.com
 www.hyattconnect.com
-jira.hyattdev.com
 confluence.hyattdev.com
 scapegoat.hyatt.com
 book.cheapcaribbean.com
