@@ -1,10 +1,4 @@
-aw.visa.com
-bb.visa.com
 bd.visa.com
-bm.visa.com
-bq.visa.com
-cw.visa.com
-ht.visa.com
 www.visa.com.br
 www.visa.com.mx
 www.visa.com.tw
@@ -37,7 +31,6 @@ www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
-www.cardinalcommerce.com
 www.currencycloud.com
 usa.visa.com
 www.tink.com
@@ -62,7 +55,6 @@ https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/cds/
 www.visa.fr
 my.visa.fr
-infinite.visa.fr
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
@@ -98,12 +90,10 @@ https://ebctest.cybersource.com/notification-subscriptions
 https://ebctest.cybersource.com/kms/
 www.trialpay.com
 images.demand.cybersource.com
-vdam.visa.com
 app.demand.cybersource.com
 info.authorize.net
 vwcm.visa.com
 info.cybersource.com
-garp.visa.com
 api.prod.innovexperiments.com
 capability.prod.innovexperiments.com
 experience.prod.innovexperiments.com
@@ -141,7 +131,6 @@ by.visa.com
 cis.visa.com
 myanmar.visa.com
 rs.visa.com
-sr.visa.com
 visa.com.mx
 www.visa.com.jm
 www.visaeurope.at
@@ -158,14 +147,12 @@ www.visa.com.hn
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi
 www.visa.hu
 www.visa.gr
 www.visa.ie
-visa.in
 www.visa.is
 www.visa.lt
 www.visa.lv
@@ -180,3 +167,5 @@ www.visabg.com
 www.visa.pl
 www.visa.be
 https://www.visa.com.ua/
+https://ebctest.cybersource.com/underwriting
+https://ebctest.cybersource.com/bos
