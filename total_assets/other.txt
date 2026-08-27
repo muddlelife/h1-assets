@@ -66,21 +66,6 @@ Tier 3 Assets
 Recon Data
 *.uberinternal.com
 *ubereats.com
-Adobe Commerce, Commerce B2B and Commerce Open Source
-C2PA Tool
-*.lightroom.adobe.com
-Acrobat AI Assistant
-Acrobat PDF Spaces
-Acrobat Create Presentations
-Acrobat Create Podcast
-Express AI Assistant
-Lightroom AI Edits
-Lightroom "Edit suggestions" Tech Preview
-Photoshop AI Assistant
-Firefly Image Models
-Firefly Video Model
-Stock AI Studio
-Behance Freelance Job creation
 *.sc-corp.net
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
@@ -122,8 +107,104 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+github.com/deriv-com
+All Assets (other than Blinkit)
+Tier 2
+Tier 1
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Brave websites
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Enjin Blockchain
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Any other Epic games owned asset not listed in the out of scope section
+EpicOnlineServices
+v1staging.kidswebservices.com 
+v1. kidswebservices.com
+Steam Servers
+Steam Client
+Other
+Elastic Package Registry
+Elastic Synthetics Monitoring
+Software Supply Chain
+Elastic Clients
+Elastic Credentials
+Subdomain takeover
+Databricks Free Edition
+Open Scope
+com.affirm.internal.hackerone
+CrowdStrike public infrastructure
+Faucets
+Crypto
+Leaked Credentials
+Tier 3
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Tier 1
+Tier 2
+Tier 3
+Core Assets
+Box Drive
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
 Other Asset (Campaigns)
-Intellectual Property on Public Domains
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for Linux
@@ -180,9 +261,6 @@ Tier 2
 Tier 3
 Tier 1
 Other
-Any public (Internet-facing) infrastructure owned and operated by Palantir.
-Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-Vega OS
 Wickr Pro/Wickr Me (all related technical components) (up to)
 Wickr Pro Android
 Wickr Pro iOS
@@ -290,27 +368,18 @@ Content Authorization Targets
 [Unico] Liveness Bypass
 Crypto infrastructure for cold and hot wallets
 Merchant Portal
+Customer Portal
+Customer Connected Domain
+HubSpot Sales Office 365 add-in
+Other HubSpot-owned (sub)domains not listed as Out of Scope
+ColorOS
+Low Level Properties and Test environment
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 Dia Assistant
 WHOOP 4.0 STRAP
 join.whoop.com
 WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
 https://www.twilio.com/en-us/blog/get-started-webrtc
 https://www.twilio.com/docs/libraries
 smtp.sendgrid.net

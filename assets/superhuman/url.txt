@@ -1,4 +1,3 @@
-app.grammarly.com
 superhuman.com
 gateway.superhuman.com
 id.superhuman.com
@@ -8,3 +7,4 @@ codahosted.io
 coda.grammarly.com
 coda.io
 mail.superhuman.com
+docs.superhuman.com
