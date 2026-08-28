@@ -1,1 +1,2 @@
 *.vpn.hackerone.net
+https://hackerone.com/mcp

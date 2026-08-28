@@ -4,12 +4,6 @@ Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
 funding-webhooks.remitly.io
 hub-api-sandbox.remitly.io
-faucet-api.polygon.technology/
-api-gateway.polygon.technology
-gasstation.polygon.technology/
-api-polygon-tokens.polygon.technology/
-app.klarna.com
-https://events.1password.com/api/
 api.twilio.com
 Twilio APIs
 https://www.twilio.com/docs/verify/api

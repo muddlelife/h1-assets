@@ -15,16 +15,3 @@ https://etherscan.io/address/0x46167cB034feC6ceC46CaeD4f61281f5Aa0Eb0e6
 https://etherscan.io/address/0xD168CFbBE260D48cd119497a9a2eE8482080C5E7
 https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
-https://docs.world.org/world-chain/reference/address-book
-https://github.com/circlefin/evm-cctp-contracts
-http://github.com/circlefin/noble-cctp
-https://github.com/circlefin/solana-cctp-contracts
-https://github.com/circlefin/buidl-wallet-contracts
-https://github.com/circlefin/stablecoin-evm
-https://github.com/circlefin/noble-fiattokenfactory
-https://github.com/circlefin/evm-gateway-contracts
-https://github.com/circlefin/evm-xreserve-contracts
-https://github.com/circlefin/starknet-cctp
-https://github.com/circlefin/evm-cpn-contracts
-https://github.com/circlefin/stablecoin-near
-https://github.com/circlefin/solana-gateway-contracts
