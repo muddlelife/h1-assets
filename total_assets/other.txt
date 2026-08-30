@@ -127,33 +127,6 @@ Data Protection Program
 *.nextcapital.com
 Other Dyson Assets
 Github findings
-FIles.com REST API
-Files.com SDK's
-Files.com Mobile App
-Other Acronis Domains
-Acronis Cyber Infrastructure
-Malwarebytes Privacy (VPN)
-BrowserGuard (Firefox/Chrome/Safari browser extension)
-ThreatDown Patch Management
-ThreatDown Endpoint Detection & Response (EDR)
-ThreatDown Endpoint Protection
-ThreatDown Device Control
-Any other Malwarebytes asset
-ThreatDown Browser Phishing Protection
-Any other ThreatDown asset
-Grammarly Browser Extensions
-Capture the Flag
-Superhuman Go
-Coda Chrome Extension
-Superhuman Mail
-Superhuman Mail Desktop App
-Superhuman Mail Chrome Extension
-Any other Epic games owned asset not listed in the out of scope section
-EpicOnlineServices
-v1staging.kidswebservices.com 
-v1. kidswebservices.com
-Steam Servers
-Steam Client
 Other
 Elastic Package Registry
 Elastic Synthetics Monitoring
@@ -169,6 +142,7 @@ Faucets
 Crypto
 Leaked Credentials
 Tier 3
+Android & iOS App for Instacart Shoppers
 Android App
 iOS App
 Core Assets
@@ -190,6 +164,19 @@ s3://faraday-uploads
 s3://faraday-secret
 gs://fdy-production-sdk-uploads
 gs://faraday-secret
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
+Other Asset (Campaigns)
+Intellectual Property on Public Domains
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for Linux
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
 Stripe Payments
 Stripe Checkout
 Stripe Connect
@@ -241,30 +228,38 @@ Tier 2
 Tier 3
 Tier 1
 Other
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
-GitHub Actions in our Public Repositories 
-Subdomain Takeover - konghq.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
+Product Delivery
+Mozilla Ad Routing Service
+Firefox Homepage Newtab
+eufyMake Studio(2D UV)
+https://ring.com/*
+https://api.ring.com/*
+https://fw.ring.com/*
+https://app.ring.com/*
+https://admin.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://billing.ring.com/*
+Secondary Assets
+Primary Assets
+Vercel sandbox

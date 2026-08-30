@@ -59,21 +59,6 @@ com.skypicker.Skypicker
 993135524
 Exness Trade: Online Trading
 Exness Investor
-1118448159
-978342143
-1192506963
-930441707
-351331194
-403684733
-6444040977
-983980808
-com.malwarebytes.Malwarebytes
-com.grammarly.keyboard
-io.coda
-com.superhuman.mail 
-id1520720139
-id1534920947
-com.valvesoftware.Steam
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 com.monaco.mobile
 740514933
@@ -106,6 +91,7 @@ com.creditkarma.mobile.international
 6740879082
 1413721906
 com.frontapp.mobile
+545599256
 657777015
 469463298
 6449737830
@@ -147,6 +133,19 @@ https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 448142450
 281796108
 iOS Playstation App
+878577184
+1080248000
+835599320
+1235601864
+641062073
+1591003012
+Freshdesk-iOS-App
+Freshservice-iOS-App
+Freshchat-iOS-App
+Freshcaller-iOS-App
+Freshservice-Intune-iOS-App
+Citrix Secure Access client for macOS
+319881193
 978516833
 com.hypr.one
 407558537
@@ -181,14 +180,25 @@ Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
 https://apps.apple.com/app/id1635031432
-https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
-https://apps.apple.com/us/app/verily-me/id6448808133
-HubSpot iOS Mobile App
-id6472513080
-com.whoop.iphone
-1457958492
-id6443932656
-1634080733
-6462308655
-938003185
-Id1406825640
+339041767
+383915209
+1589071345
+com.boozt.app
+com.boozt.booztlet
+1023499075
+com.security.BatteryCam
+com.security.care
+com.eufylife.EufyHome
+com.anker.AnkerMake
+Anker
+https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
+https://apps.apple.com/mx/app/debix/id1581440132
+https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
+https://apps.apple.com/mx/app/six-id/id1620496931
+https://apps.apple.com/us/app/bme-conecta/id6443938949
+1013961111
+1218902777
+926252661
+https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
+1477299281
+943905271
