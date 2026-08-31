@@ -1,1 +1,1 @@
-OKX Wallet Core Open Source
+https://github.com/okx/go-wallet-sdk

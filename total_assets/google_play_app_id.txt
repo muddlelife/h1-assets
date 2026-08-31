@@ -59,13 +59,20 @@ https://play.google.com/store/apps/details?id=com.myntra.android
 com.skypicker.main
 com.dyson.mobile.android
 com.exness.android.pa
-https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk
-https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB
-https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB
-https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
-com.affirm.central.audit
-play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
-co.mona.android
+com.acronis.acronistrueimage
+com.acronis.abc
+com.lyst.lystapp
+com.enjin.mobile.wallet
+com.bumble.app
+com.badoo.mobile
+com.badoo.twa
+com.hotornot.app
+com.bumblebff.app
+com.yoti.mobile.android.live
+org.malwarebytes.antimalware
+com.grammarly.android.keyboard
+io.coda.codaapp
+com.superhuman.mail
 fi.spankki
 com.remitly.androidapp
 com.logitech.ueboom
@@ -194,6 +201,19 @@ com.whatnot_mobile
 com.newegg.app
 ca.koho
 https://play.google.com/store/apps/details?id=com.moonpay
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.dee.app
+com.amazon.clouddrive.photos
+com.amazon.tails
+com.amazon.dee.alexaonwearos
+com.wellsfargo.ceomobile
+com.wf.wellsfargomobile
+com.hilton.android.hhonors
+com.ripio.android
+com.deribit
+io.metamask
 notion.id
 com.abercrombie.abercrombie
 com.abercrombie.hollister
@@ -215,5 +235,45 @@ com.immediasemi.android.blink
 com.ring.neighborhoods
 com.ringapp
 https://play.google.com/store/apps/details?id=com.worldcoin
+com.bykea.pk
+com.bykea.pk.partner
+com.trip.android
+https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://play.google.com/store/apps/details?id=com.tcx.sipphone14
+com.audible.application
+Klarna Android App (com.myklarnamobile)
+Starbucks China Android
+Starbucks Japan Android
+com.nbaimd.gametime.nba2011
+com.syfe
+https://play.google.com/store/apps/details?id=com.verily.me
+HubSpot Android Mobile App
+com.coloros.video
+com.heytap.browser
+com.heytap.cloud
+com.heytap.health.international
+com.heytap.market
+com.heytap.themestore
+com.heytap.xgame
+com.oplus.account
+com.oplus.themestore
+com.oppo.market
+com.oppo.quicksearchbox
+com.heytap.store
+com.heytap.mall
+com.oppo.store
+company.thebrowser.arc
+com.whoop.android
+com.meesho.supply
+com.valmo.valmo
+dif.tech.plata
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
+net.bitstamp.app
+com.robinhood.global Android
+com.dd.doordash
+https://www.authy.com/download/
+SUPERAPP (AOS)
 com.wolt.android
 com.wolt.courierapp

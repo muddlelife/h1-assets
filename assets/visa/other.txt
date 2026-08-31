@@ -1,2 +1,1 @@
-*.visamiddleeast.com
 *.prod.innovexperiments.com
