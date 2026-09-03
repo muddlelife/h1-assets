@@ -1,8 +1,6 @@
 api.wordpress.org
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 mercantile.wordpress.org
-irclogs.wordpress.org
-lists.wordpress.org
 planet.wordpress.org
 wordpressfoundation.org
 doaction.org
