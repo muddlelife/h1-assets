@@ -93,12 +93,7 @@ images.demand.cybersource.com
 app.demand.cybersource.com
 info.authorize.net
 vwcm.visa.com
-info.cybersource.com
 capability.prod.innovexperiments.com
-merchantsignage.visa.com
-merchantsignageeu.visa.com
-merchantsignageca.visa.com
-merchantsignageglobal.visa.com
 vgov.catalogue.digitalcontrolroom.com
 myvu.visauniversity.com
 codeofconduct.visa.com
