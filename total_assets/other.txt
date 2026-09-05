@@ -108,6 +108,29 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
+Faucets
+Crypto
+Leaked Credentials
+Tier 3
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
+k8s.gcr.io
+https://storage.googleapis.com/kubernetes-release/
+Tier 1
+Tier 2
+Tier 3
+Core Assets
+Box Drive
+Box Tools
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+Vega OS
+Devices
+Services/Mobile/GenAI
 H5G
 mail.hostinger.com/v2
 Managed OpenClaw
@@ -122,28 +145,60 @@ Figma Slack App
 Figma for Microsoft Teams
 Figma Weave
 Other Asset (Campaigns)
-https://apps.facebook.com/pokerheat
-https://apps.facebook.com/vegas_downtown_slots
-https://apps.facebook.com/pearls-peril
-1474700 (Steam app id)
-Tier 1 Studios
-Tier 2
-Tier 3
-Tier 1
 Other
-WGP Slot Games
-https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
-Mac OS Executable
-Windows OS Executable
-OKX Android APK
-OKX iOS APP
-OKX Wallet Chrome Extension
-OKX Wallet Edge Add-ons
-OKX Wallet Safari Extension
-Product Delivery
-Mozilla Ad Routing Service
-Firefox Homepage Newtab
-eufyMake Studio(2D UV)
+Wickr Pro/Wickr Me (all related technical components) (up to)
+Wickr Pro Android
+Wickr Pro iOS
+Wickr Pro Linux
+Wickr Me iOS
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Me Windows
+Hilton Franchised Properties
+Hilton Third Party Applications - *.hilton.com
+Managed Property Assets
+Enterprise Edition Products and Tools
+All Evergreen Assets (Excluding staging)
+MongoDB Owned GitHub Repositories
+Cluster-To-Cluster sync
+Compass
+Relational Migrator
+MongoDB Shell
+VS Code Plugin
+MongoDB Connectors
+MongoDB Atlas
+MongoDB Community Server
+MongoDB IntelliJ Plugin
+MongoDB Partner Integrations
+MongoDB MCP Server
+MongoDB Assistant
+Jira Projects
+Atlas Charts
+Atlas IAM
+Atlas Data Federation
+Atlas Payments/Billing
+Web3 - Smart Contracts Scope
+Tier 1
+Tier 2
+MetaMask Browser Extension
+MetaMask SDK
+https://metamask.github.io/phishing-warning/<vX.Y.Z>
+Snaps
+mUSD Stablecoin
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
 https://ring.com/*
 https://api.ring.com/*
 https://fw.ring.com/*

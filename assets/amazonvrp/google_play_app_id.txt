@@ -6,6 +6,7 @@ com.amazon.flex.rabbit
 com.imdbtv.livingroom
 com.amazon.amazonvideo.livingroom
 com.amazon.mp3.automotiveOS
+com.amazon.dee.alexaonwearos
 com.localqueen
 com.amazon.helix.prod
 com.amazon.tahoe.grownups
@@ -34,3 +35,9 @@ com.amazon.enterprise.access.android
 com.amazon.firetv.recast.blaster.aosp
 com.amazon.ihm.candycane
 com.amazon.swa.mobileapp
+com.amazon.clouddrive.photos
+com.amazon.dee.app
+com.amazon.kindle
+com.amazon.storm.lightning.client.aosp
+com.amazon.tahoe.freetime
+com.amazon.tails
