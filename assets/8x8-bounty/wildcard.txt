@@ -1,4 +1,3 @@
-*.8x8staging.com
 *.chalet.8x8.com
 vcc-*.8x8.com
 https://*.chalet.8x8.com/ws/v1
