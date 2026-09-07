@@ -108,49 +108,68 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Other Asset (Campaigns)
-Intellectual Property on Public Domains
-Citrix Secure Access client for Windows
-Citrix Secure Access client for iOS
-Citrix Secure Access client for Linux
-Citrix End Point Analysis (EPA) client for Linux
-Citrix End Point Analysis (EPA) client for Windows
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliodigitalwealth.com
+*.foliofirst.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.folioinvesting.com
+*.nnip.com
+*.vennhypotheken.nl
+*.nextcapital.com
+Other Dyson Assets
+Github findings
+FIles.com REST API
+Files.com SDK's
+Files.com Mobile App
+Other Acronis Domains
+Acronis Cyber Infrastructure
+Burp Suite DAST
+Other Semrush Related Asset
+Leaked/Сompromised Employee accounts
+Other APK Assets
+Other Hardware Assets
+MIUI OS for Xiaomi Phone
+Enjin Blockchain
+Malwarebytes Privacy (VPN)
+BrowserGuard (Firefox/Chrome/Safari browser extension)
+ThreatDown Patch Management
+ThreatDown Endpoint Detection & Response (EDR)
+ThreatDown Endpoint Protection
+ThreatDown Device Control
+Any other Malwarebytes asset
+ThreatDown Browser Phishing Protection
+Any other ThreatDown asset
+Grammarly Browser Extensions
+Capture the Flag
+Superhuman Go
+Coda Chrome Extension
+Superhuman Mail
+Superhuman Mail Desktop App
+Superhuman Mail Chrome Extension
+Box Drive
+Box Tools
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+Vega OS
+Devices
+Services/Mobile/GenAI
+H5G
+mail.hostinger.com/v2
+Managed OpenClaw
+s3://faraday-uploads
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Wickr Pro/Wickr Me (all related technical components) (up to)
@@ -195,27 +214,20 @@ MetaMask SDK
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 Snaps
 mUSD Stablecoin
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
-WGP Slot Games
-https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
-Mac OS Executable
-Windows OS Executable
-OKX Android APK
-OKX iOS APP
-OKX Wallet Chrome Extension
-OKX Wallet Edge Add-ons
-OKX Wallet Safari Extension
-Product Delivery
-Mozilla Ad Routing Service
-Firefox Homepage Newtab
-eufyMake Studio(2D UV)
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+Tier 1 OSS
+Tier 2 OSS
+Tier 3 OSS
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
+Tier 3
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/docs/libraries
+smtp.sendgrid.net
+Any host/web property verified to be owned by Twilio et al.
