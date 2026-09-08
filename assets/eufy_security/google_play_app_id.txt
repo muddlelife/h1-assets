@@ -1,4 +1,3 @@
 com.oceanwing.battery.cam
-com.oceanwing.care.cam
 com.oceanwing.FDMPrint
 com.anker.charging

@@ -1,5 +1,3 @@
 com.security.BatteryCam
-com.security.care
-com.eufylife.EufyHome
 com.anker.AnkerMake
 Anker

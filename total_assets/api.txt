@@ -1,7 +1,3 @@
 api-partner.spotify.com
 verified.clearme.com/v1/verification_sessions
-api.twilio.com
-Twilio APIs
-https://www.twilio.com/docs/verify/api
-https://www.twilio.com/docs/authy/api
-api.segment.io
+https://events.1password.com/api/
