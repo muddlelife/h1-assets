@@ -1,3 +1,5 @@
 com.security.BatteryCam
 com.anker.AnkerMake
 Anker
+anker-nebula/id1319092174
+soundcore/id1331876603

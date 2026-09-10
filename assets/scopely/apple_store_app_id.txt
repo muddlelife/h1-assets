@@ -1,6 +1,3 @@
 com.foxnextgames.m3
-com.pieyel.scrabble
-com.withbuddies.dice.free
-com.scopely.yux
 id1427744264
 id1621328561

@@ -2,3 +2,4 @@
 *.hypermint.com
 *.moonpay.com
 *.iron.xyz
+*.swaps.xyz

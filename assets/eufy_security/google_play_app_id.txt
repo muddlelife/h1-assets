@@ -1,3 +1,5 @@
 com.oceanwing.battery.cam
 com.oceanwing.FDMPrint
 com.anker.charging
+id=com.oceanwing.soundcore
+id=com.zhixin.controller
