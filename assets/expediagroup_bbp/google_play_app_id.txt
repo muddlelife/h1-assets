@@ -7,3 +7,5 @@ com.cheaptickets
 com.travelocity.android
 com.hcom.android
 com.vrbo.android
+com.carrentals
+com.homeaway.android
