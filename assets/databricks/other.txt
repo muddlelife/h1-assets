@@ -1,2 +1,3 @@
 Databricks Free Edition
 Open Scope
+Lakebase-Supported extensions
