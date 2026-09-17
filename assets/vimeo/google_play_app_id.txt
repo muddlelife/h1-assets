@@ -1,4 +1,3 @@
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.magisto
-com.livestream.livestream

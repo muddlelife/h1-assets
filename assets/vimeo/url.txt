@@ -13,5 +13,3 @@ api.vhx.tv
 magisto.com,www.magisto.com
 staging.magisto.com
 applause1.magisto.com
-www.livestream.com
-donations.livestream.com
