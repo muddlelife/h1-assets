@@ -36,32 +36,14 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-Open Source - Atlas
-https://github.com/Chia-Network/chia-blockchain
-https://github.com/Chia-Network/chia-blockchain-gui
-https://github.com/Chia-Network/clvm_rs
-https://github.com/Chia-Network/chia_rs
-https://github.com/Chia-Network/chiapos
-https://github.com/Chia-Network/chiavdf
-https://github.com/circlefin/stablecoin-sui
-https://github.com/circlefin/stablecoin-aptos
-https://github.com/circlefin/sui-cctp
-https://github.com/circlefin/stablecoin-starknet
-https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/stablecoin-xlm
-https://github.com/vercel/next.js
-https://github.com/sveltejs/svelte
-https://github.com/vercel/turborepo
-https://github.com/vercel/swr
-https://github.com/vercel/ai
-https://github.com/nuxt/nuxt
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/nitrojs/nitro
-https://github.com/vercel/async-sema
-https://github.com/vercel-labs/skills
-https://github.com/vercel-labs/agent-skills
-https://github.com/vercel/eve
-https://github.com/vercel/chat
+github.com/binary-com
+https://github.com/kiwicom/js-iam-middleware
+https://github.com/kiwicom/k8s-vault-operator
+https://github.com/kiwicom/kiwi-cache
+https://github.com/kiwicom/kiwi-json
+https://github.com/kiwicom/kiwi-structlog-config
+https://github.com/kiwicom/konfetti
+https://github.com/kiwicom/navigation-compose-typed
+https://github.com/kiwicom/orbit
+https://github.com/kiwicom/pg2avro
+https://github.com/kiwicom/request-session

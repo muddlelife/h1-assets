@@ -44,41 +44,23 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.einnovation.temu
-Netflix Mobile Application for Android
-Klarna Android App (com.myklarnamobile)
-Starbucks China Android
-Starbucks Japan Android
-com.nbaimd.gametime.nba2011
-com.syfe
-https://play.google.com/store/apps/details?id=com.verily.me
-HubSpot Android Mobile App
-com.coloros.video
-com.heytap.browser
-com.heytap.cloud
-com.heytap.health.international
-com.heytap.market
-com.heytap.themestore
-com.heytap.xgame
-com.oplus.account
-com.oplus.themestore
-com.oppo.market
-com.oppo.quicksearchbox
-com.heytap.store
-com.heytap.mall
-com.oppo.store
-company.thebrowser.arc
-com.whoop.android
-com.meesho.supply
-com.valmo.valmo
-dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
-com.dd.doordash
-https://www.authy.com/download/
+com.application.zomato
+com.grofers.customerapp
+com.blinkit.bistro
+com.application.zomato.district
+com.wealthsimple
+com.wealthsimple.predict
+com.quora.android
+com.marcus.android.uk
+com.marcus.android
+com.gs.pwmdigital.external.android
+com.gs.pfmg.wellness
+com.gs.mobile.trader
+com.gs.mobile.gsnow
+com.Hyatt
+https://play.google.com/store/apps/details?id=com.myntra.android
+com.skypicker.main
 SUPERAPP (AOS)
 com.wolt.android
 com.wolt.courierapp
+d-you Wallet Android Test

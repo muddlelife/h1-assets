@@ -16,11 +16,3 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Arc on Mac
-Arc on Windows
-Dia Browser
-Insomnia CLI (inso)
-Insomnia Desktop Client
-Kong Mesh
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Gateway Enterprise

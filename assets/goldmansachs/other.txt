@@ -7,5 +7,4 @@
 *.folioinstitutional.com
 *.folioinvesting.com
 *.nnip.com
-*.vennhypotheken.nl
 *.nextcapital.com
