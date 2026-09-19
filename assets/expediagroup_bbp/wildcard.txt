@@ -24,3 +24,5 @@
 *.expedia-aarp.com
 *.flights.com
 *.stayz.com.au
+*.expediataap.com
+*.expediataaprewards.com
