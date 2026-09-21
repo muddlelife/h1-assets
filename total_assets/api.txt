@@ -1,17 +1,5 @@
 api-partner.spotify.com
-verified.clearme.com/v1/verification_sessions
 Crypto.com mobile app APIs that require an account
 Crypto.com Exchange APIs that require an account
 funding-webhooks.remitly.io
 hub-api-sandbox.remitly.io
-app.klarna.com
-api.twilio.com
-Twilio APIs
-https://www.twilio.com/docs/verify/api
-https://www.twilio.com/docs/authy/api
-api.segment.io
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
