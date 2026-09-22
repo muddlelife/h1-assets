@@ -44,28 +44,6 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-993135524
-Exness Trade: Online Trading
-Exness Investor
-1118448159
-978342143
-1192506963
-597940518
-com.enjin.mobile.wallet
-930441707
-351331194
-403684733
-6444040977
-983980808
-com.malwarebytes.Malwarebytes
-com.grammarly.keyboard
-io.coda
-com.superhuman.mail 
-id1520720139
-id1534920947
-com.valvesoftware.Steam
-apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-com.monaco.mobile
 740514933
 455004730
 674258465
@@ -106,6 +84,8 @@ com.frontapp.mobile
 1452166623
 1541949985
 iOS Box Mobile App
+exodus-movement.exodus
+https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 Citrix Secure Access client for macOS
 319881193
 978516833
@@ -142,6 +122,14 @@ Whatnot: Shop, Sell, Connect
 com.newegg.app
 1091010942
 https://apps.apple.com/app/id1635031432
+com.ripio.ios
+1293674041
+io.metamask.Metamask
+339041767
+383915209
+1589071345
+com.boozt.app
+com.boozt.booztlet
 1023499075
 com.security.BatteryCam
 com.anker.AnkerMake
