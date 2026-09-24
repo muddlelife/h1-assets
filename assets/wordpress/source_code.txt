@@ -1,8 +1,13 @@
 WordPress Core
 BuddyPress Core
 bbPress Core
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 Gutenberg
 GlotPress
 WP-CLI
 Official WordPress plugins
+Secure Custom Fields
+SQLite Database Integration
+Create Block Theme
+github.com/wordpress
+Playground
