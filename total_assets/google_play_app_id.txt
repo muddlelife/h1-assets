@@ -44,31 +44,23 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-air.com.playtika.slotomania
-air.com.buffalo_studios.newflashbingo
-com.playtika.caesarscasino
-com.jellybtn.boardkings
-com.pacificinteractive.HouseOfFun
-com.playtika.wsop.gp
-com.Seriously.BestFiends
-com.jellybtn.cashkingmobile
-net.supertreat.solitaire
-net.wooga.junes_journey_hidden_object_mystery_game
-air.com.playtika.cvs
-com.bigblueparrot.pokerfriends
-fi.reworks.redecor
-com.Seriously.Phoenix
-lol.onevone
-net.wooga.switchcraft.googleplay
-net.wooga.tropicats_tropical_cats_puzzle_paradise
-com.wooga.pearlsperil
-com.youdagames.monopolypoker
+com.hypr.one
 org.hartfordhealthcare.hhc247
 com.whatnot_mobile
 com.newegg.app
 ca.koho
 https://play.google.com/store/apps/details?id=com.moonpay
-SUPERAPP (AOS)
+com.meesho.supply
+com.valmo.valmo
+dif.tech.plata
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
+net.bitstamp.app
+com.robinhood.global Android
+com.dd.doordash
+https://www.authy.com/download/
+dk.royalarena.app
 com.wolt.android
 com.wolt.courierapp
 d-you Wallet Android Test
