@@ -1,4 +1,8 @@
 api-partner.spotify.com
+faucet-api.polygon.technology/
+api-gateway.polygon.technology
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/
 prod.meeshoapi.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
@@ -7,8 +11,3 @@ Twilio APIs
 https://www.twilio.com/docs/verify/api
 https://www.twilio.com/docs/authy/api
 api.segment.io
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns

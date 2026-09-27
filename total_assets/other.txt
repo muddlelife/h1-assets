@@ -111,7 +111,26 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Other
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+Vega OS
+Devices
+Services/Mobile/GenAI
+H5G/Agency
+mail.hostinger.com
+Managed OpenClaw
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+BigQuery
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
+Other Asset (Campaigns)
 GitHub Actions in our Public Repositories 
 Subdomain Takeover - konghq.com
 NetScaler Gateway
