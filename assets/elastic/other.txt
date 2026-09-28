@@ -1,7 +1,3 @@
-Other
-Elastic Package Registry
-Elastic Synthetics Monitoring
 Software Supply Chain
-Elastic Clients
 Elastic Credentials
 Subdomain takeover

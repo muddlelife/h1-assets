@@ -4,4 +4,3 @@ https://*.chalet.8x8.com/ws/v1
 *.packet8.net
 *.8x8cloud.net
 *.p8t.us
-*.wavecell.com
