@@ -1,4 +1,2 @@
 api-partner.spotify.com
-Crypto.com mobile app APIs that require an account
-Crypto.com Exchange APIs that require an account
-https://events.1password.com/api/
+verified.clearme.com/v1/verification_sessions
