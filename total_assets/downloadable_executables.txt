@@ -15,8 +15,6 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Rockstar Games Launcher
-Files.com Command Line Interface (CLI) App
-Files.com Desktop v6 App
-Files.com On-Premise Agent
-3CX SBC
+Exodus Desktop Wallet
+406056744
+Notion Desktop App

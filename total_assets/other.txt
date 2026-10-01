@@ -111,27 +111,47 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
-Tier 1
-Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.nextcapital.com
-Other Dyson Assets
-Github findings
-FIles.com REST API
-Files.com SDKs and MCP
-Files.com Mobile App
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+Vega OS
+Devices
+Services/Mobile/GenAI
+H5G/Agency
+mail.hostinger.com
+Managed OpenClaw
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+BigQuery
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
+Other Asset (Campaigns)
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+Vercel sandbox
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
 eufyMake Studio(2D UV)
 https://ring.com/*
 https://api.ring.com/*
@@ -143,31 +163,3 @@ https://oauth.ring.com/*
 https://billing.ring.com/*
 Secondary Assets
 Primary Assets
-*.prod.innovexperiments.com
-e-Commerce
-Other related e-commerce services
-Recruitment services
-Main corporate site
-<locale>.trip.com
-Infrastructure & Internal Apps/Services
-Official Clients
-Claude Code
-Leaked Employee API Keys
-Claude Desktop Extensions and Claude.ai MCP servers
-Claude in Chrome
-3CX Phone System
-3CX Live chat WordPress plugin
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass

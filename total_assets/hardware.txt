@@ -16,7 +16,13 @@ UniFi Connect
 Enterprise Audio/Video
 UniFi-Play
 GitHub Enterprise Server
-Dyson Connected Products (IoT Hardware)
+Echo Family Devices
+FireTV
+Kindle E-Reader
+Luna
+Tablets
+PlayStation 4
+PlayStation 5
 eero Devices
 https://us.eufy.com/products/t88711w1
 https://us.eufy.com/products/t88511d1
