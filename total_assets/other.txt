@@ -111,55 +111,18 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
-Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
-https://www.amazonpay.in/*
-Vega OS
-Devices
-Services/Mobile/GenAI
-H5G/Agency
-mail.hostinger.com
-Managed OpenClaw
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-BigQuery
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Figma Weave
-Other Asset (Campaigns)
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-831287358355275877
-961114489414094898
-Any public cloud resource or infrastructure operated and managed by REI.
-Android & iOS App for REI Customers
-Vercel sandbox
-WGP Slot Games
-https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
-Mac OS Executable
-Windows OS Executable
-OKX Android APK
-OKX iOS APP
-OKX Wallet Chrome Extension
-OKX Wallet Edge Add-ons
-OKX Wallet Safari Extension
-eufyMake Studio(2D UV)
-https://ring.com/*
-https://api.ring.com/*
-https://fw.ring.com/*
-https://app.ring.com/*
-https://admin.ring.com/*
-https://nw.ring.com/*
-https://oauth.ring.com/*
-https://billing.ring.com/*
+github.com/deriv-com
+All Assets (other than Blinkit)
+Tier 2
+Tier 1
+Tier 3
+Data Protection Program
+Corporate Assets
+Open Source - Zuul
+Microsites
+Open Source - Spectator
 Secondary Assets
-Primary Assets
+Content Authorization Targets
+[Unico] Liveness Bypass
+Crypto infrastructure for cold and hot wallets
+Merchant Portal

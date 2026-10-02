@@ -15,6 +15,4 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-Exodus Desktop Wallet
-406056744
-Notion Desktop App
+Rockstar Games Launcher
