@@ -18,6 +18,7 @@ editionhotels.com
 gatewaydsapdev2.marriott.com
 dcfgatewaytst1.marriott.com
 gatewaydsaptst1.marriott.com
+https://gatewaydsapprd.marriott.com/v2/
 gatewaydsaptst2.marriott.com
 www.ritzcarlton.com
 www.marriott.com
@@ -66,3 +67,5 @@ joinmarriottbonvoy.com
 hotel-development.marriott.com
 ifast.marriott.com
 wechat.api.marriott.com
+https://gatewaydsapprd.marriott.com/v1/
+hotshoppeservices.com

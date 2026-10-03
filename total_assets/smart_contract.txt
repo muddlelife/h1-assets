@@ -1,3 +1,6 @@
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
+https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
+https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/circlefin/evm-cctp-contracts
 http://github.com/circlefin/noble-cctp
 https://github.com/circlefin/solana-cctp-contracts

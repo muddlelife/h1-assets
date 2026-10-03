@@ -1,3 +1,4 @@
 api-partner.spotify.com
-verified.clearme.com/v1/verification_sessions
+funding-webhooks.remitly.io
+hub-api-sandbox.remitly.io
 app.klarna.com
