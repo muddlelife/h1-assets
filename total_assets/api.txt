@@ -1,4 +1,5 @@
 api-partner.spotify.com
-funding-webhooks.remitly.io
-hub-api-sandbox.remitly.io
-app.klarna.com
+faucet-api.polygon.technology/
+api-gateway.polygon.technology
+gasstation.polygon.technology/
+api-polygon-tokens.polygon.technology/

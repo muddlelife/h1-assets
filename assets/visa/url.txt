@@ -31,7 +31,6 @@ www.visa.co.ve
 visa.co.za
 www.cybersource.com
 www.authorize.net
-www.currencycloud.com
 usa.visa.com
 www.tink.com
 www.practicalmoneyskills.com
@@ -89,16 +88,12 @@ https://ebctest.cybersource.com/tech-partner-integration
 https://ebctest.cybersource.com/notification-subscriptions
 https://ebctest.cybersource.com/kms/
 www.trialpay.com
-images.demand.cybersource.com
-app.demand.cybersource.com
-info.authorize.net
 vwcm.visa.com
 capability.prod.innovexperiments.com
 vgov.catalogue.digitalcontrolroom.com
 myvu.visauniversity.com
 codeofconduct.visa.com
 visainnovationprogram.com
-https://solutions.visaacceptance.com/subscription
 visasgic.api-xperience.com
 sap.api-xperience.com
 vasdemos.visa.com
@@ -165,3 +160,4 @@ https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/vroom
 developer.plus.authorize.net
 sandbox.developer.plus.authorize.net
+https://www.currencycloud.com/
