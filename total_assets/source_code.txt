@@ -41,6 +41,21 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
+github.com/binary-com
+https://github.com/kiwicom/js-iam-middleware
+https://github.com/kiwicom/k8s-vault-operator
+https://github.com/kiwicom/kiwi-cache
+https://github.com/kiwicom/kiwi-json
+https://github.com/kiwicom/kiwi-structlog-config
+https://github.com/kiwicom/konfetti
+https://github.com/kiwicom/navigation-compose-typed
+https://github.com/kiwicom/orbit
+https://github.com/kiwicom/pg2avro
+https://github.com/kiwicom/request-session
+https://github.com/moonpay
+https://github.com/circlefin/malachite
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
 https://github.com/vercel
 https://github.com/nitrojs/nitro
 https://github.com/nuxt/nuxt
@@ -58,16 +73,3 @@ https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/vercel/eve
 https://github.com/vercel/ms
-https://github.com/okx/go-wallet-sdk
-https://github.com/tronprotocol/java-tron
-https://github.com/worldcoin
-https://github.com/worldcoin/orb-software
-https://github.com/worldcoin/orb-firmware
-https://github.com/worldcoin/orb-core
-https://github.com/worldcoin/orb-messages
-https://github.com/worldcoin/orb-secure-element
-https://github.com/worldcoin/orb-relay-messages
-https://github.com/worldcoin/orb-rustzone
-github.com/anthropics
-https://www.npmjs.com/package/@privy-io/react-auth
-Open Source - Atlas

@@ -1,5 +1,5 @@
 Enterprise Edition Products and Tools
-All Evergreen Assets (Excluding staging)
+Evergreen
 MongoDB Owned GitHub Repositories
 Cluster-To-Cluster sync
 Compass
@@ -8,7 +8,7 @@ MongoDB Shell
 VS Code Plugin
 MongoDB Connectors
 MongoDB Atlas
-MongoDB Community Server
+MongoDB Server
 MongoDB IntelliJ Plugin
 MongoDB Partner Integrations
 MongoDB MCP Server
@@ -18,3 +18,6 @@ Atlas Charts
 Atlas IAM
 Atlas Data Federation
 Atlas Payments/Billing
+MongoDB Atlas Agent Engine 
+MongoDB Atlas Agent Engine CLI and First Party Libraries
+Atlas Infinite

@@ -15,4 +15,11 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-3CX SBC
+Rockstar Games Launcher
+Drivers
+Database Tools
+Notion Desktop App
+Arc on Mac
+Arc on Windows
+Dia on Windows
+Dia on MacOS
