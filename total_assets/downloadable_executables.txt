@@ -16,9 +16,11 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Drivers
-Database Tools
+doppler
+HyprUnlock.exe
+HYPR Workforce Access.app
 Notion Desktop App
+3CX SBC
 Arc on Mac
 Arc on Windows
 Dia on Windows
