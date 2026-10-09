@@ -1,3 +1,2 @@
 api-partner.spotify.com
 verified.clearme.com/v1/verification_sessions
-https://events.1password.com/api/
