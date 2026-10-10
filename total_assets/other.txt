@@ -111,34 +111,21 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
-Tier 1
-Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliodigitalwealth.com
-*.foliofirst.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.folioinvesting.com
-*.nnip.com
-*.nextcapital.com
-Other Dyson Assets
-Github findings
-FIles.com REST API
-Files.com SDKs and MCP
-Files.com Mobile App
-Other Acronis Domains
-Acronis Cyber Infrastructure
-Burp Suite DAST
-Brave websites
-Other Semrush Related Asset
-Leaked/Сompromised Employee accounts
-Other APK Assets
-Other Hardware Assets
-MIUI OS for Xiaomi Phone
-Enjin Blockchain
+Customer Portal
+Customer Connected Domain
+HubSpot Sales Office 365 add-in
+Other HubSpot-owned (sub)domains not listed as Out of Scope
+ColorOS
+Low Level Properties and Test environment
+Neon-supported extensions
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+Dia Assistant
+WHOOP 4.0 STRAP
+join.whoop.com
+WHOOP 5.0/MG STRAP
+GitHub Actions in our Public Repositories 
+Subdomain Takeover - konghq.com
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
