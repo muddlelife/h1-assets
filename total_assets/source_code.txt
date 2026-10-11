@@ -41,3 +41,22 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
+https://github.com/okx/go-wallet-sdk
+https://github.com/tronprotocol/java-tron
+https://github.com/worldcoin
+https://github.com/worldcoin/orb-software
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+github.com/anthropics
+https://www.npmjs.com/package/@privy-io/react-auth
+Open Source - Atlas
+https://github.com/Chia-Network/chia-blockchain
+https://github.com/Chia-Network/chia-blockchain-gui
+https://github.com/Chia-Network/clvm_rs
+https://github.com/Chia-Network/chia_rs
+https://github.com/Chia-Network/chiapos
+https://github.com/Chia-Network/chiavdf

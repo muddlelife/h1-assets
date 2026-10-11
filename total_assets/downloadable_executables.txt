@@ -16,10 +16,4 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Arc on Mac
-Arc on Windows
-Dia on Windows
-Dia on MacOS
-Kong Mesh
-Kong Gateway Plugins (Kong-Supported Only)
-Kong Gateway Enterprise
+3CX SBC
