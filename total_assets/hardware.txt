@@ -16,10 +16,3 @@ UniFi Connect
 Enterprise Audio/Video
 UniFi-Play
 GitHub Enterprise Server
-Point Smart
-CounterAct 9.x
-Echo Family Devices
-FireTV
-Kindle E-Reader
-Luna
-Tablets
