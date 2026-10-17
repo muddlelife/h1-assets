@@ -16,5 +16,4 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-406056744
 3CX SBC

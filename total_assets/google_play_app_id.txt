@@ -44,19 +44,26 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.evernote
-Android Playstation App
-com.zzkko
-com.romwe
-com.zhiliaoapp.musically
-com.ss.android.ugc.trill
-com.ss.android.ugc.now
-com.tiktok.tv
-com.zhiliao.musically.livewallpaper
-com.tiktokshop.seller
+ro.superbet.sport
+ro.superbet.games
+com.eero.android
+com.oceanwing.battery.cam
+com.oceanwing.FDMPrint
+com.anker.charging
+id=com.oceanwing.soundcore
+id=com.zhixin.controller
+https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
+https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
+com.immediasemi.android.blink
+com.ring.neighborhoods
+com.ringapp
+https://play.google.com/store/apps/details?id=com.worldcoin
+com.bykea.pk
+com.bykea.pk.partner
+com.trip.android
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 com.audible.application
 com.einnovation.temu
 Netflix Mobile Application for Android
-Klarna Android App (com.myklarnamobile)
