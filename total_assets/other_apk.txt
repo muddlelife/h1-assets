@@ -1,1 +1,2 @@
 com.clearme.clearapp
+com.wisdomtree.wtprime
