@@ -16,6 +16,6 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Drivers
-Database Tools
-Notion Desktop App
+Files.com Command Line Interface (CLI) App
+Files.com Desktop v6 App
+Files.com On-Premise Agent
