@@ -1,1 +1,1 @@
-https://www.authy.com/download/
+com.authy.authy
