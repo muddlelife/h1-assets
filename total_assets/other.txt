@@ -112,61 +112,12 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Any public (Internet-facing) infrastructure owned and operated by Palantir.
-Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-Wickr Pro/Wickr Me (all related technical components) (up to)
-Wickr Pro Android
-Wickr Pro iOS
-Wickr Pro Linux
-Wickr Me iOS
-Wickr Me Android
-Wickr Me Linux
-Wickr Me OS X
-Wickr Pro OS X
-Wickr Pro Windows
-Wickr Me Windows
-Hilton Franchised Properties
-Hilton Third Party Applications - *.hilton.com
-Managed Property Assets
-Enterprise Edition Products and Tools
-Evergreen
-MongoDB Owned GitHub Repositories
-Cluster-To-Cluster sync
-Compass
-Relational Migrator
-MongoDB Shell
-VS Code Plugin
-MongoDB Connectors
-MongoDB Atlas
-MongoDB Server
-MongoDB IntelliJ Plugin
-MongoDB Partner Integrations
-MongoDB MCP Server
-MongoDB Assistant
-Jira Projects
-Atlas Charts
-Atlas IAM
-Atlas Data Federation
-Atlas Payments/Billing
-MongoDB Atlas Agent Engine 
-MongoDB Atlas Agent Engine CLI and First Party Libraries
-Atlas Infinite
-Web3 - Smart Contracts Scope
-Tier 1
+github.com/deriv-com
+All Assets (other than Blinkit)
 Tier 2
-Notion Frontend
-Product API
-Public API
-Notion Integrations
-Privilege Escalation
-Notion Authentication
-Github Repositories or other public artifacts owned by makenotion
-Notion MCP
-831287358355275877
-961114489414094898
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
+Tier 1
+Tier 3
+Data Protection Program
 Deposit/Withdraw
 *.rhinternal.net
 *.robinhood.com

@@ -5,6 +5,8 @@ com.linkedin.android
 com.priceline.android.negotiator
 com.twitter.android
 ai.x.grok
+com.basecamp.bc3
+com.basecamp.hey
 com.Slack
 com.tinder
 com.coinbase.android
@@ -42,17 +44,13 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.wellsfargo.ceomobile
-com.wf.wellsfargomobile
-com.hilton.android.hhonors
-com.ripio.android
-com.deribit
-notion.id
-com.abercrombie.abercrombie
-com.abercrombie.hollister
-com.meesho.supply
-com.valmo.valmo
-dif.tech.plata
+com.application.zomato
+com.grofers.customerapp
+com.blinkit.bistro
+com.application.zomato.district
+com.wealthsimple
+com.wealthsimple.predict
+com.quora.android
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
@@ -64,4 +62,3 @@ dk.royalarena.app
 SUPERAPP (AOS)
 com.wolt.android
 com.wolt.courierapp
-d-you Wallet Android Test

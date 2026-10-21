@@ -1,8 +1,5 @@
 api-partner.spotify.com
 verified.clearme.com/v1/verification_sessions
-prod.meeshoapi.com
-https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
-https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
 api.twilio.com
 api.segment.io
 api.stytch.com
@@ -43,8 +40,3 @@ taskrouter.twilio.com
 telemetry.stytch.com
 test.stytch.com
 trunking.twilio.com
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists

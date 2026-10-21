@@ -1,4 +1,8 @@
 grok-build
+basecamp-setup.exe
+Basecamp.app
+HEY.app
+hey-mail
 https://salesforce.quip.com/blog/desktop
 Lens Studio
 UniFi Network Application
@@ -12,6 +16,3 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Drivers
-Database Tools
-Notion Desktop App
