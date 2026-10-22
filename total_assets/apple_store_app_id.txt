@@ -51,6 +51,14 @@ com.anchorfminc.Anchor
 com.wealthsimple.wealthsimple
 com.wealthsimple.predict
 com.quora.app.mobile
+com.marcus.ios-us
+com.marcus.ios-uk
+com.gs.pwmdigital.external
+com.gs.gstrader.external
+com.gs.gsnow.external
+GS Select iOS app
+1457958492
+id6443932656
 1634080733
 6462308655
 938003185
@@ -60,5 +68,3 @@ com.authy
 https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
 https://apps.apple.com/no/app/royal-arena/id1181913144
 SUPERAPP (IOS)
-1477299281
-943905271

@@ -51,6 +51,15 @@ com.application.zomato.district
 com.wealthsimple
 com.wealthsimple.predict
 com.quora.android
+com.marcus.android.uk
+com.marcus.android
+com.gs.pwmdigital.external.android
+com.gs.pfmg.wellness
+com.gs.mobile.trader
+com.gs.mobile.gsnow
+com.meesho.supply
+com.valmo.valmo
+dif.tech.plata
 com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
@@ -60,5 +69,3 @@ com.dd.doordash
 com.authy.authy
 dk.royalarena.app
 SUPERAPP (AOS)
-com.wolt.android
-com.wolt.courierapp

@@ -118,6 +118,16 @@ Tier 2
 Tier 1
 Tier 3
 Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.nnip.com
+*.nextcapital.com
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
 Deposit/Withdraw
 *.rhinternal.net
 *.robinhood.com

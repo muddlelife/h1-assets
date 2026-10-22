@@ -26,8 +26,6 @@
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
-*.algolia.net
-*.algolianet.com
 *.yelp.com
 *.yelpwifi.com
 *.scopely.io
@@ -91,6 +89,9 @@ http://*.grofers.com
 *.wealthsimple.com
 *.simpletax.ca
 *.quora.com
+*.fetlife.com
+*.platacard.mx
+*.bancoplata.mx
 https://*.saytechnologies.com
 *.sip.*.twilio.com
 static*.twilio.com
@@ -100,4 +101,3 @@ static*.twilio.com
 *.andurildev.au
 *.anduril.au
 *.anduril.com.au
-*.wolt.com
