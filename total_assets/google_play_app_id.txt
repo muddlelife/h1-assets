@@ -39,33 +39,9 @@ com.paypal.merchant.client
 com.paypal.android.p2pmobile
 com.venmo
 com.starbucks.mobilecard
-com.spotify.tv.android
-com.spotify.s4a
-com.spotify.music
-com.spotify.kids
-fm.anchor.android
 com.application.zomato
 com.grofers.customerapp
 com.blinkit.bistro
 com.application.zomato.district
-com.wealthsimple
-com.wealthsimple.predict
-com.quora.android
-com.marcus.android.uk
-com.marcus.android
-com.gs.pwmdigital.external.android
-com.gs.pfmg.wellness
-com.gs.mobile.trader
-com.gs.mobile.gsnow
-com.meesho.supply
-com.valmo.valmo
-dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
-com.dd.doordash
-com.authy.authy
-dk.royalarena.app
-SUPERAPP (AOS)
+com.skypicker.main
+com.dyson.mobile.android

@@ -99,40 +99,11 @@ Braintree SDK
 PayPal SDK
 Account restrictions and control bypasses - campaign
 Subdomain Takeover (SDTO)
-Other Spotify websites
-Anchor
-Megaphone
-Podsights
-Sonantic
-Core Assets
-Non-Core Assets
-GHE
-Jira
-Okta
-VPN
-Wrapped
-DRM (Digital Rights Management) System
 github.com/deriv-com
 All Assets (other than Blinkit)
 Tier 2
 Tier 1
 Tier 3
 Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.nnip.com
-*.nextcapital.com
-NetScaler Gateway
-NetScaler ADC
-NetScaler AAA
-Deposit/Withdraw
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
-*.say.rocks
-*.saytechnologies.com
-Tier 3
-Any host/web property verified to be owned by Twilio et al.
+Other Dyson Assets
+Github findings
