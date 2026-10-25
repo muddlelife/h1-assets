@@ -5,13 +5,11 @@ passwordchallenge.marriott.com
 gateway*.marriott.com
 dcfgateway*.marriott.com
 lawmanager.marriott.com
-reservations.all-inclusive.marriott.com
 marrtool.com
 cpp.marriott.com
 editionhotels.com
 https://gatewaydsapprd.marriott.com/v2/
 www.marriott.com
-*uat.marriott.com
 moments.marriottbonvoy.com
 help.marriott.com
 traveler.marriott.com

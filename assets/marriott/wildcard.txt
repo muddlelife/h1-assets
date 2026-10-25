@@ -5,4 +5,3 @@
 *.apigatewayc.marriott.com
 *.apigwc.marriott.com
 *.artifactory.marriott.com
-*.sba.marriott.com

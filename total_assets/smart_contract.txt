@@ -1,3 +1,5 @@
-https://solscan.io/account/GWvQinGBRa7ZUzhXY23MrLjdsx3KfRGxH8yXURBwrz1R
-https://solscan.io/account/sxzuA7TuRvjVbrXkJUgrYq2hfjVf3RFd8WFaSxt2rYm
-https://solscan.io/account/B2RFzpckwjtHXHMrPMKarg6Cj6xkSdT6mru4gJiJE87L
+https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
+https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
+https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
+https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts

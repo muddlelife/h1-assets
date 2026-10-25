@@ -9,3 +9,4 @@ com.hcom.android
 com.vrbo.android
 com.carrentals
 com.homeaway.android
+https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en

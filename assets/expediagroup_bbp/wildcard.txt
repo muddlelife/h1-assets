@@ -7,14 +7,12 @@
 *.lastminute.com.au
 *.travelocity.com
 *.travelocity.ca
-*.expediacruises.com
 *.expediapartnercentral.com
 *.tiqets.com
 *.expedia.com
 *.abritel.fr
 *.bookabach.co.nz
 *.ean.com
-*.expediaagents.com
 *.expediagroup.com
 *.expediapartnersolutions.com
 *.fewo-direkt.de
@@ -26,3 +24,4 @@
 *.stayz.com.au
 *.expediataap.com
 *.expediataaprewards.com
+*.expedia.biz
