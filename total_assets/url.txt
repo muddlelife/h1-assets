@@ -28,6 +28,7 @@ api.cloudflare.com
 *.cloudflare.com
 http://github.com/cloudflare
 one.dash.cloudflare.com
+https://php-rce.cloudflare.app/
 api.wordpress.org
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 mercantile.wordpress.org
