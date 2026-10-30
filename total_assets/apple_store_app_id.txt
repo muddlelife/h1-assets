@@ -44,3 +44,37 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
+476639005
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
+com.skypicker.Skypicker
+993135524
+Exness Trade: Online Trading
+Exness Investor
+1118448159
+978342143
+1192506963
+com.brave.ios.browser
+597940518
+com.enjin.mobile.wallet
+930441707
+351331194
+403684733
+6444040977
+983980808
+com.grammarly.keyboard
+io.coda
+com.superhuman.mail 
+id1520720139
+id1534920947
+com.valvesoftware.Steam
+com.whoop.iphone
+1457958492
+id6443932656
+1634080733
+6462308655
+938003185
+Id1406825640
+doordash.DoorDashConsumer
+com.authy
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
+https://apps.apple.com/no/app/royal-arena/id1181913144
