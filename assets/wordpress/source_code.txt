@@ -8,6 +8,4 @@ WP-CLI
 Official WordPress plugins
 Secure Custom Fields
 SQLite Database Integration
-Create Block Theme
-Other github.com/wordpress repos
 Playground
