@@ -1,4 +1,3 @@
-grok-build
 basecamp-setup.exe
 Basecamp.app
 HEY.app
@@ -17,18 +16,6 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Files.com Command Line Interface (CLI) App
-Files.com Desktop v6 App
-Files.com On-Premise Agent
-Acronis Agent
-Acronis Cyber Protect
-Acronis DeviceLock DLP
-Acronis Snap Deploy
-Other Acronis executables
-Acronis Cloud Manager
-Acronis True Image (formerly Acronis Cyber Protect Home Office)
-Burp Suite Pro/Community
-Burp Collaborator
 Roblox Client
 Roblox Studio
 Roblox Engine
@@ -43,3 +30,11 @@ EOS C# SDK
 UnrealEditorFortnite-Win64-Shipping.exe
 EpicGamesLauncher.exe    
 UEFN
+Streamlabs Desktop Application PC/MAC
+Logi Tune PC/MAC
+Logitech Sync
+G Hub
+Logi Options+ PC/MAC
+Logitech MIXLINE
+Front for Mac
+Front for Windows

@@ -44,14 +44,6 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-993135524
-Exness Trade: Online Trading
-Exness Investor
-1118448159
-978342143
-1192506963
-597940518
-com.enjin.mobile.wallet
 930441707
 351331194
 403684733
@@ -67,5 +59,23 @@ apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 com.monaco.mobile
 740514933
 455004730
-1477299281
-943905271
+674258465
+632344648
+1018340690
+1294578643
+1476615877
+1456293789
+328407587
+com.mercadopago.MercadoPago
+com.3mosquitos.MercadoLibre
+com.creditkarma.mobile
+com.creditkarma.mobile.international
+1032480595
+982922982
+599664106
+1506229470
+1485539253
+6740879082
+1413721906
+com.frontapp.mobile
+545599256

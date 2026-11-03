@@ -111,20 +111,6 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Other Dyson Assets
-Github findings
-FIles.com REST API
-Files.com SDKs and MCP
-Files.com Mobile App
-Other Acronis Domains
-Acronis Cyber Infrastructure
-Burp Suite DAST
-Other Semrush Related Asset
-Leaked/Сompromised Employee accounts
-Other APK Assets
-Other Hardware Assets
-MIUI OS for Xiaomi Phone
-Enjin Blockchain
 Grammarly Browser Extensions
 Capture the Flag
 Superhuman Go
@@ -145,3 +131,13 @@ Open Scope
 Lakebase-Supported extensions
 com.affirm.internal.hackerone
 CrowdStrike public infrastructure
+Faucets
+Crypto
+Leaked Credentials
+Tier 3
+Wonder
+Android & iOS App for Instacart Shoppers
+Android App
+iOS App
+Core Assets
+Non-Core Assets
