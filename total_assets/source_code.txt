@@ -39,7 +39,3 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-https://github.com/discourse/discourse
-https://github.com/nodejs/node
-https://github.com/smartcontractkit/external-adapters-js/
-https://github.com/smartcontractkit/chainlink

@@ -44,38 +44,18 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-930441707
-351331194
-403684733
-6444040977
-983980808
-com.grammarly.keyboard
-io.coda
-com.superhuman.mail 
-id1520720139
-id1534920947
-com.valvesoftware.Steam
-apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-com.monaco.mobile
-740514933
-455004730
-674258465
-632344648
-1018340690
-1294578643
-1476615877
-1456293789
-328407587
-com.mercadopago.MercadoPago
-com.3mosquitos.MercadoLibre
-com.creditkarma.mobile
-com.creditkarma.mobile.international
-1032480595
-982922982
-599664106
-1506229470
-1485539253
-6740879082
-1413721906
-com.frontapp.mobile
-545599256
+iOS Playstation App
+878577184
+1080248000
+835599320
+1235601864
+641062073
+1591003012
+Starbucks China iOS
+Starbucks Japan iOS
+com.nbaimd.gametime.universal
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+https://apps.apple.com/us/app/verily-me/id6448808133
+HubSpot iOS Mobile App
+com.whoop.iphone
+1457958492

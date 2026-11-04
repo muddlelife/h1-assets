@@ -1,4 +1,2 @@
-Arc on Mac
-Arc on Windows
 Dia on Windows
 Dia on MacOS
