@@ -44,35 +44,12 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-Android Playstation App
-com.zzkko
-com.romwe
-com.zhiliaoapp.musically
-com.ss.android.ugc.trill
-com.ss.android.ugc.now
-com.tiktok.tv
-com.zhiliao.musically.livewallpaper
-com.tiktokshop.seller
-Starbucks China Android
-Starbucks Japan Android
-com.nbaimd.gametime.nba2011
-com.syfe
-https://play.google.com/store/apps/details?id=com.verily.me
-HubSpot Android Mobile App
-com.coloros.video
-com.heytap.browser
-com.heytap.cloud
-com.heytap.health.international
-com.heytap.market
-com.heytap.themestore
-com.heytap.xgame
-com.oplus.account
-com.oplus.themestore
-com.oppo.market
-com.oppo.quicksearchbox
-com.heytap.store
-com.heytap.mall
-com.oppo.store
-com.whoop.android
-com.meesho.supply
-com.valmo.valmo
+com.deribit
+notion.id
+com.abercrombie.abercrombie
+com.abercrombie.hollister
+om.vodafone.mva
+com.boozt
+com.booztlet
+ro.superbet.sport
+ro.superbet.games

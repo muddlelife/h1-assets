@@ -44,18 +44,9 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-iOS Playstation App
-878577184
-1080248000
-835599320
-1235601864
-641062073
-1591003012
-Starbucks China iOS
-Starbucks Japan iOS
-com.nbaimd.gametime.universal
-https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
-https://apps.apple.com/us/app/verily-me/id6448808133
-HubSpot iOS Mobile App
-com.whoop.iphone
-1457958492
+1293674041
+339041767
+383915209
+1589071345
+com.boozt.app
+com.boozt.booztlet

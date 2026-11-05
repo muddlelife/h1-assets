@@ -15,3 +15,5 @@ https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/vercel/eve
 https://github.com/vercel/ms
+https://github.com/sveltejs/kit
+https://github.com/better-auth/better-auth

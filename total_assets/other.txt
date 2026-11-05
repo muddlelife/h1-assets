@@ -111,30 +111,27 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-H5G/Agency
-mail.hostinger.com
-Managed OpenClaw
-s3://faraday-secret
-gs://fdy-production-sdk-uploads
-gs://faraday-secret
-BigQuery
-Figma Atlassian App
-Figma Desktop App
-Figma iOS and Android apps
-Figma Slack App
-Figma for Microsoft Teams
-Figma Weave
-Other Asset (Campaigns)
-Customer Portal
-Customer Connected Domain
-HubSpot Sales Office 365 add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope
-ColorOS
-Low Level Properties and Test environment
-Neon-supported extensions
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-Dia Assistant
-WHOOP 4.0 STRAP
-join.whoop.com
-WHOOP 5.0/MG STRAP
+Tier 1
+Tier 2
+Notion Frontend
+Product API
+Public API
+Notion Integrations
+Privilege Escalation
+Notion Authentication
+Github Repositories or other public artifacts owned by makenotion
+Notion MCP
+831287358355275877
+961114489414094898
+Any public cloud resource or infrastructure operated and managed by REI.
+Android & iOS App for REI Customers
+Vercel sandbox
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
