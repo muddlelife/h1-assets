@@ -1,2 +1,2 @@
 com.clearme.clearapp
-com.wisdomtree.wtprime
+com.larksuite.suite

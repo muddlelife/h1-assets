@@ -6,4 +6,4 @@ oauth-sandbox.gocardless.com
 ob.gocardless.com
 payer-details-sandbox.gocardless.com
 manage-sandbox.gocardless.com
-developer.gocardless.com
+docs.gocardless.com

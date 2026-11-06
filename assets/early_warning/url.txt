@@ -2,3 +2,11 @@ zelleservice.my.site.com
 ews-fusion.my.site.com
 zelleservice.my.salesforce.com
 www.certos.com
+https://accountinfo.earlywarning.com
+accountinfodirect.earlywarning.com
+accountinfodirect-snd.earlywarning.com
+https://aoa-ws.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws-direct.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+https://aoa-ws-direct-snd.earlywarning.com/aoainquiryservice/services/aoainquiryservice
+inquirydirect.earlywarning.com
+aoa-ws-fis.earlywarning.com

@@ -7,3 +7,4 @@ reach.hostinger.com
 agents.hostinger.com
 http://payments.hostinger.com
 ecommerce.hostinger.com
+ai-builder.hostinger.com
