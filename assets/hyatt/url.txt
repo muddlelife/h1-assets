@@ -1,4 +1,3 @@
-hyatt.com
 www.hyatt.com
 world.hyatt.com
 assets.hyatt.com

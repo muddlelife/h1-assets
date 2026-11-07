@@ -1,2 +1,2 @@
 HEY.exe
-9wzdncrfj3mb
+com.katanlabs.worm.ioeatemall
