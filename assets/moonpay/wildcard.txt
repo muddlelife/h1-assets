@@ -3,3 +3,4 @@
 *.moonpay.com
 *.iron.xyz
 *.swaps.xyz
+*.dflow.net

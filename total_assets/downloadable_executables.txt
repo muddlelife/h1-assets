@@ -16,8 +16,6 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-Files.com Command Line Interface (CLI) App
-Files.com Desktop v6 App
-Files.com On-Premise Agent
-Dia on Windows
-Dia on MacOS
+doppler
+https://download.krisp.ai/win
+https://download.krisp.ai/mac

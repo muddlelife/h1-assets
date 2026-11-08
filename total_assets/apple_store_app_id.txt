@@ -44,28 +44,23 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-434613896
-960335206
-6670203019
-6670536058
-com.wealthsimple.wealthsimple
-com.wealthsimple.predict
-com.quora.app.mobile
-com.marcus.ios-us
-com.marcus.ios-uk
-com.gs.pwmdigital.external
-com.gs.gsnow.external
-GS Select iOS app
-476639005
-https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
-com.skypicker.Skypicker
-993135524
-Exness Trade: Online Trading
-Exness Investor
-Starbucks China iOS
-Starbucks Japan iOS
-com.nbaimd.gametime.universal
-https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
-https://apps.apple.com/us/app/verily-me/id6448808133
-HubSpot iOS Mobile App
-com.whoop.iphone
+835599320
+1235601864
+641062073
+1591003012
+319881193
+978516833
+Whatnot: Shop, Sell, Connect
+com.newegg.app
+1091010942
+https://apps.apple.com/app/id1635031432
+1457958492
+id6443932656
+1634080733
+6462308655
+938003185
+Id1406825640
+doordash.DoorDashConsumer
+com.authy
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
+https://apps.apple.com/no/app/royal-arena/id1181913144

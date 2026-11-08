@@ -1,6 +1,3 @@
-*.anduril.com
 *.andurildev.com
 *.anduril.dev
 *.andurildev.au
-*.anduril.au
-*.anduril.com.au

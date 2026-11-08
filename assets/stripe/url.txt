@@ -8,3 +8,6 @@ app.taxjar.com
 *.reckostaging.com
 *.link.co
 mcp.stripe.com
+files.stripe.com
+stripe.com
+stripe.dev

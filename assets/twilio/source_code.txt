@@ -20,4 +20,3 @@ github.com/stytchauth/stytch-rust
 github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
-https://github.com/stytchauth
