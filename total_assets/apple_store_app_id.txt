@@ -44,16 +44,28 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-835599320
-1235601864
-641062073
-1591003012
-319881193
-978516833
-Whatnot: Shop, Sell, Connect
-com.newegg.app
-1091010942
-https://apps.apple.com/app/id1635031432
+Exness Trade: Online Trading
+Exness Investor
+1118448159
+978342143
+1192506963
+597940518
+com.enjin.mobile.wallet
+930441707
+351331194
+403684733
+6444040977
+983980808
+com.grammarly.keyboard
+io.coda
+com.superhuman.mail 
+id1520720139
+id1534920947
+com.valvesoftware.Steam
+apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+com.monaco.mobile
+740514933
+455004730
 1457958492
 id6443932656
 1634080733
