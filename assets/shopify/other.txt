@@ -1,3 +1,4 @@
 Shopify Developed Apps
 Shopify Mobile Applications
-Authentication & ATO
+Sidekick
+Shop Minis

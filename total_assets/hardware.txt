@@ -16,3 +16,10 @@ UniFi Connect
 Enterprise Audio/Video
 UniFi-Play
 GitHub Enterprise Server
+Echo Family Devices
+FireTV
+Kindle E-Reader
+Luna
+Tablets
+PlayStation 4
+PlayStation 5

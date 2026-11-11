@@ -76,7 +76,8 @@ UID
 Localized airbnb sites listed at the link below:
 Shopify Developed Apps
 Shopify Mobile Applications
-Authentication & ATO
+Sidekick
+Shop Minis
 C100447517
 C103149579
 Cloud & 3rd-Party Services (First-Party Misconfigurations)
@@ -111,16 +112,34 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-github.com/deriv-com
-All Assets (other than Blinkit)
-Tier 2
-Tier 1
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
+https://www.amazonpay.in/*
+Vega OS
+Devices
+Services/Mobile/GenAI
+H5G/Agency
+mail.hostinger.com
+Managed OpenClaw
+s3://faraday-secret
+gs://fdy-production-sdk-uploads
+gs://faraday-secret
+BigQuery
+Figma Atlassian App
+Figma Desktop App
+Figma iOS and Android apps
+Figma Slack App
+Figma for Microsoft Teams
+Figma Weave
+Other Asset (Campaigns)
+NetScaler Gateway
+NetScaler ADC
+NetScaler AAA
+Deposit/Withdraw
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+*.say.rocks
+*.saytechnologies.com
 Tier 3
-Data Protection Program
-*.advisorsolutions.gs.com
-*.folioclient.com
-*.foliofn.com
-*.folioidentity.com
-*.folioinstitutional.com
-*.nnip.com
-*.nextcapital.com
+Any host/web property verified to be owned by Twilio et al.

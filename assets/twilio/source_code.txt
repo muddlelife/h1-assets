@@ -1,7 +1,6 @@
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
-github.com/stytchauth/samlshield
 github.com/stytchauth/stytch-android
 github.com/stytchauth/stytch-browser
 github.com/stytchauth/stytch-dotnet

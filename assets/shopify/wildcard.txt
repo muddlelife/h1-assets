@@ -4,3 +4,4 @@
 *.shopifycloud.com
 *.shopifycs.com
 *.pci.shopifyinc.com
+*.shopifysvc.com

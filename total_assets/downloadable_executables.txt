@@ -16,3 +16,5 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
+Exodus Desktop Wallet
+406056744
