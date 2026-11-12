@@ -44,6 +44,28 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
+com.mercadopago.wallet
+com.mercadolibre
+com.mercadoenvios.driver
+com.mercadoenvios.crowdsourcing
+com.mercadoenvios.logistics
+com.mercadolibre.android.mplay_tv
+com.creditkarma.mobile
+com.creditkarma.mobile.international
+com.urbanclap.provider
+com.urbanclap.urbanclap
+com.fanduel.android.self
+com.fanduel.sportsbook
+com.fanduel.casino
+com.fanduel.racing
+com.frontapp.mobile
+com.instacart.client
+via.rider
+ com.citymapper.app.release
+ridewithvia.neoridelittlerock
+ridewithvia.par.piercetransit
+com.coinspot.app
+Android Box Mobile App
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 com.amazon.mShop.android.shopping
 amazon.speech.sim
@@ -89,23 +111,32 @@ com.amazon.tahoe.freetime
 com.amazon.tails
 com.evernote
 Android Playstation App
-com.zzkko
-com.romwe
-com.zhiliaoapp.musically
-com.ss.android.ugc.trill
-com.ss.android.ugc.now
-com.tiktok.tv
-com.zhiliao.musically.livewallpaper
-com.tiktokshop.seller
+https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://play.google.com/store/apps/details?id=com.tcx.sipphone14
+com.audible.application
+com.einnovation.temu
+Netflix Mobile Application for Android
+io.walt.app
+Klarna Android App (com.myklarnamobile)
+com.nbaimd.gametime.nba2011
+com.syfe
+https://play.google.com/store/apps/details?id=com.verily.me
+HubSpot Android Mobile App
+com.coloros.video
+com.heytap.browser
+com.heytap.cloud
+com.heytap.health.international
+com.heytap.market
+com.heytap.themestore
+com.heytap.xgame
+com.oplus.account
+com.oplus.themestore
+com.oppo.market
+com.oppo.quicksearchbox
+com.heytap.store
+com.heytap.mall
+com.oppo.store
+com.whoop.android
 com.meesho.supply
 com.valmo.valmo
 dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
-com.dd.doordash
-com.authy.authy
-dk.royalarena.app
-SUPERAPP (AOS)

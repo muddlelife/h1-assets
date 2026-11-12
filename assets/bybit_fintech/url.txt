@@ -2,3 +2,8 @@ http://testnet.bybit.eu
 http://www.bybit.com/trade/tradfi/
 http://www.bybit.com/en/alpha/overview/
 http://www.byreal.io
+https://www.bybit.com/en/stocks
+https://testnet.bybit.com/en/trade/usdt/btcusdt
+https://testnet.bybit.com/en/trade/option/usdt/spcx
+https://testnet.bybit.com/en/trade/odds/
+https://testnet.bybit.com/en/earn/rwa/

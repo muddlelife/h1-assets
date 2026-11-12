@@ -44,6 +44,26 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
+com.mercadopago.MercadoPago
+com.3mosquitos.MercadoLibre
+com.creditkarma.mobile
+com.creditkarma.mobile.international
+1032480595
+982922982
+599664106
+1506229470
+1485539253
+6740879082
+1413721906
+com.frontapp.mobile
+545599256
+657777015
+469463298
+6449737830
+6464473474
+1452166623
+1541949985
+iOS Box Mobile App
 exodus-movement.exodus
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 297606951
@@ -83,20 +103,17 @@ https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 947984433
 281796108
 iOS Playstation App
-878577184
-1080248000
-835599320
-1235601864
-641062073
-1591003012
+https://apps.apple.com/us/app/bybit-app/id1488296980
+https://apps.apple.com/us/app/3cx/id992045982
+379693831
+1641486558
+Netflix Mobile Application for iOS
+https://apps.apple.com/app/chia-signer/id6504493785 
+Klarna iOS App (com.klarna.app)
+com.nbaimd.gametime.universal
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+https://apps.apple.com/us/app/verily-me/id6448808133
+HubSpot iOS Mobile App
+com.whoop.iphone
 1457958492
 id6443932656
-1634080733
-6462308655
-938003185
-Id1406825640
-doordash.DoorDashConsumer
-com.authy
-https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
-https://apps.apple.com/no/app/royal-arena/id1181913144
-SUPERAPP (IOS)

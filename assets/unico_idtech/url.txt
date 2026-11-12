@@ -9,4 +9,7 @@ openfinance.unico.io
 secure.unico.io
 blog.unico.io
 unico.io
-devcenter.unico.io
+humantoken.unico.app
+api.humantoken.unico.app
+dashboard.unico.app
+developer.unico.io
