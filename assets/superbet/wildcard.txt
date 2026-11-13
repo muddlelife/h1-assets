@@ -1,9 +1,6 @@
 *.superbet.ro
 *.superbet.rs
 *.superbet.com
-*.spinaway.com
-*.luckydays.com
-*.luckydays.ca
 *.napoleoncasino.be
 *.napoleondice.be
 *.napoleongames.be
@@ -12,3 +9,4 @@
 *.happening.dev
 *.superbet.gr
 *.super.xyz
+*.maxbet.ro
