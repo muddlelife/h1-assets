@@ -2,3 +2,4 @@
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
+*.hilton.com.cn

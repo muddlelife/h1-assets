@@ -16,4 +16,6 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-3CX SBC
+Drivers
+Database Tools
+Notion Desktop App
