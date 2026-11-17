@@ -1,3 +1,2 @@
 Workers AI
 Penny
-API & SDKs

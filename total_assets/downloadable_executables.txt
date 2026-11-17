@@ -16,4 +16,10 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-3CX SBC
+doppler
+HyprUnlock.exe
+HYPR Workforce Access.app
+https://download.krisp.ai/win
+https://download.krisp.ai/mac
+Dia on Windows
+Dia on MacOS
