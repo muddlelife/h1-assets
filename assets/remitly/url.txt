@@ -64,3 +64,4 @@ remitlywallet.com
 remitresearch.com
 travelcash.money
 whyisend.com
+api.remitly.com

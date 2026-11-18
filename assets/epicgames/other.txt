@@ -3,3 +3,4 @@ EpicOnlineServices
 v1staging.kidswebservices.com 
 v1. kidswebservices.com
 Zenserver
+EpicGamesLauncher v2

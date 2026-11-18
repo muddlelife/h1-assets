@@ -5,5 +5,4 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 EOS C# SDK
 UnrealEditorFortnite-Win64-Shipping.exe
-EpicGamesLauncher.exe    
 UEFN
