@@ -26,6 +26,7 @@ https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 com.airbnb.android
 com.kayak.android
+com.moneybird.android
 com.grabtaxi.passenger
 com.grabtaxi.driver2
 com.grabpay.merchant
@@ -43,41 +44,23 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-com.application.zomato
-com.grofers.customerapp
-com.blinkit.bistro
-com.application.zomato.district
-com.wealthsimple
-com.wealthsimple.predict
-com.quora.android
-com.syfe
-https://play.google.com/store/apps/details?id=com.verily.me
-HubSpot Android Mobile App
-com.coloros.video
-com.heytap.browser
-com.heytap.cloud
-com.heytap.health.international
-com.heytap.market
-com.heytap.themestore
-com.heytap.xgame
-com.oplus.account
-com.oplus.themestore
-com.oppo.market
-com.oppo.quicksearchbox
-com.heytap.store
-com.heytap.mall
-com.oppo.store
-com.whoop.android
-COUPANG (AOS)
-COUPANG EATS (AOS)
-COUPANG LIVE CREATOR (AOS)
-COUPANG PLAY (AOS)
-com.meesho.supply
-com.valmo.valmo
-com.valmo.ops
-dif.tech.plata
-com.robinhood.android
-com.robinhood.gateway
-com.robinhood.money
-net.bitstamp.app
-com.robinhood.global Android
+com.zzkko
+com.romwe
+com.zhiliaoapp.musically
+com.ss.android.ugc.trill
+com.ss.android.ugc.now
+com.tiktok.tv
+com.zhiliao.musically.livewallpaper
+com.tiktokshop.seller
+com.immediasemi.android.blink
+com.ring.neighborhoods
+com.ringapp
+https://play.google.com/store/apps/details?id=com.worldcoin
+com.bykea.pk
+com.bykea.pk.partner
+com.trip.android
+https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://play.google.com/store/apps/details?id=com.tcx.sipphone14
+com.audible.application
+com.einnovation.temu
+Netflix Mobile Application for Android

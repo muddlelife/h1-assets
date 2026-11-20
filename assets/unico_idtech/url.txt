@@ -1,3 +1,4 @@
+backend-sdk.prod.private.unico.run
 accountshomolog.acesso.io
 identityhomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -5,11 +6,10 @@ https://sdk-h1.unico.io/createprocess
 idpay-uat.unico.io
 issuer.idpay-uat.unico.io
 idcash-uat.unico.io
-openfinance.unico.io
 secure.unico.io
-blog.unico.io
 unico.io
 humantoken.unico.app
 api.humantoken.unico.app
 dashboard.unico.app
 developer.unico.io
+cadastro.unico.app
