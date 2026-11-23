@@ -1,2 +1,2 @@
 api-partner.spotify.com
-app.klarna.com
+verified.clearme.com/v1/verification_sessions

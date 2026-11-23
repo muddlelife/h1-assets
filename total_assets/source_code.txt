@@ -39,16 +39,4 @@ Android SDK
 Web Playback SDK
 Core Backstage source code
 https://github.com/backstage/backstage
-Open Source - Atlas
-https://github.com/Chia-Network/chia-blockchain
-https://github.com/Chia-Network/chia-blockchain-gui
-https://github.com/Chia-Network/clvm_rs
-https://github.com/Chia-Network/chia_rs
-https://github.com/Chia-Network/chiapos
-https://github.com/Chia-Network/chiavdf
-https://github.com/circlefin/stablecoin-sui
-https://github.com/circlefin/stablecoin-aptos
-https://github.com/circlefin/sui-cctp
-https://github.com/circlefin/stablecoin-starknet
-https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/stablecoin-xlm
+github.com/binary-com

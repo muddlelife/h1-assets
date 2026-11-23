@@ -112,12 +112,18 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
-Merchant Portal
+github.com/deriv-com
+All Assets (other than Blinkit)
+Tier 2
+Tier 1
+Tier 3
+Data Protection Program
+*.advisorsolutions.gs.com
+*.folioclient.com
+*.foliofn.com
+*.folioidentity.com
+*.folioinstitutional.com
+*.nnip.com
+*.nextcapital.com
+Other Dyson Assets
+Github findings
