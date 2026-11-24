@@ -166,3 +166,5 @@ https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/unifiedpayments
 https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/devicemanagement
+https://ebc2test.cybersource.com/currencyconversion
+lac-visa-payments-day.visa.com
