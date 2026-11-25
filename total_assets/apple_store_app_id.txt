@@ -44,11 +44,9 @@ com.spotify.client
 com.spotify.s4a
 com.spotify.kids
 com.anchorfminc.Anchor
-Citrix Secure Access client for macOS
-319881193
-978516833
-1091010942
-https://apps.apple.com/app/id1635031432
+1589071345
+com.boozt.app
+com.boozt.booztlet
 1023499075
 com.security.BatteryCam
 com.anker.AnkerMake
@@ -70,4 +68,3 @@ https://apps.apple.com/us/app/3cx/id992045982
 379693831
 1641486558
 Netflix Mobile Application for iOS
-https://apps.apple.com/app/chia-signer/id6504493785 

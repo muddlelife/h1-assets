@@ -44,11 +44,11 @@ com.spotify.s4a
 com.spotify.music
 com.spotify.kids
 fm.anchor.android
-Citrix Secure Access client for Android
-com.grindrapp.android
-com.stripe.android.dashboard
-ca.koho
-https://play.google.com/store/apps/details?id=com.moonpay
+om.vodafone.mva
+com.boozt
+com.booztlet
+ro.superbet.sport
+ro.superbet.games
 com.eero.android
 com.oceanwing.battery.cam
 com.oceanwing.FDMPrint

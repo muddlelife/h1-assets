@@ -112,47 +112,16 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-Citrix Secure Access client for Windows
-Citrix Secure Access client for iOS
-Citrix Secure Access client for Linux
-Citrix End Point Analysis (EPA) client for Linux
-Citrix End Point Analysis (EPA) client for Windows
-Stripe Payments
-Stripe Checkout
-Stripe Connect
-Stripe Terminal
-Stripe Billing
-Stripe Elements
-Stripe Dashboard
-Stripe Issuing
-Stripe Radar
-Stripe Sigma
-Stripe Atlas
-Stripe SDKs
-Stripe Open Source
-Stripe Apps
-Stripe Payment Links
-Stripe Invoicing
-Stripe Financial Connections
-Stripe Revenue Recognition
-Stripe Identity
-Stripe Climate
-Stripe Data Pipeline
-Stripe Tax
-Stripe Capital
-Stripe Treasury
-Stripe for Visual Studio Code
-Tap to Pay (Android)
-Tap to Pay (iOS)
-Sandboxes
-Organizations
-Smokescreen Open Source Project
-Munkisrv Open Source Project
-Stripe CLI
-Stripe Projects
-Stripe fiat-to-crypto onramp
-Global Payouts
-Customer Portal
+Vercel sandbox
+WGP Slot Games
+https://napoleoncasino.be/nl-be/game/plinko-napoleon?demo=false
+Mac OS Executable
+Windows OS Executable
+OKX Android APK
+OKX iOS APP
+OKX Wallet Chrome Extension
+OKX Wallet Edge Add-ons
+OKX Wallet Safari Extension
 eufyMake Studio(2D UV)
 https://ring.com/*
 https://api.ring.com/*
@@ -191,4 +160,3 @@ Microsites
 Open Source - Spectator
 Secondary Assets
 Content Authorization Targets
-[Unico] Liveness Bypass

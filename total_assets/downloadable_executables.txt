@@ -15,5 +15,5 @@ GitHub CLI
 npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
-doppler
+Rockstar Games Launcher
 3CX SBC
