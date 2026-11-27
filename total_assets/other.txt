@@ -112,18 +112,12 @@ Okta
 VPN
 Wrapped
 DRM (Digital Rights Management) System
-*.audible.(TLD)
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/wagmi
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-@privy-io controlled namespace dependencies
-Corporate Assets
-Open Source - Zuul
-Microsites
-Open Source - Spectator
-Secondary Assets
-Content Authorization Targets
-[Unico] Liveness Bypass
-Crypto infrastructure for cold and hot wallets
+https://apps.facebook.com/pokerheat
+https://apps.facebook.com/vegas_downtown_slots
+https://apps.facebook.com/pearls-peril
+1474700 (Steam app id)
+Tier 1 Studios
+Tier 2
+Tier 3
+Tier 1
+Other

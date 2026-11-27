@@ -8,3 +8,5 @@ https://*.khealth.com
 *.primarycareondemand.mayoclinic.org
 *.novanthealthvirtualprimarycare.org
 *.pennmedicine.connect-visit.com
+*.atlantichealthvirtualcare.org
+*.uvahealthpcod.org
