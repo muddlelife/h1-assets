@@ -16,5 +16,3 @@ npm CLI
 Spotify desktop application (Windows and Mac)
 Save to Spotify CLI
 Rockstar Games Launcher
-https://download.krisp.ai/win
-https://download.krisp.ai/mac
